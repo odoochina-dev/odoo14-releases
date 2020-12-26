@@ -13606,6 +13606,7 @@ odoo/addons/portal_rating/i18n/vi.po
 odoo/addons/portal_rating/i18n/zh_CN.po
 odoo/addons/portal_rating/i18n/zh_TW.po
 odoo/addons/portal_rating/models/__init__.py
+odoo/addons/portal_rating/models/ir_http.py
 odoo/addons/portal_rating/models/mail_message.py
 odoo/addons/portal_rating/models/rating.py
 odoo/addons/portal_rating/static/src/js/portal_chatter.js
@@ -17998,6 +17999,7 @@ odoo/addons/stock_account/report/report_stock_forecasted.xml
 odoo/addons/stock_account/security/ir.model.access.csv
 odoo/addons/stock_account/security/stock_account_security.xml
 odoo/addons/stock_account/tests/__init__.py
+odoo/addons/stock_account/tests/test_account_move.py
 odoo/addons/stock_account/tests/test_anglo_saxon_valuation_reconciliation_common.py
 odoo/addons/stock_account/tests/test_stock_valuation_layer_revaluation.py
 odoo/addons/stock_account/tests/test_stockvaluation.py
