@@ -20360,12 +20360,16 @@ odoo/addons/web_editor/static/shapes/Bold/02.svg
 odoo/addons/web_editor/static/shapes/Bold/03.svg
 odoo/addons/web_editor/static/shapes/Bold/04.svg
 odoo/addons/web_editor/static/shapes/Bold/05.svg
+odoo/addons/web_editor/static/shapes/Bold/05_001.svg
 odoo/addons/web_editor/static/shapes/Bold/06.svg
+odoo/addons/web_editor/static/shapes/Bold/06_001.svg
 odoo/addons/web_editor/static/shapes/Bold/07.svg
 odoo/addons/web_editor/static/shapes/Bold/08.svg
 odoo/addons/web_editor/static/shapes/Bold/09.svg
 odoo/addons/web_editor/static/shapes/Bold/10.svg
+odoo/addons/web_editor/static/shapes/Bold/10_001.svg
 odoo/addons/web_editor/static/shapes/Bold/11.svg
+odoo/addons/web_editor/static/shapes/Bold/11_001.svg
 odoo/addons/web_editor/static/shapes/Bold/12.svg
 odoo/addons/web_editor/static/shapes/Origins/01.svg
 odoo/addons/web_editor/static/shapes/Origins/02.svg
