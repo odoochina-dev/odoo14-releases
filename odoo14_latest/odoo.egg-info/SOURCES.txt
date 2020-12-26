@@ -10861,6 +10861,7 @@ odoo/addons/mrp_account/models/__init__.py
 odoo/addons/mrp_account/models/mrp_production.py
 odoo/addons/mrp_account/models/mrp_workcenter.py
 odoo/addons/mrp_account/models/product.py
+odoo/addons/mrp_account/models/stock_move.py
 odoo/addons/mrp_account/security/ir.model.access.csv
 odoo/addons/mrp_account/tests/__init__.py
 odoo/addons/mrp_account/tests/test_bom_price.py
@@ -11599,10 +11600,13 @@ odoo/addons/payment/static/img/cirrus.png
 odoo/addons/payment/static/img/codensa_easy_credit.png
 odoo/addons/payment/static/img/diners_club_intl.png
 odoo/addons/payment/static/img/discover.png
+odoo/addons/payment/static/img/eps.png
+odoo/addons/payment/static/img/giropay.png
 odoo/addons/payment/static/img/ideal.png
 odoo/addons/payment/static/img/jcb.png
 odoo/addons/payment/static/img/maestro.png
 odoo/addons/payment/static/img/mastercard.png
+odoo/addons/payment/static/img/p24.png
 odoo/addons/payment/static/img/unionpay.png
 odoo/addons/payment/static/img/visa.png
 odoo/addons/payment/static/img/webmoney.png
