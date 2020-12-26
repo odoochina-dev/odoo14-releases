@@ -4926,6 +4926,8 @@ odoo/addons/fleet/static/img/brand_trabant-image.png
 odoo/addons/fleet/static/img/brand_volkswagen-image.png
 odoo/addons/fleet/static/img/brand_volvo-image.png
 odoo/addons/fleet/static/img/brand_willys-image.png
+odoo/addons/fleet/tests/__init__.py
+odoo/addons/fleet/tests/test_access_rights.py
 odoo/addons/fleet/views/fleet_board_view.xml
 odoo/addons/fleet/views/fleet_vehicle_cost_views.xml
 odoo/addons/fleet/views/fleet_vehicle_model_views.xml
