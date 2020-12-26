@@ -46,7 +46,7 @@ class StockQuant(models.Model):
             return
         domain = [('type', '=', 'product')]
         if self.env.context.get('product_tmpl_ids') or self.env.context.get('product_tmpl_id'):
-            products = self.env.context.get('product_tmpl_id', []) + [self.env.context.get('product_tmpl_id', 0)]
+            products = self.env.context.get('product_tmpl_ids', []) + [self.env.context.get('product_tmpl_id', 0)]
             domain = expression.AND([domain, [('product_tmpl_id', 'in', products)]])
         return domain
 
@@ -413,7 +413,7 @@ class StockQuant(models.Model):
 
         for quant in quants:
             try:
-                with self._cr.savepoint():
+                with self._cr.savepoint(flush=False):  # Avoid flush compute store of package
                     self._cr.execute("SELECT 1 FROM stock_quant WHERE id = %s FOR UPDATE NOWAIT", [quant.id], log_exceptions=False)
                     quant.write({
                         'quantity': quant.quantity + quantity,
