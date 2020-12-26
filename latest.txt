@@ -21,3 +21,4 @@ odoo_14.0.20201017.tar.gz
 odoo_14.0.20201018.tar.gz
 odoo_14.0.20201019.tar.gz
 odoo_14.0.20201020.tar.gz
+odoo_14.0.20201021.tar.gz
