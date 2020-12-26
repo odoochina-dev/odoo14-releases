@@ -2159,6 +2159,7 @@ odoo/addons/base/tests/test_http_case.py
 odoo/addons/base/tests/test_image.py
 odoo/addons/base/tests/test_ir_actions.py
 odoo/addons/base/tests/test_ir_attachment.py
+odoo/addons/base/tests/test_ir_cron.py
 odoo/addons/base/tests/test_ir_default.py
 odoo/addons/base/tests/test_ir_filters.py
 odoo/addons/base/tests/test_ir_http.py
