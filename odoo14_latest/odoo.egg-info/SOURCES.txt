@@ -4240,6 +4240,8 @@ odoo/addons/crm_livechat/i18n/zh_CN.po
 odoo/addons/crm_livechat/i18n/zh_TW.po
 odoo/addons/crm_livechat/models/__init__.py
 odoo/addons/crm_livechat/models/mail_channel.py
+odoo/addons/crm_livechat/tests/__init__.py
+odoo/addons/crm_livechat/tests/test_crm_lead.py
 odoo/addons/crm_sms/__init__.py
 odoo/addons/crm_sms/__manifest__.py
 odoo/addons/crm_sms/i18n/ar.po
@@ -9681,6 +9683,7 @@ odoo/addons/mail/static/src/components/discuss/tests/discuss_domain_tests.js
 odoo/addons/mail/static/src/components/discuss/tests/discuss_inbox_tests.js
 odoo/addons/mail/static/src/components/discuss/tests/discuss_moderation_tests.js
 odoo/addons/mail/static/src/components/discuss/tests/discuss_pinned_tests.js
+odoo/addons/mail/static/src/components/discuss/tests/discuss_sidebar_tests.js
 odoo/addons/mail/static/src/components/discuss/tests/discuss_tests.js
 odoo/addons/mail/static/src/components/discuss_mobile_mailbox_selection/discuss_mobile_mailbox_selection.js
 odoo/addons/mail/static/src/components/discuss_mobile_mailbox_selection/discuss_mobile_mailbox_selection.scss
