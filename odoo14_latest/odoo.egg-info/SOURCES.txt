@@ -7321,10 +7321,12 @@ odoo/addons/l10n_ar/report/invoice_report.py
 odoo/addons/l10n_ar/report/invoice_report_view.xml
 odoo/addons/l10n_ar/security/ir.model.access.csv
 odoo/addons/l10n_ar/static/description/icon.png
+odoo/addons/l10n_ar/static/src/js/tours/account.js
 odoo/addons/l10n_ar/views/account_fiscal_position_view.xml
 odoo/addons/l10n_ar/views/account_journal_view.xml
 odoo/addons/l10n_ar/views/account_move_view.xml
 odoo/addons/l10n_ar/views/afip_menuitem.xml
+odoo/addons/l10n_ar/views/l10n_ar.xml
 odoo/addons/l10n_ar/views/l10n_ar_afip_responsibility_type_view.xml
 odoo/addons/l10n_ar/views/l10n_latam_document_type_view.xml
 odoo/addons/l10n_ar/views/report_invoice.xml
