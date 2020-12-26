@@ -19159,6 +19159,7 @@ odoo/addons/web_editor/static/shapes/Rainy/02.svg
 odoo/addons/web_editor/static/shapes/Rainy/03.svg
 odoo/addons/web_editor/static/shapes/Rainy/04.svg
 odoo/addons/web_editor/static/shapes/Rainy/05.svg
+odoo/addons/web_editor/static/shapes/Rainy/05_001.svg
 odoo/addons/web_editor/static/shapes/Rainy/06.svg
 odoo/addons/web_editor/static/shapes/Rainy/07.svg
 odoo/addons/web_editor/static/shapes/Rainy/08.svg
@@ -19169,6 +19170,7 @@ odoo/addons/web_editor/static/shapes/Wavy/03.svg
 odoo/addons/web_editor/static/shapes/Wavy/04.svg
 odoo/addons/web_editor/static/shapes/Wavy/05.svg
 odoo/addons/web_editor/static/shapes/Wavy/06.svg
+odoo/addons/web_editor/static/shapes/Wavy/06_001.svg
 odoo/addons/web_editor/static/shapes/Wavy/07.svg
 odoo/addons/web_editor/static/shapes/Wavy/08.svg
 odoo/addons/web_editor/static/shapes/Wavy/09.svg
