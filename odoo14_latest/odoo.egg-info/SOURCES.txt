@@ -11062,6 +11062,7 @@ odoo/addons/microsoft_calendar/i18n/zh_CN.po
 odoo/addons/microsoft_calendar/i18n/zh_TW.po
 odoo/addons/microsoft_calendar/models/__init__.py
 odoo/addons/microsoft_calendar/models/calendar.py
+odoo/addons/microsoft_calendar/models/calendar_attendee.py
 odoo/addons/microsoft_calendar/models/calendar_recurrence_rule.py
 odoo/addons/microsoft_calendar/models/microsoft_sync.py
 odoo/addons/microsoft_calendar/models/res_config_settings.py
@@ -18685,6 +18686,7 @@ odoo/addons/test_lint/tests/lint_case.py
 odoo/addons/test_lint/tests/test_ecmascript.py
 odoo/addons/test_lint/tests/test_markers.py
 odoo/addons/test_lint/tests/test_onchange_domains.py
+odoo/addons/test_lint/tests/test_pofile.py
 odoo/addons/test_lint/tests/test_pylint.py
 odoo/addons/test_mail/__init__.py
 odoo/addons/test_mail/__manifest__.py
