@@ -7515,10 +7515,10 @@ odoo/addons/l10n_cl/models/uom_uom.py
 odoo/addons/l10n_cl/static/sii_logo.jpeg
 odoo/addons/l10n_cl/static/tgr_logo.png
 odoo/addons/l10n_cl/static/description/icon.png
-odoo/addons/l10n_cl/views/account_journal_view.xml
 odoo/addons/l10n_cl/views/account_move_view.xml
 odoo/addons/l10n_cl/views/account_tax_view.xml
 odoo/addons/l10n_cl/views/ir_sequence_view.xml
+odoo/addons/l10n_cl/views/l10n_latam_document_type_view.xml
 odoo/addons/l10n_cl/views/report_invoice.xml
 odoo/addons/l10n_cl/views/res_bank_view.xml
 odoo/addons/l10n_cl/views/res_config_settings_view.xml
