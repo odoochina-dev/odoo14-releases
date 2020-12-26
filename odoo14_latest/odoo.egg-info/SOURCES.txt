@@ -11403,8 +11403,6 @@ odoo/addons/note_pad/models/note.py
 odoo/addons/note_pad/views/note_views.xml
 odoo/addons/odoo_referral/__init__.py
 odoo/addons/odoo_referral/__manifest__.py
-odoo/addons/odoo_referral/controllers/__init__.py
-odoo/addons/odoo_referral/controllers/referral.py
 odoo/addons/odoo_referral/i18n/ar.po
 odoo/addons/odoo_referral/i18n/bg.po
 odoo/addons/odoo_referral/i18n/ca.po
@@ -11438,11 +11436,9 @@ odoo/addons/odoo_referral/i18n/uk.po
 odoo/addons/odoo_referral/i18n/vi.po
 odoo/addons/odoo_referral/i18n/zh_CN.po
 odoo/addons/odoo_referral/i18n/zh_TW.po
-odoo/addons/odoo_referral/models/__init__.py
-odoo/addons/odoo_referral/models/res_users.py
 odoo/addons/odoo_referral/static/src/js/systray.js
-odoo/addons/odoo_referral/static/src/xml/systray.xml
 odoo/addons/odoo_referral/views/templates.xml
+odoo/addons/odoo_referral_portal/__init__.py
 odoo/addons/pad/__init__.py
 odoo/addons/pad/__manifest__.py
 odoo/addons/pad/data/pad_demo.xml
@@ -12165,6 +12161,12 @@ odoo/addons/payment_buckaroo/tests/__init__.py
 odoo/addons/payment_buckaroo/tests/test_buckaroo.py
 odoo/addons/payment_buckaroo/views/payment_buckaroo_templates.xml
 odoo/addons/payment_buckaroo/views/payment_views.xml
+odoo/addons/payment_fix_register_token/__init__.py
+odoo/addons/payment_fix_register_token/__manifest__.py
+odoo/addons/payment_fix_register_token/i18n/payment_fix_register_token.pot
+odoo/addons/payment_fix_register_token/models/__init__.py
+odoo/addons/payment_fix_register_token/models/account_payment_register.py
+odoo/addons/payment_fix_register_token/views/account_payment_register_views.xml
 odoo/addons/payment_ingenico/__init__.py
 odoo/addons/payment_ingenico/__manifest__.py
 odoo/addons/payment_ingenico/controllers/__init__.py
