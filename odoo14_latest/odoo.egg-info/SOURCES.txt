@@ -967,6 +967,7 @@ odoo/addons/adyen_platforms/util.py
 odoo/addons/adyen_platforms/controllers/__init__.py
 odoo/addons/adyen_platforms/controllers/adyen_platforms.py
 odoo/addons/adyen_platforms/data/adyen_platforms_data.xml
+odoo/addons/adyen_platforms/i18n/adyen_platforms.pot
 odoo/addons/adyen_platforms/models/__init__.py
 odoo/addons/adyen_platforms/models/adyen_account.py
 odoo/addons/adyen_platforms/models/adyen_transaction.py
