@@ -18965,6 +18965,7 @@ odoo/addons/web/static/tests/widgets/domain_selector_tests.js
 odoo/addons/web/static/tests/widgets/model_field_selector_tests.js
 odoo/addons/web/static/tests/widgets/rainbow_man_tests.js
 odoo/addons/web/tests/__init__.py
+odoo/addons/web/tests/logo_ci.png
 odoo/addons/web/tests/odoo.png
 odoo/addons/web/tests/sweden.png
 odoo/addons/web/tests/test_base_document_layout.py
