@@ -18591,6 +18591,7 @@ odoo/addons/test_mail/tests/test_invite.py
 odoo/addons/test_mail/tests/test_ir_actions.py
 odoo/addons/test_mail/tests/test_mail_activity.py
 odoo/addons/test_mail/tests/test_mail_channel.py
+odoo/addons/test_mail/tests/test_mail_composer.py
 odoo/addons/test_mail/tests/test_mail_followers.py
 odoo/addons/test_mail/tests/test_mail_gateway.py
 odoo/addons/test_mail/tests/test_mail_mail.py
