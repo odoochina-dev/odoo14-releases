@@ -7,3 +7,4 @@ odoo_14.0.20201003.tar.gz
 odoo_14.0.20201004.tar.gz
 odoo_14.0.20201005.tar.gz
 odoo_14.0.20201006.tar.gz
+odoo_14.0.20201007.tar.gz

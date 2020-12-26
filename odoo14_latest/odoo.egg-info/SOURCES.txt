@@ -3511,6 +3511,7 @@ odoo/addons/coupon/report/coupon_report.py
 odoo/addons/coupon/report/coupon_report.xml
 odoo/addons/coupon/report/coupon_report_templates.xml
 odoo/addons/coupon/security/coupon_security.xml
+odoo/addons/coupon/security/ir.model.access.csv
 odoo/addons/coupon/views/coupon_program_views.xml
 odoo/addons/coupon/views/coupon_views.xml
 odoo/addons/coupon/wizard/__init__.py
@@ -3646,6 +3647,7 @@ odoo/addons/crm/tests/common.py
 odoo/addons/crm/tests/test_crm_activity.py
 odoo/addons/crm/tests/test_crm_lead.py
 odoo/addons/crm/tests/test_crm_lead_convert.py
+odoo/addons/crm/tests/test_crm_lead_convert_mass.py
 odoo/addons/crm/tests/test_crm_lead_lost.py
 odoo/addons/crm/tests/test_crm_lead_merge.py
 odoo/addons/crm/tests/test_crm_lead_notification.py
@@ -19549,6 +19551,7 @@ odoo/addons/website/static/src/img/theme_loader.gif
 odoo/addons/website/static/src/img/website-visitors.gif
 odoo/addons/website/static/src/img/website_dashboard_visit_demo.png
 odoo/addons/website/static/src/img/website_logo.png
+odoo/addons/website/static/src/img/apps_thumbs/website_slide.svg
 odoo/addons/website/static/src/img/backgrounds/building-profile.jpg
 odoo/addons/website/static/src/img/backgrounds/city.jpg
 odoo/addons/website/static/src/img/backgrounds/cubes.jpg
