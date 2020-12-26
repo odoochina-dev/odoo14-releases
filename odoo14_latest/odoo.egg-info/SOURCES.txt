@@ -3442,6 +3442,7 @@ odoo/addons/calendar/tests/__init__.py
 odoo/addons/calendar/tests/test_access_rights.py
 odoo/addons/calendar/tests/test_attendees.py
 odoo/addons/calendar/tests/test_calendar.py
+odoo/addons/calendar/tests/test_calendar_controller.py
 odoo/addons/calendar/tests/test_calendar_recurrent_event_case2.py
 odoo/addons/calendar/tests/test_event_notifications.py
 odoo/addons/calendar/tests/test_event_recurrence.py
@@ -9296,6 +9297,7 @@ odoo/addons/mail/static/src/components/chat_window_manager/chat_window_manager_t
 odoo/addons/mail/static/src/components/chatter/chatter.js
 odoo/addons/mail/static/src/components/chatter/chatter.scss
 odoo/addons/mail/static/src/components/chatter/chatter.xml
+odoo/addons/mail/static/src/components/chatter/chatter_suggested_recipient_tests.js
 odoo/addons/mail/static/src/components/chatter/chatter_tests.js
 odoo/addons/mail/static/src/components/chatter_container/chatter_container.js
 odoo/addons/mail/static/src/components/chatter_container/chatter_container.scss
@@ -14078,6 +14080,8 @@ odoo/addons/product_email_template/models/__init__.py
 odoo/addons/product_email_template/models/account_move.py
 odoo/addons/product_email_template/models/product.py
 odoo/addons/product_email_template/static/img/online_training.png
+odoo/addons/product_email_template/tests/__init__.py
+odoo/addons/product_email_template/tests/test_account_move.py
 odoo/addons/product_email_template/views/mail_template_views.xml
 odoo/addons/product_email_template/views/product_views.xml
 odoo/addons/product_expiry/__init__.py
