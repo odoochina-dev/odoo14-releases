@@ -17245,6 +17245,7 @@ odoo/addons/sales_team/views/assets.xml
 odoo/addons/sales_team/views/crm_tag_views.xml
 odoo/addons/sales_team/views/crm_team_views.xml
 odoo/addons/sales_team/views/mail_activity_views.xml
+odoo/addons/sales_team/views/res_partner_views.xml
 odoo/addons/sms/__init__.py
 odoo/addons/sms/__manifest__.py
 odoo/addons/sms/data/ir_cron_data.xml
