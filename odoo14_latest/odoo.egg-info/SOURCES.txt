@@ -6513,6 +6513,8 @@ odoo/addons/hr_holidays/static/src/scss/time_off.scss
 odoo/addons/hr_holidays/static/src/xml/leave_stats_templates.xml
 odoo/addons/hr_holidays/static/src/xml/time_off_calendar.xml
 odoo/addons/hr_holidays/static/tests/test_leave_stats_widget.js
+odoo/addons/hr_holidays/static/tests/helpers/mock_models.js
+odoo/addons/hr_holidays/static/tests/helpers/mock_server.js
 odoo/addons/hr_holidays/tests/__init__.py
 odoo/addons/hr_holidays/tests/common.py
 odoo/addons/hr_holidays/tests/test_access_rights.py
@@ -17848,6 +17850,7 @@ odoo/addons/stock/tests/test_product.py
 odoo/addons/stock/tests/test_quant.py
 odoo/addons/stock/tests/test_quant_inventory_mode.py
 odoo/addons/stock/tests/test_report.py
+odoo/addons/stock/tests/test_report_stock_quantity.py
 odoo/addons/stock/tests/test_report_tours.py
 odoo/addons/stock/tests/test_robustness.py
 odoo/addons/stock/tests/test_stock_flow.py
@@ -18664,6 +18667,7 @@ odoo/addons/test_mail/tests/test_invite.py
 odoo/addons/test_mail/tests/test_ir_actions.py
 odoo/addons/test_mail/tests/test_mail_activity.py
 odoo/addons/test_mail/tests/test_mail_channel.py
+odoo/addons/test_mail/tests/test_mail_channel_partner.py
 odoo/addons/test_mail/tests/test_mail_composer.py
 odoo/addons/test_mail/tests/test_mail_followers.py
 odoo/addons/test_mail/tests/test_mail_gateway.py
