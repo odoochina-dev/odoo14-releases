@@ -17376,6 +17376,7 @@ odoo/addons/stock_landed_costs/i18n/zh_TW.po
 odoo/addons/stock_landed_costs/models/__init__.py
 odoo/addons/stock_landed_costs/models/account_move.py
 odoo/addons/stock_landed_costs/models/product.py
+odoo/addons/stock_landed_costs/models/purchase.py
 odoo/addons/stock_landed_costs/models/res_company.py
 odoo/addons/stock_landed_costs/models/res_config_settings.py
 odoo/addons/stock_landed_costs/models/stock_landed_cost.py
