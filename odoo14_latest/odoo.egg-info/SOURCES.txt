@@ -23069,12 +23069,14 @@ odoo/addons/website_sale_coupon/i18n/website_sale_coupon.pot
 odoo/addons/website_sale_coupon/i18n/zh_CN.po
 odoo/addons/website_sale_coupon/i18n/zh_TW.po
 odoo/addons/website_sale_coupon/models/__init__.py
+odoo/addons/website_sale_coupon/models/sale_coupon.py
 odoo/addons/website_sale_coupon/models/sale_coupon_program.py
 odoo/addons/website_sale_coupon/models/sale_order.py
 odoo/addons/website_sale_coupon/static/description/icon.png
 odoo/addons/website_sale_coupon/static/description/icon.svg
 odoo/addons/website_sale_coupon/static/tests/tours/website_sale_coupon.js
 odoo/addons/website_sale_coupon/tests/__init__.py
+odoo/addons/website_sale_coupon/tests/test_sale_coupon_multiwebsite.py
 odoo/addons/website_sale_coupon/tests/test_shop_sale_coupon.py
 odoo/addons/website_sale_coupon/views/res_config_settings_views.xml
 odoo/addons/website_sale_coupon/views/sale_coupon_program_views.xml
