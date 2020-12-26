@@ -7002,6 +7002,7 @@ odoo/addons/hr_work_entry/security/hr_work_entry_security.xml
 odoo/addons/hr_work_entry/security/ir.model.access.csv
 odoo/addons/hr_work_entry/static/src/xml/work_entry_templates.xml
 odoo/addons/hr_work_entry/views/hr_work_entry_views.xml
+odoo/addons/hr_work_entry/views/resource_views.xml
 odoo/addons/http_routing/__init__.py
 odoo/addons/http_routing/__manifest__.py
 odoo/addons/http_routing/geoipresolver.py
@@ -14366,6 +14367,7 @@ odoo/addons/project/tests/__init__.py
 odoo/addons/project/tests/test_access_rights.py
 odoo/addons/project/tests/test_multicompany.py
 odoo/addons/project/tests/test_project_base.py
+odoo/addons/project/tests/test_project_config.py
 odoo/addons/project/tests/test_project_flow.py
 odoo/addons/project/tests/test_project_recurrence.py
 odoo/addons/project/tests/test_project_ui.py
@@ -15995,6 +15997,7 @@ odoo/addons/sale_product_configurator/static/tests/tours/product_configurator_pr
 odoo/addons/sale_product_configurator/static/tests/tours/product_configurator_single_custom_attribute_ui.js
 odoo/addons/sale_product_configurator/static/tests/tours/product_configurator_ui.js
 odoo/addons/sale_product_configurator/tests/__init__.py
+odoo/addons/sale_product_configurator/tests/common.py
 odoo/addons/sale_product_configurator/tests/test_sale_product_configurator_ui.py
 odoo/addons/sale_product_configurator/views/assets.xml
 odoo/addons/sale_product_configurator/views/sale_views.xml
@@ -23353,6 +23356,8 @@ odoo/addons/website_sale_product_configurator/static/src/js/website_sale_options
 odoo/addons/website_sale_product_configurator/static/src/scss/website_sale_options.scss
 odoo/addons/website_sale_product_configurator/static/tests/tours/website_sale_buy.js
 odoo/addons/website_sale_product_configurator/static/tests/tours/website_sale_shop_custom_attributes_value.js
+odoo/addons/website_sale_product_configurator/tests/__init__.py
+odoo/addons/website_sale_product_configurator/tests/test_customize.py
 odoo/addons/website_sale_product_configurator/views/assets.xml
 odoo/addons/website_sale_slides/__init__.py
 odoo/addons/website_sale_slides/__manifest__.py
@@ -23658,6 +23663,7 @@ odoo/addons/website_slides/security/website_slides_security.xml
 odoo/addons/website_slides/static/description/icon.png
 odoo/addons/website_slides/static/description/icon.svg
 odoo/addons/website_slides/static/lib/pdfslidesviewer/PDFSlidesViewer.js
+odoo/addons/website_slides/static/src/components/activity/activity_tests.js
 odoo/addons/website_slides/static/src/img/banner_default.svg
 odoo/addons/website_slides/static/src/img/banner_default_all.svg
 odoo/addons/website_slides/static/src/img/banner_heroes_default.svg
