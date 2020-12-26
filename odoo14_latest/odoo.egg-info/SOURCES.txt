@@ -17250,6 +17250,7 @@ odoo/addons/sale_timesheet/views/hr_timesheet_templates.xml
 odoo/addons/sale_timesheet/views/hr_timesheet_views.xml
 odoo/addons/sale_timesheet/views/product_views.xml
 odoo/addons/sale_timesheet/views/project_task_views.xml
+odoo/addons/sale_timesheet/views/report_invoice.xml
 odoo/addons/sale_timesheet/views/res_config_settings_views.xml
 odoo/addons/sale_timesheet/views/sale_order_views.xml
 odoo/addons/sale_timesheet/views/sale_timesheet_portal_templates.xml
@@ -17262,6 +17263,14 @@ odoo/addons/sale_timesheet/wizard/project_task_create_sale_order.py
 odoo/addons/sale_timesheet/wizard/project_task_create_sale_order_views.xml
 odoo/addons/sale_timesheet/wizard/sale_make_invoice_advance.py
 odoo/addons/sale_timesheet/wizard/sale_make_invoice_advance_views.xml
+odoo/addons/sale_timesheet_edit/__init__.py
+odoo/addons/sale_timesheet_edit/__manifest__.py
+odoo/addons/sale_timesheet_edit/models/__init__.py
+odoo/addons/sale_timesheet_edit/models/account_analytic_line.py
+odoo/addons/sale_timesheet_edit/models/project.py
+odoo/addons/sale_timesheet_edit/static/src/js/so_line_one2many.js
+odoo/addons/sale_timesheet_edit/views/assets.xml
+odoo/addons/sale_timesheet_edit/views/project_task.xml
 odoo/addons/sale_timesheet_purchase/__init__.py
 odoo/addons/sale_timesheet_purchase/__manifest__.py
 odoo/addons/sale_timesheet_purchase/i18n/ar.po
