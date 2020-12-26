@@ -2564,6 +2564,8 @@ odoo/addons/base_automation/security/ir.model.access.csv
 odoo/addons/base_automation/static/src/js/base_automation_error_dialog.js
 odoo/addons/base_automation/static/src/xml/base_automation_error_dialog.xml
 odoo/addons/base_automation/static/tests/base_automation_error_dialog.js
+odoo/addons/base_automation/tests/__init__.py
+odoo/addons/base_automation/tests/test_automation.py
 odoo/addons/base_automation/views/base_automation_view.xml
 odoo/addons/base_geolocalize/README.md
 odoo/addons/base_geolocalize/__init__.py
