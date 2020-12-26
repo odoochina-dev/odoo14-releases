@@ -98,6 +98,7 @@ odoo/addons/account/i18n/pt.po
 odoo/addons/account/i18n/pt_BR.po
 odoo/addons/account/i18n/ro.po
 odoo/addons/account/i18n/ru.po
+odoo/addons/account/i18n/si.po
 odoo/addons/account/i18n/sk.po
 odoo/addons/account/i18n/sl.po
 odoo/addons/account/i18n/sq.po
@@ -354,6 +355,7 @@ odoo/addons/account_check_printing/i18n/pt.po
 odoo/addons/account_check_printing/i18n/pt_BR.po
 odoo/addons/account_check_printing/i18n/ro.po
 odoo/addons/account_check_printing/i18n/ru.po
+odoo/addons/account_check_printing/i18n/si.po
 odoo/addons/account_check_printing/i18n/sk.po
 odoo/addons/account_check_printing/i18n/sl.po
 odoo/addons/account_check_printing/i18n/sq.po
@@ -401,6 +403,7 @@ odoo/addons/account_debit_note/i18n/el.po
 odoo/addons/account_debit_note/i18n/eo.po
 odoo/addons/account_debit_note/i18n/es.po
 odoo/addons/account_debit_note/i18n/et.po
+odoo/addons/account_debit_note/i18n/fi.po
 odoo/addons/account_debit_note/i18n/fr.po
 odoo/addons/account_debit_note/i18n/he.po
 odoo/addons/account_debit_note/i18n/hr.po
@@ -417,6 +420,7 @@ odoo/addons/account_debit_note/i18n/pt.po
 odoo/addons/account_debit_note/i18n/pt_BR.po
 odoo/addons/account_debit_note/i18n/ro.po
 odoo/addons/account_debit_note/i18n/ru.po
+odoo/addons/account_debit_note/i18n/si.po
 odoo/addons/account_debit_note/i18n/sk.po
 odoo/addons/account_debit_note/i18n/tr.po
 odoo/addons/account_debit_note/i18n/uk.po
@@ -447,6 +451,7 @@ odoo/addons/account_edi/i18n/el.po
 odoo/addons/account_edi/i18n/eo.po
 odoo/addons/account_edi/i18n/es.po
 odoo/addons/account_edi/i18n/et.po
+odoo/addons/account_edi/i18n/fi.po
 odoo/addons/account_edi/i18n/fr.po
 odoo/addons/account_edi/i18n/he.po
 odoo/addons/account_edi/i18n/hr.po
@@ -463,6 +468,7 @@ odoo/addons/account_edi/i18n/pt.po
 odoo/addons/account_edi/i18n/pt_BR.po
 odoo/addons/account_edi/i18n/ro.po
 odoo/addons/account_edi/i18n/ru.po
+odoo/addons/account_edi/i18n/si.po
 odoo/addons/account_edi/i18n/sk.po
 odoo/addons/account_edi/i18n/tr.po
 odoo/addons/account_edi/i18n/uk.po
@@ -506,6 +512,7 @@ odoo/addons/account_edi_facturx/i18n/el.po
 odoo/addons/account_edi_facturx/i18n/eo.po
 odoo/addons/account_edi_facturx/i18n/es.po
 odoo/addons/account_edi_facturx/i18n/et.po
+odoo/addons/account_edi_facturx/i18n/fi.po
 odoo/addons/account_edi_facturx/i18n/fr.po
 odoo/addons/account_edi_facturx/i18n/he.po
 odoo/addons/account_edi_facturx/i18n/hr.po
@@ -522,6 +529,7 @@ odoo/addons/account_edi_facturx/i18n/pt.po
 odoo/addons/account_edi_facturx/i18n/pt_BR.po
 odoo/addons/account_edi_facturx/i18n/ro.po
 odoo/addons/account_edi_facturx/i18n/ru.po
+odoo/addons/account_edi_facturx/i18n/si.po
 odoo/addons/account_edi_facturx/i18n/sk.po
 odoo/addons/account_edi_facturx/i18n/tr.po
 odoo/addons/account_edi_facturx/i18n/uk.po
@@ -549,6 +557,7 @@ odoo/addons/account_edi_ubl/i18n/el.po
 odoo/addons/account_edi_ubl/i18n/eo.po
 odoo/addons/account_edi_ubl/i18n/es.po
 odoo/addons/account_edi_ubl/i18n/et.po
+odoo/addons/account_edi_ubl/i18n/fi.po
 odoo/addons/account_edi_ubl/i18n/fr.po
 odoo/addons/account_edi_ubl/i18n/he.po
 odoo/addons/account_edi_ubl/i18n/hr.po
@@ -565,6 +574,7 @@ odoo/addons/account_edi_ubl/i18n/pt.po
 odoo/addons/account_edi_ubl/i18n/pt_BR.po
 odoo/addons/account_edi_ubl/i18n/ro.po
 odoo/addons/account_edi_ubl/i18n/ru.po
+odoo/addons/account_edi_ubl/i18n/si.po
 odoo/addons/account_edi_ubl/i18n/sk.po
 odoo/addons/account_edi_ubl/i18n/tr.po
 odoo/addons/account_edi_ubl/i18n/uk.po
@@ -589,6 +599,7 @@ odoo/addons/account_fleet/i18n/el.po
 odoo/addons/account_fleet/i18n/eo.po
 odoo/addons/account_fleet/i18n/es.po
 odoo/addons/account_fleet/i18n/et.po
+odoo/addons/account_fleet/i18n/fi.po
 odoo/addons/account_fleet/i18n/fr.po
 odoo/addons/account_fleet/i18n/he.po
 odoo/addons/account_fleet/i18n/hr.po
@@ -605,6 +616,7 @@ odoo/addons/account_fleet/i18n/pt.po
 odoo/addons/account_fleet/i18n/pt_BR.po
 odoo/addons/account_fleet/i18n/ro.po
 odoo/addons/account_fleet/i18n/ru.po
+odoo/addons/account_fleet/i18n/si.po
 odoo/addons/account_fleet/i18n/sk.po
 odoo/addons/account_fleet/i18n/tr.po
 odoo/addons/account_fleet/i18n/uk.po
@@ -630,6 +642,7 @@ odoo/addons/account_lock/i18n/el.po
 odoo/addons/account_lock/i18n/eo.po
 odoo/addons/account_lock/i18n/es.po
 odoo/addons/account_lock/i18n/et.po
+odoo/addons/account_lock/i18n/fi.po
 odoo/addons/account_lock/i18n/fr.po
 odoo/addons/account_lock/i18n/he.po
 odoo/addons/account_lock/i18n/hr.po
@@ -646,6 +659,7 @@ odoo/addons/account_lock/i18n/pt.po
 odoo/addons/account_lock/i18n/pt_BR.po
 odoo/addons/account_lock/i18n/ro.po
 odoo/addons/account_lock/i18n/ru.po
+odoo/addons/account_lock/i18n/si.po
 odoo/addons/account_lock/i18n/sk.po
 odoo/addons/account_lock/i18n/tr.po
 odoo/addons/account_lock/i18n/uk.po
@@ -719,6 +733,7 @@ odoo/addons/account_payment/i18n/pt.po
 odoo/addons/account_payment/i18n/pt_BR.po
 odoo/addons/account_payment/i18n/ro.po
 odoo/addons/account_payment/i18n/ru.po
+odoo/addons/account_payment/i18n/si.po
 odoo/addons/account_payment/i18n/sk.po
 odoo/addons/account_payment/i18n/sl.po
 odoo/addons/account_payment/i18n/sq.po
@@ -748,6 +763,7 @@ odoo/addons/account_qr_code_sepa/i18n/el.po
 odoo/addons/account_qr_code_sepa/i18n/eo.po
 odoo/addons/account_qr_code_sepa/i18n/es.po
 odoo/addons/account_qr_code_sepa/i18n/et.po
+odoo/addons/account_qr_code_sepa/i18n/fi.po
 odoo/addons/account_qr_code_sepa/i18n/fr.po
 odoo/addons/account_qr_code_sepa/i18n/he.po
 odoo/addons/account_qr_code_sepa/i18n/hr.po
@@ -764,6 +780,7 @@ odoo/addons/account_qr_code_sepa/i18n/pt.po
 odoo/addons/account_qr_code_sepa/i18n/pt_BR.po
 odoo/addons/account_qr_code_sepa/i18n/ro.po
 odoo/addons/account_qr_code_sepa/i18n/ru.po
+odoo/addons/account_qr_code_sepa/i18n/si.po
 odoo/addons/account_qr_code_sepa/i18n/sk.po
 odoo/addons/account_qr_code_sepa/i18n/tr.po
 odoo/addons/account_qr_code_sepa/i18n/uk.po
@@ -837,6 +854,7 @@ odoo/addons/account_tax_python/i18n/pt.po
 odoo/addons/account_tax_python/i18n/pt_BR.po
 odoo/addons/account_tax_python/i18n/ro.po
 odoo/addons/account_tax_python/i18n/ru.po
+odoo/addons/account_tax_python/i18n/si.po
 odoo/addons/account_tax_python/i18n/sk.po
 odoo/addons/account_tax_python/i18n/sl.po
 odoo/addons/account_tax_python/i18n/sq.po
@@ -1032,6 +1050,7 @@ odoo/addons/analytic/i18n/pt.po
 odoo/addons/analytic/i18n/pt_BR.po
 odoo/addons/analytic/i18n/ro.po
 odoo/addons/analytic/i18n/ru.po
+odoo/addons/analytic/i18n/si.po
 odoo/addons/analytic/i18n/sk.po
 odoo/addons/analytic/i18n/sl.po
 odoo/addons/analytic/i18n/sq.po
@@ -1113,6 +1132,7 @@ odoo/addons/association/i18n/pt.po
 odoo/addons/association/i18n/pt_BR.po
 odoo/addons/association/i18n/ro.po
 odoo/addons/association/i18n/ru.po
+odoo/addons/association/i18n/si.po
 odoo/addons/association/i18n/sk.po
 odoo/addons/association/i18n/sl.po
 odoo/addons/association/i18n/sq.po
@@ -1140,6 +1160,7 @@ odoo/addons/attachment_indexation/i18n/el.po
 odoo/addons/attachment_indexation/i18n/eo.po
 odoo/addons/attachment_indexation/i18n/es.po
 odoo/addons/attachment_indexation/i18n/et.po
+odoo/addons/attachment_indexation/i18n/fi.po
 odoo/addons/attachment_indexation/i18n/fr.po
 odoo/addons/attachment_indexation/i18n/he.po
 odoo/addons/attachment_indexation/i18n/hr.po
@@ -1159,6 +1180,7 @@ odoo/addons/attachment_indexation/i18n/pt.po
 odoo/addons/attachment_indexation/i18n/pt_BR.po
 odoo/addons/attachment_indexation/i18n/ro.po
 odoo/addons/attachment_indexation/i18n/ru.po
+odoo/addons/attachment_indexation/i18n/si.po
 odoo/addons/attachment_indexation/i18n/sk.po
 odoo/addons/attachment_indexation/i18n/tr.po
 odoo/addons/attachment_indexation/i18n/uk.po
@@ -1237,6 +1259,7 @@ odoo/addons/auth_ldap/i18n/pt.po
 odoo/addons/auth_ldap/i18n/pt_BR.po
 odoo/addons/auth_ldap/i18n/ro.po
 odoo/addons/auth_ldap/i18n/ru.po
+odoo/addons/auth_ldap/i18n/si.po
 odoo/addons/auth_ldap/i18n/sk.po
 odoo/addons/auth_ldap/i18n/sl.po
 odoo/addons/auth_ldap/i18n/sq.po
@@ -1325,6 +1348,7 @@ odoo/addons/auth_oauth/i18n/pt.po
 odoo/addons/auth_oauth/i18n/pt_BR.po
 odoo/addons/auth_oauth/i18n/ro.po
 odoo/addons/auth_oauth/i18n/ru.po
+odoo/addons/auth_oauth/i18n/si.po
 odoo/addons/auth_oauth/i18n/sk.po
 odoo/addons/auth_oauth/i18n/sl.po
 odoo/addons/auth_oauth/i18n/sq.po
@@ -1390,6 +1414,7 @@ odoo/addons/auth_password_policy/i18n/pt.po
 odoo/addons/auth_password_policy/i18n/pt_BR.po
 odoo/addons/auth_password_policy/i18n/ro.po
 odoo/addons/auth_password_policy/i18n/ru.po
+odoo/addons/auth_password_policy/i18n/si.po
 odoo/addons/auth_password_policy/i18n/sk.po
 odoo/addons/auth_password_policy/i18n/sr.po
 odoo/addons/auth_password_policy/i18n/th.po
@@ -1526,6 +1551,7 @@ odoo/addons/auth_signup/i18n/pt.po
 odoo/addons/auth_signup/i18n/pt_BR.po
 odoo/addons/auth_signup/i18n/ro.po
 odoo/addons/auth_signup/i18n/ru.po
+odoo/addons/auth_signup/i18n/si.po
 odoo/addons/auth_signup/i18n/sk.po
 odoo/addons/auth_signup/i18n/sl.po
 odoo/addons/auth_signup/i18n/sq.po
@@ -1564,6 +1590,7 @@ odoo/addons/auth_totp/i18n/el.po
 odoo/addons/auth_totp/i18n/eo.po
 odoo/addons/auth_totp/i18n/es.po
 odoo/addons/auth_totp/i18n/et.po
+odoo/addons/auth_totp/i18n/fi.po
 odoo/addons/auth_totp/i18n/fr.po
 odoo/addons/auth_totp/i18n/he.po
 odoo/addons/auth_totp/i18n/hr.po
@@ -1580,6 +1607,7 @@ odoo/addons/auth_totp/i18n/pt.po
 odoo/addons/auth_totp/i18n/pt_BR.po
 odoo/addons/auth_totp/i18n/ro.po
 odoo/addons/auth_totp/i18n/ru.po
+odoo/addons/auth_totp/i18n/si.po
 odoo/addons/auth_totp/i18n/sk.po
 odoo/addons/auth_totp/i18n/tr.po
 odoo/addons/auth_totp/i18n/uk.po
@@ -1609,6 +1637,7 @@ odoo/addons/auth_totp_portal/i18n/el.po
 odoo/addons/auth_totp_portal/i18n/eo.po
 odoo/addons/auth_totp_portal/i18n/es.po
 odoo/addons/auth_totp_portal/i18n/et.po
+odoo/addons/auth_totp_portal/i18n/fi.po
 odoo/addons/auth_totp_portal/i18n/fr.po
 odoo/addons/auth_totp_portal/i18n/he.po
 odoo/addons/auth_totp_portal/i18n/hr.po
@@ -1625,6 +1654,7 @@ odoo/addons/auth_totp_portal/i18n/pt.po
 odoo/addons/auth_totp_portal/i18n/pt_BR.po
 odoo/addons/auth_totp_portal/i18n/ro.po
 odoo/addons/auth_totp_portal/i18n/ru.po
+odoo/addons/auth_totp_portal/i18n/si.po
 odoo/addons/auth_totp_portal/i18n/sk.po
 odoo/addons/auth_totp_portal/i18n/tr.po
 odoo/addons/auth_totp_portal/i18n/uk.po
@@ -1703,6 +1733,7 @@ odoo/addons/barcodes/i18n/pt.po
 odoo/addons/barcodes/i18n/pt_BR.po
 odoo/addons/barcodes/i18n/ro.po
 odoo/addons/barcodes/i18n/ru.po
+odoo/addons/barcodes/i18n/si.po
 odoo/addons/barcodes/i18n/sk.po
 odoo/addons/barcodes/i18n/sl.po
 odoo/addons/barcodes/i18n/sq.po
@@ -1820,6 +1851,7 @@ odoo/addons/base/i18n/pt.po
 odoo/addons/base/i18n/pt_BR.po
 odoo/addons/base/i18n/ro.po
 odoo/addons/base/i18n/ru.po
+odoo/addons/base/i18n/si.po
 odoo/addons/base/i18n/sk.po
 odoo/addons/base/i18n/sq.po
 odoo/addons/base/i18n/sr.po
@@ -2387,6 +2419,7 @@ odoo/addons/base_address_city/i18n/pt.po
 odoo/addons/base_address_city/i18n/pt_BR.po
 odoo/addons/base_address_city/i18n/ro.po
 odoo/addons/base_address_city/i18n/ru.po
+odoo/addons/base_address_city/i18n/si.po
 odoo/addons/base_address_city/i18n/sk.po
 odoo/addons/base_address_city/i18n/sl.po
 odoo/addons/base_address_city/i18n/sq.po
@@ -2469,6 +2502,7 @@ odoo/addons/base_address_extended/i18n/pt.po
 odoo/addons/base_address_extended/i18n/pt_BR.po
 odoo/addons/base_address_extended/i18n/ro.po
 odoo/addons/base_address_extended/i18n/ru.po
+odoo/addons/base_address_extended/i18n/si.po
 odoo/addons/base_address_extended/i18n/sk.po
 odoo/addons/base_address_extended/i18n/sl.po
 odoo/addons/base_address_extended/i18n/sq.po
@@ -2555,6 +2589,7 @@ odoo/addons/base_automation/i18n/pt.po
 odoo/addons/base_automation/i18n/pt_BR.po
 odoo/addons/base_automation/i18n/ro.po
 odoo/addons/base_automation/i18n/ru.po
+odoo/addons/base_automation/i18n/si.po
 odoo/addons/base_automation/i18n/sk.po
 odoo/addons/base_automation/i18n/sl.po
 odoo/addons/base_automation/i18n/sq.po
@@ -2642,6 +2677,7 @@ odoo/addons/base_geolocalize/i18n/pt.po
 odoo/addons/base_geolocalize/i18n/pt_BR.po
 odoo/addons/base_geolocalize/i18n/ro.po
 odoo/addons/base_geolocalize/i18n/ru.po
+odoo/addons/base_geolocalize/i18n/si.po
 odoo/addons/base_geolocalize/i18n/sk.po
 odoo/addons/base_geolocalize/i18n/sl.po
 odoo/addons/base_geolocalize/i18n/sq.po
@@ -2728,6 +2764,7 @@ odoo/addons/base_iban/i18n/pt.po
 odoo/addons/base_iban/i18n/pt_BR.po
 odoo/addons/base_iban/i18n/ro.po
 odoo/addons/base_iban/i18n/ru.po
+odoo/addons/base_iban/i18n/si.po
 odoo/addons/base_iban/i18n/sk.po
 odoo/addons/base_iban/i18n/sl.po
 odoo/addons/base_iban/i18n/sq.po
@@ -2813,6 +2850,7 @@ odoo/addons/base_import/i18n/pt.po
 odoo/addons/base_import/i18n/pt_BR.po
 odoo/addons/base_import/i18n/ro.po
 odoo/addons/base_import/i18n/ru.po
+odoo/addons/base_import/i18n/si.po
 odoo/addons/base_import/i18n/sk.po
 odoo/addons/base_import/i18n/sl.po
 odoo/addons/base_import/i18n/sq.po
@@ -2924,6 +2962,7 @@ odoo/addons/base_import_module/i18n/pt.po
 odoo/addons/base_import_module/i18n/pt_BR.po
 odoo/addons/base_import_module/i18n/ro.po
 odoo/addons/base_import_module/i18n/ru.po
+odoo/addons/base_import_module/i18n/si.po
 odoo/addons/base_import_module/i18n/sk.po
 odoo/addons/base_import_module/i18n/sl.po
 odoo/addons/base_import_module/i18n/sq.po
@@ -3015,6 +3054,7 @@ odoo/addons/base_setup/i18n/pt.po
 odoo/addons/base_setup/i18n/pt_BR.po
 odoo/addons/base_setup/i18n/ro.po
 odoo/addons/base_setup/i18n/ru.po
+odoo/addons/base_setup/i18n/si.po
 odoo/addons/base_setup/i18n/sk.po
 odoo/addons/base_setup/i18n/sl.po
 odoo/addons/base_setup/i18n/sq.po
@@ -3109,6 +3149,7 @@ odoo/addons/base_sparse_field/i18n/pt.po
 odoo/addons/base_sparse_field/i18n/pt_BR.po
 odoo/addons/base_sparse_field/i18n/ro.po
 odoo/addons/base_sparse_field/i18n/ru.po
+odoo/addons/base_sparse_field/i18n/si.po
 odoo/addons/base_sparse_field/i18n/sk.po
 odoo/addons/base_sparse_field/i18n/sl.po
 odoo/addons/base_sparse_field/i18n/sq.po
@@ -3194,6 +3235,7 @@ odoo/addons/base_vat/i18n/pt.po
 odoo/addons/base_vat/i18n/pt_BR.po
 odoo/addons/base_vat/i18n/ro.po
 odoo/addons/base_vat/i18n/ru.po
+odoo/addons/base_vat/i18n/si.po
 odoo/addons/base_vat/i18n/sk.po
 odoo/addons/base_vat/i18n/sl.po
 odoo/addons/base_vat/i18n/sq.po
@@ -3286,6 +3328,7 @@ odoo/addons/board/i18n/pt.po
 odoo/addons/board/i18n/pt_BR.po
 odoo/addons/board/i18n/ro.po
 odoo/addons/board/i18n/ru.po
+odoo/addons/board/i18n/si.po
 odoo/addons/board/i18n/sk.po
 odoo/addons/board/i18n/sl.po
 odoo/addons/board/i18n/sq.po
@@ -3387,6 +3430,7 @@ odoo/addons/bus/i18n/pt.po
 odoo/addons/bus/i18n/pt_BR.po
 odoo/addons/bus/i18n/ro.po
 odoo/addons/bus/i18n/ru.po
+odoo/addons/bus/i18n/si.po
 odoo/addons/bus/i18n/sk.po
 odoo/addons/bus/i18n/sl.po
 odoo/addons/bus/i18n/sq.po
@@ -3488,6 +3532,7 @@ odoo/addons/calendar/i18n/pt.po
 odoo/addons/calendar/i18n/pt_BR.po
 odoo/addons/calendar/i18n/ro.po
 odoo/addons/calendar/i18n/ru.po
+odoo/addons/calendar/i18n/si.po
 odoo/addons/calendar/i18n/sk.po
 odoo/addons/calendar/i18n/sl.po
 odoo/addons/calendar/i18n/sq.po
@@ -3602,6 +3647,7 @@ odoo/addons/calendar_sms/i18n/pt.po
 odoo/addons/calendar_sms/i18n/pt_BR.po
 odoo/addons/calendar_sms/i18n/ro.po
 odoo/addons/calendar_sms/i18n/ru.po
+odoo/addons/calendar_sms/i18n/si.po
 odoo/addons/calendar_sms/i18n/sk.po
 odoo/addons/calendar_sms/i18n/sl.po
 odoo/addons/calendar_sms/i18n/sq.po
@@ -3679,6 +3725,7 @@ odoo/addons/contacts/i18n/pt.po
 odoo/addons/contacts/i18n/pt_BR.po
 odoo/addons/contacts/i18n/ro.po
 odoo/addons/contacts/i18n/ru.po
+odoo/addons/contacts/i18n/si.po
 odoo/addons/contacts/i18n/sk.po
 odoo/addons/contacts/i18n/sl.po
 odoo/addons/contacts/i18n/sq.po
@@ -3712,6 +3759,7 @@ odoo/addons/coupon/i18n/el.po
 odoo/addons/coupon/i18n/eo.po
 odoo/addons/coupon/i18n/es.po
 odoo/addons/coupon/i18n/et.po
+odoo/addons/coupon/i18n/fi.po
 odoo/addons/coupon/i18n/fr.po
 odoo/addons/coupon/i18n/he.po
 odoo/addons/coupon/i18n/hr.po
@@ -3728,6 +3776,7 @@ odoo/addons/coupon/i18n/pt.po
 odoo/addons/coupon/i18n/pt_BR.po
 odoo/addons/coupon/i18n/ro.po
 odoo/addons/coupon/i18n/ru.po
+odoo/addons/coupon/i18n/si.po
 odoo/addons/coupon/i18n/sk.po
 odoo/addons/coupon/i18n/tr.po
 odoo/addons/coupon/i18n/uk.po
@@ -3830,6 +3879,7 @@ odoo/addons/crm/i18n/pt.po
 odoo/addons/crm/i18n/pt_BR.po
 odoo/addons/crm/i18n/ro.po
 odoo/addons/crm/i18n/ru.po
+odoo/addons/crm/i18n/si.po
 odoo/addons/crm/i18n/sk.po
 odoo/addons/crm/i18n/sl.po
 odoo/addons/crm/i18n/sq.po
@@ -3929,6 +3979,7 @@ odoo/addons/crm_iap_lead/i18n/el.po
 odoo/addons/crm_iap_lead/i18n/eo.po
 odoo/addons/crm_iap_lead/i18n/es.po
 odoo/addons/crm_iap_lead/i18n/et.po
+odoo/addons/crm_iap_lead/i18n/fi.po
 odoo/addons/crm_iap_lead/i18n/fr.po
 odoo/addons/crm_iap_lead/i18n/he.po
 odoo/addons/crm_iap_lead/i18n/hr.po
@@ -3948,6 +3999,7 @@ odoo/addons/crm_iap_lead/i18n/pt.po
 odoo/addons/crm_iap_lead/i18n/pt_BR.po
 odoo/addons/crm_iap_lead/i18n/ro.po
 odoo/addons/crm_iap_lead/i18n/ru.po
+odoo/addons/crm_iap_lead/i18n/si.po
 odoo/addons/crm_iap_lead/i18n/sk.po
 odoo/addons/crm_iap_lead/i18n/tr.po
 odoo/addons/crm_iap_lead/i18n/uk.po
@@ -3986,6 +4038,7 @@ odoo/addons/crm_iap_lead_enrich/i18n/el.po
 odoo/addons/crm_iap_lead_enrich/i18n/eo.po
 odoo/addons/crm_iap_lead_enrich/i18n/es.po
 odoo/addons/crm_iap_lead_enrich/i18n/et.po
+odoo/addons/crm_iap_lead_enrich/i18n/fi.po
 odoo/addons/crm_iap_lead_enrich/i18n/fr.po
 odoo/addons/crm_iap_lead_enrich/i18n/he.po
 odoo/addons/crm_iap_lead_enrich/i18n/hr.po
@@ -4005,6 +4058,7 @@ odoo/addons/crm_iap_lead_enrich/i18n/pt.po
 odoo/addons/crm_iap_lead_enrich/i18n/pt_BR.po
 odoo/addons/crm_iap_lead_enrich/i18n/ro.po
 odoo/addons/crm_iap_lead_enrich/i18n/ru.po
+odoo/addons/crm_iap_lead_enrich/i18n/si.po
 odoo/addons/crm_iap_lead_enrich/i18n/sk.po
 odoo/addons/crm_iap_lead_enrich/i18n/tr.po
 odoo/addons/crm_iap_lead_enrich/i18n/uk.po
@@ -4037,6 +4091,7 @@ odoo/addons/crm_iap_lead_website/i18n/el.po
 odoo/addons/crm_iap_lead_website/i18n/eo.po
 odoo/addons/crm_iap_lead_website/i18n/es.po
 odoo/addons/crm_iap_lead_website/i18n/et.po
+odoo/addons/crm_iap_lead_website/i18n/fi.po
 odoo/addons/crm_iap_lead_website/i18n/fr.po
 odoo/addons/crm_iap_lead_website/i18n/he.po
 odoo/addons/crm_iap_lead_website/i18n/hr.po
@@ -4056,6 +4111,7 @@ odoo/addons/crm_iap_lead_website/i18n/pt.po
 odoo/addons/crm_iap_lead_website/i18n/pt_BR.po
 odoo/addons/crm_iap_lead_website/i18n/ro.po
 odoo/addons/crm_iap_lead_website/i18n/ru.po
+odoo/addons/crm_iap_lead_website/i18n/si.po
 odoo/addons/crm_iap_lead_website/i18n/sk.po
 odoo/addons/crm_iap_lead_website/i18n/tr.po
 odoo/addons/crm_iap_lead_website/i18n/uk.po
@@ -4134,6 +4190,7 @@ odoo/addons/crm_livechat/i18n/pt.po
 odoo/addons/crm_livechat/i18n/pt_BR.po
 odoo/addons/crm_livechat/i18n/ro.po
 odoo/addons/crm_livechat/i18n/ru.po
+odoo/addons/crm_livechat/i18n/si.po
 odoo/addons/crm_livechat/i18n/sk.po
 odoo/addons/crm_livechat/i18n/sl.po
 odoo/addons/crm_livechat/i18n/sq.po
@@ -4162,6 +4219,7 @@ odoo/addons/crm_sms/i18n/el.po
 odoo/addons/crm_sms/i18n/eo.po
 odoo/addons/crm_sms/i18n/es.po
 odoo/addons/crm_sms/i18n/et.po
+odoo/addons/crm_sms/i18n/fi.po
 odoo/addons/crm_sms/i18n/fr.po
 odoo/addons/crm_sms/i18n/he.po
 odoo/addons/crm_sms/i18n/hr.po
@@ -4181,6 +4239,7 @@ odoo/addons/crm_sms/i18n/pt.po
 odoo/addons/crm_sms/i18n/pt_BR.po
 odoo/addons/crm_sms/i18n/ro.po
 odoo/addons/crm_sms/i18n/ru.po
+odoo/addons/crm_sms/i18n/si.po
 odoo/addons/crm_sms/i18n/sk.po
 odoo/addons/crm_sms/i18n/tr.po
 odoo/addons/crm_sms/i18n/uk.po
@@ -4256,6 +4315,7 @@ odoo/addons/delivery/i18n/pt.po
 odoo/addons/delivery/i18n/pt_BR.po
 odoo/addons/delivery/i18n/ro.po
 odoo/addons/delivery/i18n/ru.po
+odoo/addons/delivery/i18n/si.po
 odoo/addons/delivery/i18n/sk.po
 odoo/addons/delivery/i18n/sl.po
 odoo/addons/delivery/i18n/sq.po
@@ -4343,6 +4403,7 @@ odoo/addons/digest/i18n/pt.po
 odoo/addons/digest/i18n/pt_BR.po
 odoo/addons/digest/i18n/ro.po
 odoo/addons/digest/i18n/ru.po
+odoo/addons/digest/i18n/si.po
 odoo/addons/digest/i18n/sk.po
 odoo/addons/digest/i18n/sr.po
 odoo/addons/digest/i18n/th.po
@@ -4439,6 +4500,7 @@ odoo/addons/event/i18n/pt.po
 odoo/addons/event/i18n/pt_BR.po
 odoo/addons/event/i18n/ro.po
 odoo/addons/event/i18n/ru.po
+odoo/addons/event/i18n/si.po
 odoo/addons/event/i18n/sk.po
 odoo/addons/event/i18n/sl.po
 odoo/addons/event/i18n/sq.po
@@ -4502,6 +4564,7 @@ odoo/addons/event_crm/i18n/eo.po
 odoo/addons/event_crm/i18n/es.po
 odoo/addons/event_crm/i18n/et.po
 odoo/addons/event_crm/i18n/event_crm.pot
+odoo/addons/event_crm/i18n/fi.po
 odoo/addons/event_crm/i18n/fr.po
 odoo/addons/event_crm/i18n/he.po
 odoo/addons/event_crm/i18n/hr.po
@@ -4518,6 +4581,7 @@ odoo/addons/event_crm/i18n/pt.po
 odoo/addons/event_crm/i18n/pt_BR.po
 odoo/addons/event_crm/i18n/ro.po
 odoo/addons/event_crm/i18n/ru.po
+odoo/addons/event_crm/i18n/si.po
 odoo/addons/event_crm/i18n/sk.po
 odoo/addons/event_crm/i18n/tr.po
 odoo/addons/event_crm/i18n/uk.po
@@ -4611,6 +4675,7 @@ odoo/addons/event_sale/i18n/pt.po
 odoo/addons/event_sale/i18n/pt_BR.po
 odoo/addons/event_sale/i18n/ro.po
 odoo/addons/event_sale/i18n/ru.po
+odoo/addons/event_sale/i18n/si.po
 odoo/addons/event_sale/i18n/sk.po
 odoo/addons/event_sale/i18n/sl.po
 odoo/addons/event_sale/i18n/sq.po
@@ -4671,6 +4736,7 @@ odoo/addons/event_sms/i18n/eo.po
 odoo/addons/event_sms/i18n/es.po
 odoo/addons/event_sms/i18n/et.po
 odoo/addons/event_sms/i18n/event_sms.pot
+odoo/addons/event_sms/i18n/fi.po
 odoo/addons/event_sms/i18n/fr.po
 odoo/addons/event_sms/i18n/he.po
 odoo/addons/event_sms/i18n/hr.po
@@ -4690,6 +4756,7 @@ odoo/addons/event_sms/i18n/pt.po
 odoo/addons/event_sms/i18n/pt_BR.po
 odoo/addons/event_sms/i18n/ro.po
 odoo/addons/event_sms/i18n/ru.po
+odoo/addons/event_sms/i18n/si.po
 odoo/addons/event_sms/i18n/sk.po
 odoo/addons/event_sms/i18n/tr.po
 odoo/addons/event_sms/i18n/uk.po
@@ -4771,6 +4838,7 @@ odoo/addons/fetchmail/i18n/pt.po
 odoo/addons/fetchmail/i18n/pt_BR.po
 odoo/addons/fetchmail/i18n/ro.po
 odoo/addons/fetchmail/i18n/ru.po
+odoo/addons/fetchmail/i18n/si.po
 odoo/addons/fetchmail/i18n/sk.po
 odoo/addons/fetchmail/i18n/sl.po
 odoo/addons/fetchmail/i18n/sq.po
@@ -4857,6 +4925,7 @@ odoo/addons/fleet/i18n/pt.po
 odoo/addons/fleet/i18n/pt_BR.po
 odoo/addons/fleet/i18n/ro.po
 odoo/addons/fleet/i18n/ru.po
+odoo/addons/fleet/i18n/si.po
 odoo/addons/fleet/i18n/sk.po
 odoo/addons/fleet/i18n/sl.po
 odoo/addons/fleet/i18n/sq.po
@@ -5023,6 +5092,7 @@ odoo/addons/gamification/i18n/pt.po
 odoo/addons/gamification/i18n/pt_BR.po
 odoo/addons/gamification/i18n/ro.po
 odoo/addons/gamification/i18n/ru.po
+odoo/addons/gamification/i18n/si.po
 odoo/addons/gamification/i18n/sk.po
 odoo/addons/gamification/i18n/sl.po
 odoo/addons/gamification/i18n/sq.po
@@ -5146,6 +5216,7 @@ odoo/addons/gamification_sale_crm/i18n/pt.po
 odoo/addons/gamification_sale_crm/i18n/pt_BR.po
 odoo/addons/gamification_sale_crm/i18n/ro.po
 odoo/addons/gamification_sale_crm/i18n/ru.po
+odoo/addons/gamification_sale_crm/i18n/si.po
 odoo/addons/gamification_sale_crm/i18n/sk.po
 odoo/addons/gamification_sale_crm/i18n/sl.po
 odoo/addons/gamification_sale_crm/i18n/sq.po
@@ -5229,6 +5300,7 @@ odoo/addons/google_account/i18n/pt.po
 odoo/addons/google_account/i18n/pt_BR.po
 odoo/addons/google_account/i18n/ro.po
 odoo/addons/google_account/i18n/ru.po
+odoo/addons/google_account/i18n/si.po
 odoo/addons/google_account/i18n/sk.po
 odoo/addons/google_account/i18n/sl.po
 odoo/addons/google_account/i18n/sq.po
@@ -5310,6 +5382,7 @@ odoo/addons/google_calendar/i18n/pt.po
 odoo/addons/google_calendar/i18n/pt_BR.po
 odoo/addons/google_calendar/i18n/ro.po
 odoo/addons/google_calendar/i18n/ru.po
+odoo/addons/google_calendar/i18n/si.po
 odoo/addons/google_calendar/i18n/sk.po
 odoo/addons/google_calendar/i18n/sl.po
 odoo/addons/google_calendar/i18n/sq.po
@@ -5425,6 +5498,7 @@ odoo/addons/google_drive/i18n/pt.po
 odoo/addons/google_drive/i18n/pt_BR.po
 odoo/addons/google_drive/i18n/ro.po
 odoo/addons/google_drive/i18n/ru.po
+odoo/addons/google_drive/i18n/si.po
 odoo/addons/google_drive/i18n/sk.po
 odoo/addons/google_drive/i18n/sl.po
 odoo/addons/google_drive/i18n/sq.po
@@ -5467,6 +5541,7 @@ odoo/addons/google_recaptcha/i18n/el.po
 odoo/addons/google_recaptcha/i18n/eo.po
 odoo/addons/google_recaptcha/i18n/es.po
 odoo/addons/google_recaptcha/i18n/et.po
+odoo/addons/google_recaptcha/i18n/fi.po
 odoo/addons/google_recaptcha/i18n/fr.po
 odoo/addons/google_recaptcha/i18n/google_recaptcha.pot
 odoo/addons/google_recaptcha/i18n/he.po
@@ -5484,6 +5559,7 @@ odoo/addons/google_recaptcha/i18n/pt.po
 odoo/addons/google_recaptcha/i18n/pt_BR.po
 odoo/addons/google_recaptcha/i18n/ro.po
 odoo/addons/google_recaptcha/i18n/ru.po
+odoo/addons/google_recaptcha/i18n/si.po
 odoo/addons/google_recaptcha/i18n/sk.po
 odoo/addons/google_recaptcha/i18n/tr.po
 odoo/addons/google_recaptcha/i18n/uk.po
@@ -5569,6 +5645,7 @@ odoo/addons/google_spreadsheet/i18n/pt.po
 odoo/addons/google_spreadsheet/i18n/pt_BR.po
 odoo/addons/google_spreadsheet/i18n/ro.po
 odoo/addons/google_spreadsheet/i18n/ru.po
+odoo/addons/google_spreadsheet/i18n/si.po
 odoo/addons/google_spreadsheet/i18n/sk.po
 odoo/addons/google_spreadsheet/i18n/sl.po
 odoo/addons/google_spreadsheet/i18n/sq.po
@@ -5656,6 +5733,7 @@ odoo/addons/hr/i18n/pt.po
 odoo/addons/hr/i18n/pt_BR.po
 odoo/addons/hr/i18n/ro.po
 odoo/addons/hr/i18n/ru.po
+odoo/addons/hr/i18n/si.po
 odoo/addons/hr/i18n/sk.po
 odoo/addons/hr/i18n/sl.po
 odoo/addons/hr/i18n/sq.po
@@ -5821,6 +5899,7 @@ odoo/addons/hr_attendance/i18n/pt.po
 odoo/addons/hr_attendance/i18n/pt_BR.po
 odoo/addons/hr_attendance/i18n/ro.po
 odoo/addons/hr_attendance/i18n/ru.po
+odoo/addons/hr_attendance/i18n/si.po
 odoo/addons/hr_attendance/i18n/sk.po
 odoo/addons/hr_attendance/i18n/sl.po
 odoo/addons/hr_attendance/i18n/sq.po
@@ -5927,6 +6006,7 @@ odoo/addons/hr_contract/i18n/pt.po
 odoo/addons/hr_contract/i18n/pt_BR.po
 odoo/addons/hr_contract/i18n/ro.po
 odoo/addons/hr_contract/i18n/ru.po
+odoo/addons/hr_contract/i18n/si.po
 odoo/addons/hr_contract/i18n/sk.po
 odoo/addons/hr_contract/i18n/sl.po
 odoo/addons/hr_contract/i18n/sq.po
@@ -6030,6 +6110,7 @@ odoo/addons/hr_expense/i18n/pt.po
 odoo/addons/hr_expense/i18n/pt_BR.po
 odoo/addons/hr_expense/i18n/ro.po
 odoo/addons/hr_expense/i18n/ru.po
+odoo/addons/hr_expense/i18n/si.po
 odoo/addons/hr_expense/i18n/sk.po
 odoo/addons/hr_expense/i18n/sl.po
 odoo/addons/hr_expense/i18n/sq.po
@@ -6104,6 +6185,7 @@ odoo/addons/hr_fleet/i18n/el.po
 odoo/addons/hr_fleet/i18n/eo.po
 odoo/addons/hr_fleet/i18n/es.po
 odoo/addons/hr_fleet/i18n/et.po
+odoo/addons/hr_fleet/i18n/fi.po
 odoo/addons/hr_fleet/i18n/fr.po
 odoo/addons/hr_fleet/i18n/he.po
 odoo/addons/hr_fleet/i18n/hr.po
@@ -6124,6 +6206,7 @@ odoo/addons/hr_fleet/i18n/pt.po
 odoo/addons/hr_fleet/i18n/pt_BR.po
 odoo/addons/hr_fleet/i18n/ro.po
 odoo/addons/hr_fleet/i18n/ru.po
+odoo/addons/hr_fleet/i18n/si.po
 odoo/addons/hr_fleet/i18n/sk.po
 odoo/addons/hr_fleet/i18n/tr.po
 odoo/addons/hr_fleet/i18n/uk.po
@@ -6202,6 +6285,7 @@ odoo/addons/hr_gamification/i18n/pt.po
 odoo/addons/hr_gamification/i18n/pt_BR.po
 odoo/addons/hr_gamification/i18n/ro.po
 odoo/addons/hr_gamification/i18n/ru.po
+odoo/addons/hr_gamification/i18n/si.po
 odoo/addons/hr_gamification/i18n/sk.po
 odoo/addons/hr_gamification/i18n/sl.po
 odoo/addons/hr_gamification/i18n/sq.po
@@ -6298,6 +6382,7 @@ odoo/addons/hr_holidays/i18n/pt.po
 odoo/addons/hr_holidays/i18n/pt_BR.po
 odoo/addons/hr_holidays/i18n/ro.po
 odoo/addons/hr_holidays/i18n/ru.po
+odoo/addons/hr_holidays/i18n/si.po
 odoo/addons/hr_holidays/i18n/sk.po
 odoo/addons/hr_holidays/i18n/sl.po
 odoo/addons/hr_holidays/i18n/sq.po
@@ -6441,6 +6526,7 @@ odoo/addons/hr_maintenance/i18n/pt.po
 odoo/addons/hr_maintenance/i18n/pt_BR.po
 odoo/addons/hr_maintenance/i18n/ro.po
 odoo/addons/hr_maintenance/i18n/ru.po
+odoo/addons/hr_maintenance/i18n/si.po
 odoo/addons/hr_maintenance/i18n/sk.po
 odoo/addons/hr_maintenance/i18n/sl.po
 odoo/addons/hr_maintenance/i18n/sq.po
@@ -6523,6 +6609,7 @@ odoo/addons/hr_org_chart/i18n/pt.po
 odoo/addons/hr_org_chart/i18n/pt_BR.po
 odoo/addons/hr_org_chart/i18n/ro.po
 odoo/addons/hr_org_chart/i18n/ru.po
+odoo/addons/hr_org_chart/i18n/si.po
 odoo/addons/hr_org_chart/i18n/sk.po
 odoo/addons/hr_org_chart/i18n/sl.po
 odoo/addons/hr_org_chart/i18n/sq.po
@@ -6564,6 +6651,7 @@ odoo/addons/hr_presence/i18n/el.po
 odoo/addons/hr_presence/i18n/eo.po
 odoo/addons/hr_presence/i18n/es.po
 odoo/addons/hr_presence/i18n/et.po
+odoo/addons/hr_presence/i18n/fi.po
 odoo/addons/hr_presence/i18n/fr.po
 odoo/addons/hr_presence/i18n/he.po
 odoo/addons/hr_presence/i18n/hr.po
@@ -6584,6 +6672,7 @@ odoo/addons/hr_presence/i18n/pt.po
 odoo/addons/hr_presence/i18n/pt_BR.po
 odoo/addons/hr_presence/i18n/ro.po
 odoo/addons/hr_presence/i18n/ru.po
+odoo/addons/hr_presence/i18n/si.po
 odoo/addons/hr_presence/i18n/sk.po
 odoo/addons/hr_presence/i18n/tr.po
 odoo/addons/hr_presence/i18n/uk.po
@@ -6667,6 +6756,7 @@ odoo/addons/hr_recruitment/i18n/pt.po
 odoo/addons/hr_recruitment/i18n/pt_BR.po
 odoo/addons/hr_recruitment/i18n/ro.po
 odoo/addons/hr_recruitment/i18n/ru.po
+odoo/addons/hr_recruitment/i18n/si.po
 odoo/addons/hr_recruitment/i18n/sk.po
 odoo/addons/hr_recruitment/i18n/sl.po
 odoo/addons/hr_recruitment/i18n/sq.po
@@ -6773,6 +6863,7 @@ odoo/addons/hr_recruitment_survey/i18n/pt.po
 odoo/addons/hr_recruitment_survey/i18n/pt_BR.po
 odoo/addons/hr_recruitment_survey/i18n/ro.po
 odoo/addons/hr_recruitment_survey/i18n/ru.po
+odoo/addons/hr_recruitment_survey/i18n/si.po
 odoo/addons/hr_recruitment_survey/i18n/sk.po
 odoo/addons/hr_recruitment_survey/i18n/sl.po
 odoo/addons/hr_recruitment_survey/i18n/sq.po
@@ -6811,6 +6902,7 @@ odoo/addons/hr_skills/i18n/el.po
 odoo/addons/hr_skills/i18n/eo.po
 odoo/addons/hr_skills/i18n/es.po
 odoo/addons/hr_skills/i18n/et.po
+odoo/addons/hr_skills/i18n/fi.po
 odoo/addons/hr_skills/i18n/fr.po
 odoo/addons/hr_skills/i18n/he.po
 odoo/addons/hr_skills/i18n/hr.po
@@ -6831,6 +6923,7 @@ odoo/addons/hr_skills/i18n/pt.po
 odoo/addons/hr_skills/i18n/pt_BR.po
 odoo/addons/hr_skills/i18n/ro.po
 odoo/addons/hr_skills/i18n/ru.po
+odoo/addons/hr_skills/i18n/si.po
 odoo/addons/hr_skills/i18n/sk.po
 odoo/addons/hr_skills/i18n/tr.po
 odoo/addons/hr_skills/i18n/uk.po
@@ -6866,6 +6959,7 @@ odoo/addons/hr_skills_slides/i18n/el.po
 odoo/addons/hr_skills_slides/i18n/eo.po
 odoo/addons/hr_skills_slides/i18n/es.po
 odoo/addons/hr_skills_slides/i18n/et.po
+odoo/addons/hr_skills_slides/i18n/fi.po
 odoo/addons/hr_skills_slides/i18n/fr.po
 odoo/addons/hr_skills_slides/i18n/he.po
 odoo/addons/hr_skills_slides/i18n/hr.po
@@ -6886,6 +6980,7 @@ odoo/addons/hr_skills_slides/i18n/pt.po
 odoo/addons/hr_skills_slides/i18n/pt_BR.po
 odoo/addons/hr_skills_slides/i18n/ro.po
 odoo/addons/hr_skills_slides/i18n/ru.po
+odoo/addons/hr_skills_slides/i18n/si.po
 odoo/addons/hr_skills_slides/i18n/sk.po
 odoo/addons/hr_skills_slides/i18n/tr.po
 odoo/addons/hr_skills_slides/i18n/uk.po
@@ -6912,6 +7007,7 @@ odoo/addons/hr_skills_survey/i18n/el.po
 odoo/addons/hr_skills_survey/i18n/eo.po
 odoo/addons/hr_skills_survey/i18n/es.po
 odoo/addons/hr_skills_survey/i18n/et.po
+odoo/addons/hr_skills_survey/i18n/fi.po
 odoo/addons/hr_skills_survey/i18n/fr.po
 odoo/addons/hr_skills_survey/i18n/he.po
 odoo/addons/hr_skills_survey/i18n/hr.po
@@ -6932,6 +7028,7 @@ odoo/addons/hr_skills_survey/i18n/pt.po
 odoo/addons/hr_skills_survey/i18n/pt_BR.po
 odoo/addons/hr_skills_survey/i18n/ro.po
 odoo/addons/hr_skills_survey/i18n/ru.po
+odoo/addons/hr_skills_survey/i18n/si.po
 odoo/addons/hr_skills_survey/i18n/sk.po
 odoo/addons/hr_skills_survey/i18n/tr.po
 odoo/addons/hr_skills_survey/i18n/uk.po
@@ -7015,6 +7112,7 @@ odoo/addons/hr_timesheet/i18n/pt.po
 odoo/addons/hr_timesheet/i18n/pt_BR.po
 odoo/addons/hr_timesheet/i18n/ro.po
 odoo/addons/hr_timesheet/i18n/ru.po
+odoo/addons/hr_timesheet/i18n/si.po
 odoo/addons/hr_timesheet/i18n/sk.po
 odoo/addons/hr_timesheet/i18n/sl.po
 odoo/addons/hr_timesheet/i18n/sq.po
@@ -7131,6 +7229,7 @@ odoo/addons/hr_timesheet_attendance/i18n/pt.po
 odoo/addons/hr_timesheet_attendance/i18n/pt_BR.po
 odoo/addons/hr_timesheet_attendance/i18n/ro.po
 odoo/addons/hr_timesheet_attendance/i18n/ru.po
+odoo/addons/hr_timesheet_attendance/i18n/si.po
 odoo/addons/hr_timesheet_attendance/i18n/sk.po
 odoo/addons/hr_timesheet_attendance/i18n/sl.po
 odoo/addons/hr_timesheet_attendance/i18n/sq.po
@@ -7161,6 +7260,7 @@ odoo/addons/hr_work_entry/i18n/el.po
 odoo/addons/hr_work_entry/i18n/eo.po
 odoo/addons/hr_work_entry/i18n/es.po
 odoo/addons/hr_work_entry/i18n/et.po
+odoo/addons/hr_work_entry/i18n/fi.po
 odoo/addons/hr_work_entry/i18n/fr.po
 odoo/addons/hr_work_entry/i18n/he.po
 odoo/addons/hr_work_entry/i18n/hr.po
@@ -7181,6 +7281,7 @@ odoo/addons/hr_work_entry/i18n/pt.po
 odoo/addons/hr_work_entry/i18n/pt_BR.po
 odoo/addons/hr_work_entry/i18n/ro.po
 odoo/addons/hr_work_entry/i18n/ru.po
+odoo/addons/hr_work_entry/i18n/si.po
 odoo/addons/hr_work_entry/i18n/sk.po
 odoo/addons/hr_work_entry/i18n/tr.po
 odoo/addons/hr_work_entry/i18n/uk.po
@@ -7238,6 +7339,7 @@ odoo/addons/http_routing/i18n/pt.po
 odoo/addons/http_routing/i18n/pt_BR.po
 odoo/addons/http_routing/i18n/ro.po
 odoo/addons/http_routing/i18n/ru.po
+odoo/addons/http_routing/i18n/si.po
 odoo/addons/http_routing/i18n/sk.po
 odoo/addons/http_routing/i18n/sr.po
 odoo/addons/http_routing/i18n/sv.po
@@ -7419,6 +7521,7 @@ odoo/addons/iap/i18n/pt.po
 odoo/addons/iap/i18n/pt_BR.po
 odoo/addons/iap/i18n/ro.po
 odoo/addons/iap/i18n/ru.po
+odoo/addons/iap/i18n/si.po
 odoo/addons/iap/i18n/sk.po
 odoo/addons/iap/i18n/sl.po
 odoo/addons/iap/i18n/sq.po
@@ -7462,6 +7565,7 @@ odoo/addons/iap_crm/i18n/el.po
 odoo/addons/iap_crm/i18n/eo.po
 odoo/addons/iap_crm/i18n/es.po
 odoo/addons/iap_crm/i18n/et.po
+odoo/addons/iap_crm/i18n/fi.po
 odoo/addons/iap_crm/i18n/fr.po
 odoo/addons/iap_crm/i18n/he.po
 odoo/addons/iap_crm/i18n/hr.po
@@ -7479,6 +7583,7 @@ odoo/addons/iap_crm/i18n/pt.po
 odoo/addons/iap_crm/i18n/pt_BR.po
 odoo/addons/iap_crm/i18n/ro.po
 odoo/addons/iap_crm/i18n/ru.po
+odoo/addons/iap_crm/i18n/si.po
 odoo/addons/iap_crm/i18n/sk.po
 odoo/addons/iap_crm/i18n/tr.po
 odoo/addons/iap_crm/i18n/uk.po
@@ -7500,6 +7605,7 @@ odoo/addons/iap_mail/i18n/el.po
 odoo/addons/iap_mail/i18n/eo.po
 odoo/addons/iap_mail/i18n/es.po
 odoo/addons/iap_mail/i18n/et.po
+odoo/addons/iap_mail/i18n/fi.po
 odoo/addons/iap_mail/i18n/fr.po
 odoo/addons/iap_mail/i18n/he.po
 odoo/addons/iap_mail/i18n/hr.po
@@ -7517,6 +7623,7 @@ odoo/addons/iap_mail/i18n/pt.po
 odoo/addons/iap_mail/i18n/pt_BR.po
 odoo/addons/iap_mail/i18n/ro.po
 odoo/addons/iap_mail/i18n/ru.po
+odoo/addons/iap_mail/i18n/si.po
 odoo/addons/iap_mail/i18n/sk.po
 odoo/addons/iap_mail/i18n/tr.po
 odoo/addons/iap_mail/i18n/uk.po
@@ -7594,6 +7701,7 @@ odoo/addons/im_livechat/i18n/pt.po
 odoo/addons/im_livechat/i18n/pt_BR.po
 odoo/addons/im_livechat/i18n/ro.po
 odoo/addons/im_livechat/i18n/ru.po
+odoo/addons/im_livechat/i18n/si.po
 odoo/addons/im_livechat/i18n/sk.po
 odoo/addons/im_livechat/i18n/sl.po
 odoo/addons/im_livechat/i18n/sq.po
@@ -7707,6 +7815,7 @@ odoo/addons/im_livechat_mail_bot/i18n/pt.po
 odoo/addons/im_livechat_mail_bot/i18n/pt_BR.po
 odoo/addons/im_livechat_mail_bot/i18n/ro.po
 odoo/addons/im_livechat_mail_bot/i18n/ru.po
+odoo/addons/im_livechat_mail_bot/i18n/si.po
 odoo/addons/im_livechat_mail_bot/i18n/sk.po
 odoo/addons/im_livechat_mail_bot/i18n/sr.po
 odoo/addons/im_livechat_mail_bot/i18n/th.po
@@ -8717,6 +8826,7 @@ odoo/addons/l10n_multilang/i18n/pt.po
 odoo/addons/l10n_multilang/i18n/pt_BR.po
 odoo/addons/l10n_multilang/i18n/ro.po
 odoo/addons/l10n_multilang/i18n/ru.po
+odoo/addons/l10n_multilang/i18n/si.po
 odoo/addons/l10n_multilang/i18n/sk.po
 odoo/addons/l10n_multilang/i18n/sl.po
 odoo/addons/l10n_multilang/i18n/sq.po
@@ -9119,6 +9229,7 @@ odoo/addons/link_tracker/i18n/pt.po
 odoo/addons/link_tracker/i18n/pt_BR.po
 odoo/addons/link_tracker/i18n/ro.po
 odoo/addons/link_tracker/i18n/ru.po
+odoo/addons/link_tracker/i18n/si.po
 odoo/addons/link_tracker/i18n/sk.po
 odoo/addons/link_tracker/i18n/sl.po
 odoo/addons/link_tracker/i18n/sq.po
@@ -9212,6 +9323,7 @@ odoo/addons/lunch/i18n/pt.po
 odoo/addons/lunch/i18n/pt_BR.po
 odoo/addons/lunch/i18n/ro.po
 odoo/addons/lunch/i18n/ru.po
+odoo/addons/lunch/i18n/si.po
 odoo/addons/lunch/i18n/sk.po
 odoo/addons/lunch/i18n/sl.po
 odoo/addons/lunch/i18n/sq.po
@@ -9381,6 +9493,7 @@ odoo/addons/mail/i18n/pt.po
 odoo/addons/mail/i18n/pt_BR.po
 odoo/addons/mail/i18n/ro.po
 odoo/addons/mail/i18n/ru.po
+odoo/addons/mail/i18n/si.po
 odoo/addons/mail/i18n/sk.po
 odoo/addons/mail/i18n/sl.po
 odoo/addons/mail/i18n/sq.po
@@ -9869,6 +9982,7 @@ odoo/addons/mail_bot/i18n/pt.po
 odoo/addons/mail_bot/i18n/pt_BR.po
 odoo/addons/mail_bot/i18n/ro.po
 odoo/addons/mail_bot/i18n/ru.po
+odoo/addons/mail_bot/i18n/si.po
 odoo/addons/mail_bot/i18n/sk.po
 odoo/addons/mail_bot/i18n/sr.po
 odoo/addons/mail_bot/i18n/th.po
@@ -9910,6 +10024,7 @@ odoo/addons/mail_client_extension/i18n/el.po
 odoo/addons/mail_client_extension/i18n/eo.po
 odoo/addons/mail_client_extension/i18n/es.po
 odoo/addons/mail_client_extension/i18n/et.po
+odoo/addons/mail_client_extension/i18n/fi.po
 odoo/addons/mail_client_extension/i18n/fr.po
 odoo/addons/mail_client_extension/i18n/he.po
 odoo/addons/mail_client_extension/i18n/hr.po
@@ -9927,6 +10042,7 @@ odoo/addons/mail_client_extension/i18n/pt.po
 odoo/addons/mail_client_extension/i18n/pt_BR.po
 odoo/addons/mail_client_extension/i18n/ro.po
 odoo/addons/mail_client_extension/i18n/ru.po
+odoo/addons/mail_client_extension/i18n/si.po
 odoo/addons/mail_client_extension/i18n/sk.po
 odoo/addons/mail_client_extension/i18n/tr.po
 odoo/addons/mail_client_extension/i18n/uk.po
@@ -10008,6 +10124,7 @@ odoo/addons/maintenance/i18n/pt.po
 odoo/addons/maintenance/i18n/pt_BR.po
 odoo/addons/maintenance/i18n/ro.po
 odoo/addons/maintenance/i18n/ru.po
+odoo/addons/maintenance/i18n/si.po
 odoo/addons/maintenance/i18n/sk.po
 odoo/addons/maintenance/i18n/sl.po
 odoo/addons/maintenance/i18n/sq.po
@@ -10105,6 +10222,7 @@ odoo/addons/mass_mailing/i18n/pt.po
 odoo/addons/mass_mailing/i18n/pt_BR.po
 odoo/addons/mass_mailing/i18n/ro.po
 odoo/addons/mass_mailing/i18n/ru.po
+odoo/addons/mass_mailing/i18n/si.po
 odoo/addons/mass_mailing/i18n/sk.po
 odoo/addons/mass_mailing/i18n/sl.po
 odoo/addons/mass_mailing/i18n/sq.po
@@ -10275,6 +10393,7 @@ odoo/addons/mass_mailing_crm/i18n/pt.po
 odoo/addons/mass_mailing_crm/i18n/pt_BR.po
 odoo/addons/mass_mailing_crm/i18n/ro.po
 odoo/addons/mass_mailing_crm/i18n/ru.po
+odoo/addons/mass_mailing_crm/i18n/si.po
 odoo/addons/mass_mailing_crm/i18n/sk.po
 odoo/addons/mass_mailing_crm/i18n/sr.po
 odoo/addons/mass_mailing_crm/i18n/th.po
@@ -10348,6 +10467,7 @@ odoo/addons/mass_mailing_event/i18n/pt.po
 odoo/addons/mass_mailing_event/i18n/pt_BR.po
 odoo/addons/mass_mailing_event/i18n/ro.po
 odoo/addons/mass_mailing_event/i18n/ru.po
+odoo/addons/mass_mailing_event/i18n/si.po
 odoo/addons/mass_mailing_event/i18n/sk.po
 odoo/addons/mass_mailing_event/i18n/sl.po
 odoo/addons/mass_mailing_event/i18n/sq.po
@@ -10429,6 +10549,7 @@ odoo/addons/mass_mailing_event_track/i18n/pt.po
 odoo/addons/mass_mailing_event_track/i18n/pt_BR.po
 odoo/addons/mass_mailing_event_track/i18n/ro.po
 odoo/addons/mass_mailing_event_track/i18n/ru.po
+odoo/addons/mass_mailing_event_track/i18n/si.po
 odoo/addons/mass_mailing_event_track/i18n/sk.po
 odoo/addons/mass_mailing_event_track/i18n/sl.po
 odoo/addons/mass_mailing_event_track/i18n/sq.po
@@ -10489,6 +10610,7 @@ odoo/addons/mass_mailing_sale/i18n/pt.po
 odoo/addons/mass_mailing_sale/i18n/pt_BR.po
 odoo/addons/mass_mailing_sale/i18n/ro.po
 odoo/addons/mass_mailing_sale/i18n/ru.po
+odoo/addons/mass_mailing_sale/i18n/si.po
 odoo/addons/mass_mailing_sale/i18n/sk.po
 odoo/addons/mass_mailing_sale/i18n/sr.po
 odoo/addons/mass_mailing_sale/i18n/th.po
@@ -10513,6 +10635,7 @@ odoo/addons/mass_mailing_slides/i18n/el.po
 odoo/addons/mass_mailing_slides/i18n/eo.po
 odoo/addons/mass_mailing_slides/i18n/es.po
 odoo/addons/mass_mailing_slides/i18n/et.po
+odoo/addons/mass_mailing_slides/i18n/fi.po
 odoo/addons/mass_mailing_slides/i18n/fr.po
 odoo/addons/mass_mailing_slides/i18n/he.po
 odoo/addons/mass_mailing_slides/i18n/hr.po
@@ -10533,6 +10656,7 @@ odoo/addons/mass_mailing_slides/i18n/pt.po
 odoo/addons/mass_mailing_slides/i18n/pt_BR.po
 odoo/addons/mass_mailing_slides/i18n/ro.po
 odoo/addons/mass_mailing_slides/i18n/ru.po
+odoo/addons/mass_mailing_slides/i18n/si.po
 odoo/addons/mass_mailing_slides/i18n/sk.po
 odoo/addons/mass_mailing_slides/i18n/tr.po
 odoo/addons/mass_mailing_slides/i18n/uk.po
@@ -10561,6 +10685,7 @@ odoo/addons/mass_mailing_sms/i18n/el.po
 odoo/addons/mass_mailing_sms/i18n/eo.po
 odoo/addons/mass_mailing_sms/i18n/es.po
 odoo/addons/mass_mailing_sms/i18n/et.po
+odoo/addons/mass_mailing_sms/i18n/fi.po
 odoo/addons/mass_mailing_sms/i18n/fr.po
 odoo/addons/mass_mailing_sms/i18n/he.po
 odoo/addons/mass_mailing_sms/i18n/hr.po
@@ -10581,6 +10706,7 @@ odoo/addons/mass_mailing_sms/i18n/pt.po
 odoo/addons/mass_mailing_sms/i18n/pt_BR.po
 odoo/addons/mass_mailing_sms/i18n/ro.po
 odoo/addons/mass_mailing_sms/i18n/ru.po
+odoo/addons/mass_mailing_sms/i18n/si.po
 odoo/addons/mass_mailing_sms/i18n/sk.po
 odoo/addons/mass_mailing_sms/i18n/tr.po
 odoo/addons/mass_mailing_sms/i18n/uk.po
@@ -10680,6 +10806,7 @@ odoo/addons/membership/i18n/pt.po
 odoo/addons/membership/i18n/pt_BR.po
 odoo/addons/membership/i18n/ro.po
 odoo/addons/membership/i18n/ru.po
+odoo/addons/membership/i18n/si.po
 odoo/addons/membership/i18n/sk.po
 odoo/addons/membership/i18n/sl.po
 odoo/addons/membership/i18n/sq.po
@@ -10728,6 +10855,7 @@ odoo/addons/microsoft_account/i18n/el.po
 odoo/addons/microsoft_account/i18n/eo.po
 odoo/addons/microsoft_account/i18n/es.po
 odoo/addons/microsoft_account/i18n/et.po
+odoo/addons/microsoft_account/i18n/fi.po
 odoo/addons/microsoft_account/i18n/fr.po
 odoo/addons/microsoft_account/i18n/he.po
 odoo/addons/microsoft_account/i18n/hr.po
@@ -10745,6 +10873,7 @@ odoo/addons/microsoft_account/i18n/pt.po
 odoo/addons/microsoft_account/i18n/pt_BR.po
 odoo/addons/microsoft_account/i18n/ro.po
 odoo/addons/microsoft_account/i18n/ru.po
+odoo/addons/microsoft_account/i18n/si.po
 odoo/addons/microsoft_account/i18n/sk.po
 odoo/addons/microsoft_account/i18n/tr.po
 odoo/addons/microsoft_account/i18n/uk.po
@@ -10770,6 +10899,7 @@ odoo/addons/microsoft_calendar/i18n/el.po
 odoo/addons/microsoft_calendar/i18n/eo.po
 odoo/addons/microsoft_calendar/i18n/es.po
 odoo/addons/microsoft_calendar/i18n/et.po
+odoo/addons/microsoft_calendar/i18n/fi.po
 odoo/addons/microsoft_calendar/i18n/fr.po
 odoo/addons/microsoft_calendar/i18n/he.po
 odoo/addons/microsoft_calendar/i18n/hr.po
@@ -10787,6 +10917,7 @@ odoo/addons/microsoft_calendar/i18n/pt.po
 odoo/addons/microsoft_calendar/i18n/pt_BR.po
 odoo/addons/microsoft_calendar/i18n/ro.po
 odoo/addons/microsoft_calendar/i18n/ru.po
+odoo/addons/microsoft_calendar/i18n/si.po
 odoo/addons/microsoft_calendar/i18n/sk.po
 odoo/addons/microsoft_calendar/i18n/tr.po
 odoo/addons/microsoft_calendar/i18n/uk.po
@@ -10886,6 +11017,7 @@ odoo/addons/mrp/i18n/pt.po
 odoo/addons/mrp/i18n/pt_BR.po
 odoo/addons/mrp/i18n/ro.po
 odoo/addons/mrp/i18n/ru.po
+odoo/addons/mrp/i18n/si.po
 odoo/addons/mrp/i18n/sk.po
 odoo/addons/mrp/i18n/sl.po
 odoo/addons/mrp/i18n/sq.po
@@ -11079,6 +11211,7 @@ odoo/addons/mrp_account/i18n/pt.po
 odoo/addons/mrp_account/i18n/pt_BR.po
 odoo/addons/mrp_account/i18n/ro.po
 odoo/addons/mrp_account/i18n/ru.po
+odoo/addons/mrp_account/i18n/si.po
 odoo/addons/mrp_account/i18n/sk.po
 odoo/addons/mrp_account/i18n/sl.po
 odoo/addons/mrp_account/i18n/sq.po
@@ -11117,6 +11250,7 @@ odoo/addons/mrp_landed_costs/i18n/el.po
 odoo/addons/mrp_landed_costs/i18n/eo.po
 odoo/addons/mrp_landed_costs/i18n/es.po
 odoo/addons/mrp_landed_costs/i18n/et.po
+odoo/addons/mrp_landed_costs/i18n/fi.po
 odoo/addons/mrp_landed_costs/i18n/fr.po
 odoo/addons/mrp_landed_costs/i18n/he.po
 odoo/addons/mrp_landed_costs/i18n/hr.po
@@ -11134,6 +11268,7 @@ odoo/addons/mrp_landed_costs/i18n/pt.po
 odoo/addons/mrp_landed_costs/i18n/pt_BR.po
 odoo/addons/mrp_landed_costs/i18n/ro.po
 odoo/addons/mrp_landed_costs/i18n/ru.po
+odoo/addons/mrp_landed_costs/i18n/si.po
 odoo/addons/mrp_landed_costs/i18n/sk.po
 odoo/addons/mrp_landed_costs/i18n/tr.po
 odoo/addons/mrp_landed_costs/i18n/uk.po
@@ -11158,6 +11293,7 @@ odoo/addons/mrp_product_expiry/i18n/el.po
 odoo/addons/mrp_product_expiry/i18n/eo.po
 odoo/addons/mrp_product_expiry/i18n/es.po
 odoo/addons/mrp_product_expiry/i18n/et.po
+odoo/addons/mrp_product_expiry/i18n/fi.po
 odoo/addons/mrp_product_expiry/i18n/fr.po
 odoo/addons/mrp_product_expiry/i18n/he.po
 odoo/addons/mrp_product_expiry/i18n/hr.po
@@ -11175,6 +11311,7 @@ odoo/addons/mrp_product_expiry/i18n/pt.po
 odoo/addons/mrp_product_expiry/i18n/pt_BR.po
 odoo/addons/mrp_product_expiry/i18n/ro.po
 odoo/addons/mrp_product_expiry/i18n/ru.po
+odoo/addons/mrp_product_expiry/i18n/si.po
 odoo/addons/mrp_product_expiry/i18n/sk.po
 odoo/addons/mrp_product_expiry/i18n/tr.po
 odoo/addons/mrp_product_expiry/i18n/uk.po
@@ -11203,6 +11340,7 @@ odoo/addons/mrp_subcontracting/i18n/el.po
 odoo/addons/mrp_subcontracting/i18n/eo.po
 odoo/addons/mrp_subcontracting/i18n/es.po
 odoo/addons/mrp_subcontracting/i18n/et.po
+odoo/addons/mrp_subcontracting/i18n/fi.po
 odoo/addons/mrp_subcontracting/i18n/fr.po
 odoo/addons/mrp_subcontracting/i18n/he.po
 odoo/addons/mrp_subcontracting/i18n/hr.po
@@ -11223,6 +11361,7 @@ odoo/addons/mrp_subcontracting/i18n/pt.po
 odoo/addons/mrp_subcontracting/i18n/pt_BR.po
 odoo/addons/mrp_subcontracting/i18n/ro.po
 odoo/addons/mrp_subcontracting/i18n/ru.po
+odoo/addons/mrp_subcontracting/i18n/si.po
 odoo/addons/mrp_subcontracting/i18n/sk.po
 odoo/addons/mrp_subcontracting/i18n/tr.po
 odoo/addons/mrp_subcontracting/i18n/uk.po
@@ -11339,6 +11478,7 @@ odoo/addons/note/i18n/pt.po
 odoo/addons/note/i18n/pt_BR.po
 odoo/addons/note/i18n/ro.po
 odoo/addons/note/i18n/ru.po
+odoo/addons/note/i18n/si.po
 odoo/addons/note/i18n/sk.po
 odoo/addons/note/i18n/sl.po
 odoo/addons/note/i18n/sq.po
@@ -11431,6 +11571,7 @@ odoo/addons/note_pad/i18n/pt.po
 odoo/addons/note_pad/i18n/pt_BR.po
 odoo/addons/note_pad/i18n/ro.po
 odoo/addons/note_pad/i18n/ru.po
+odoo/addons/note_pad/i18n/si.po
 odoo/addons/note_pad/i18n/sk.po
 odoo/addons/note_pad/i18n/sl.po
 odoo/addons/note_pad/i18n/sq.po
@@ -11460,6 +11601,7 @@ odoo/addons/odoo_referral/i18n/el.po
 odoo/addons/odoo_referral/i18n/eo.po
 odoo/addons/odoo_referral/i18n/es.po
 odoo/addons/odoo_referral/i18n/et.po
+odoo/addons/odoo_referral/i18n/fi.po
 odoo/addons/odoo_referral/i18n/fr.po
 odoo/addons/odoo_referral/i18n/he.po
 odoo/addons/odoo_referral/i18n/hr.po
@@ -11477,6 +11619,7 @@ odoo/addons/odoo_referral/i18n/pt.po
 odoo/addons/odoo_referral/i18n/pt_BR.po
 odoo/addons/odoo_referral/i18n/ro.po
 odoo/addons/odoo_referral/i18n/ru.po
+odoo/addons/odoo_referral/i18n/si.po
 odoo/addons/odoo_referral/i18n/sk.po
 odoo/addons/odoo_referral/i18n/tr.po
 odoo/addons/odoo_referral/i18n/uk.po
@@ -11553,6 +11696,7 @@ odoo/addons/pad/i18n/pt.po
 odoo/addons/pad/i18n/pt_BR.po
 odoo/addons/pad/i18n/ro.po
 odoo/addons/pad/i18n/ru.po
+odoo/addons/pad/i18n/si.po
 odoo/addons/pad/i18n/sk.po
 odoo/addons/pad/i18n/sl.po
 odoo/addons/pad/i18n/sq.po
@@ -11642,6 +11786,7 @@ odoo/addons/pad_project/i18n/pt.po
 odoo/addons/pad_project/i18n/pt_BR.po
 odoo/addons/pad_project/i18n/ro.po
 odoo/addons/pad_project/i18n/ru.po
+odoo/addons/pad_project/i18n/si.po
 odoo/addons/pad_project/i18n/sk.po
 odoo/addons/pad_project/i18n/sl.po
 odoo/addons/pad_project/i18n/sq.po
@@ -11725,6 +11870,7 @@ odoo/addons/partner_autocomplete/i18n/pt.po
 odoo/addons/partner_autocomplete/i18n/pt_BR.po
 odoo/addons/partner_autocomplete/i18n/ro.po
 odoo/addons/partner_autocomplete/i18n/ru.po
+odoo/addons/partner_autocomplete/i18n/si.po
 odoo/addons/partner_autocomplete/i18n/sk.po
 odoo/addons/partner_autocomplete/i18n/sl.po
 odoo/addons/partner_autocomplete/i18n/sq.po
@@ -11831,6 +11977,7 @@ odoo/addons/payment/i18n/pt.po
 odoo/addons/payment/i18n/pt_BR.po
 odoo/addons/payment/i18n/ro.po
 odoo/addons/payment/i18n/ru.po
+odoo/addons/payment/i18n/si.po
 odoo/addons/payment/i18n/sk.po
 odoo/addons/payment/i18n/sl.po
 odoo/addons/payment/i18n/sq.po
@@ -11961,6 +12108,7 @@ odoo/addons/payment_adyen/i18n/pt.po
 odoo/addons/payment_adyen/i18n/pt_BR.po
 odoo/addons/payment_adyen/i18n/ro.po
 odoo/addons/payment_adyen/i18n/ru.po
+odoo/addons/payment_adyen/i18n/si.po
 odoo/addons/payment_adyen/i18n/sk.po
 odoo/addons/payment_adyen/i18n/sl.po
 odoo/addons/payment_adyen/i18n/sq.po
@@ -11999,6 +12147,7 @@ odoo/addons/payment_alipay/i18n/el.po
 odoo/addons/payment_alipay/i18n/eo.po
 odoo/addons/payment_alipay/i18n/es.po
 odoo/addons/payment_alipay/i18n/et.po
+odoo/addons/payment_alipay/i18n/fi.po
 odoo/addons/payment_alipay/i18n/fr.po
 odoo/addons/payment_alipay/i18n/he.po
 odoo/addons/payment_alipay/i18n/hr.po
@@ -12019,6 +12168,7 @@ odoo/addons/payment_alipay/i18n/pt.po
 odoo/addons/payment_alipay/i18n/pt_BR.po
 odoo/addons/payment_alipay/i18n/ro.po
 odoo/addons/payment_alipay/i18n/ru.po
+odoo/addons/payment_alipay/i18n/si.po
 odoo/addons/payment_alipay/i18n/sk.po
 odoo/addons/payment_alipay/i18n/tr.po
 odoo/addons/payment_alipay/i18n/uk.po
@@ -12098,6 +12248,7 @@ odoo/addons/payment_authorize/i18n/pt.po
 odoo/addons/payment_authorize/i18n/pt_BR.po
 odoo/addons/payment_authorize/i18n/ro.po
 odoo/addons/payment_authorize/i18n/ru.po
+odoo/addons/payment_authorize/i18n/si.po
 odoo/addons/payment_authorize/i18n/sk.po
 odoo/addons/payment_authorize/i18n/sl.po
 odoo/addons/payment_authorize/i18n/sq.po
@@ -12187,6 +12338,7 @@ odoo/addons/payment_buckaroo/i18n/pt.po
 odoo/addons/payment_buckaroo/i18n/pt_BR.po
 odoo/addons/payment_buckaroo/i18n/ro.po
 odoo/addons/payment_buckaroo/i18n/ru.po
+odoo/addons/payment_buckaroo/i18n/si.po
 odoo/addons/payment_buckaroo/i18n/sk.po
 odoo/addons/payment_buckaroo/i18n/sl.po
 odoo/addons/payment_buckaroo/i18n/sq.po
@@ -12233,6 +12385,7 @@ odoo/addons/payment_ingenico/i18n/el.po
 odoo/addons/payment_ingenico/i18n/eo.po
 odoo/addons/payment_ingenico/i18n/es.po
 odoo/addons/payment_ingenico/i18n/et.po
+odoo/addons/payment_ingenico/i18n/fi.po
 odoo/addons/payment_ingenico/i18n/fr.po
 odoo/addons/payment_ingenico/i18n/he.po
 odoo/addons/payment_ingenico/i18n/hr.po
@@ -12253,6 +12406,7 @@ odoo/addons/payment_ingenico/i18n/pt.po
 odoo/addons/payment_ingenico/i18n/pt_BR.po
 odoo/addons/payment_ingenico/i18n/ro.po
 odoo/addons/payment_ingenico/i18n/ru.po
+odoo/addons/payment_ingenico/i18n/si.po
 odoo/addons/payment_ingenico/i18n/sk.po
 odoo/addons/payment_ingenico/i18n/tr.po
 odoo/addons/payment_ingenico/i18n/uk.po
@@ -12343,6 +12497,7 @@ odoo/addons/payment_paypal/i18n/pt.po
 odoo/addons/payment_paypal/i18n/pt_BR.po
 odoo/addons/payment_paypal/i18n/ro.po
 odoo/addons/payment_paypal/i18n/ru.po
+odoo/addons/payment_paypal/i18n/si.po
 odoo/addons/payment_paypal/i18n/sk.po
 odoo/addons/payment_paypal/i18n/sl.po
 odoo/addons/payment_paypal/i18n/sq.po
@@ -12381,6 +12536,7 @@ odoo/addons/payment_payulatam/i18n/el.po
 odoo/addons/payment_payulatam/i18n/eo.po
 odoo/addons/payment_payulatam/i18n/es.po
 odoo/addons/payment_payulatam/i18n/et.po
+odoo/addons/payment_payulatam/i18n/fi.po
 odoo/addons/payment_payulatam/i18n/fr.po
 odoo/addons/payment_payulatam/i18n/he.po
 odoo/addons/payment_payulatam/i18n/hr.po
@@ -12401,6 +12557,7 @@ odoo/addons/payment_payulatam/i18n/pt.po
 odoo/addons/payment_payulatam/i18n/pt_BR.po
 odoo/addons/payment_payulatam/i18n/ro.po
 odoo/addons/payment_payulatam/i18n/ru.po
+odoo/addons/payment_payulatam/i18n/si.po
 odoo/addons/payment_payulatam/i18n/sk.po
 odoo/addons/payment_payulatam/i18n/tr.po
 odoo/addons/payment_payulatam/i18n/uk.po
@@ -12468,6 +12625,7 @@ odoo/addons/payment_payumoney/i18n/pt.po
 odoo/addons/payment_payumoney/i18n/pt_BR.po
 odoo/addons/payment_payumoney/i18n/ro.po
 odoo/addons/payment_payumoney/i18n/ru.po
+odoo/addons/payment_payumoney/i18n/si.po
 odoo/addons/payment_payumoney/i18n/sk.po
 odoo/addons/payment_payumoney/i18n/sl.po
 odoo/addons/payment_payumoney/i18n/sr.po
@@ -12538,6 +12696,7 @@ odoo/addons/payment_sips/i18n/pt.po
 odoo/addons/payment_sips/i18n/pt_BR.po
 odoo/addons/payment_sips/i18n/ro.po
 odoo/addons/payment_sips/i18n/ru.po
+odoo/addons/payment_sips/i18n/si.po
 odoo/addons/payment_sips/i18n/sk.po
 odoo/addons/payment_sips/i18n/sl.po
 odoo/addons/payment_sips/i18n/sr.po
@@ -12603,6 +12762,7 @@ odoo/addons/payment_stripe/i18n/pt.po
 odoo/addons/payment_stripe/i18n/pt_BR.po
 odoo/addons/payment_stripe/i18n/ro.po
 odoo/addons/payment_stripe/i18n/ru.po
+odoo/addons/payment_stripe/i18n/si.po
 odoo/addons/payment_stripe/i18n/sk.po
 odoo/addons/payment_stripe/i18n/sl.po
 odoo/addons/payment_stripe/i18n/sr.po
@@ -12701,6 +12861,7 @@ odoo/addons/payment_transfer/i18n/pt.po
 odoo/addons/payment_transfer/i18n/pt_BR.po
 odoo/addons/payment_transfer/i18n/ro.po
 odoo/addons/payment_transfer/i18n/ru.po
+odoo/addons/payment_transfer/i18n/si.po
 odoo/addons/payment_transfer/i18n/sk.po
 odoo/addons/payment_transfer/i18n/sl.po
 odoo/addons/payment_transfer/i18n/sr.po
@@ -12760,6 +12921,7 @@ odoo/addons/phone_validation/i18n/pt.po
 odoo/addons/phone_validation/i18n/pt_BR.po
 odoo/addons/phone_validation/i18n/ro.po
 odoo/addons/phone_validation/i18n/ru.po
+odoo/addons/phone_validation/i18n/si.po
 odoo/addons/phone_validation/i18n/sk.po
 odoo/addons/phone_validation/i18n/sl.po
 odoo/addons/phone_validation/i18n/sr.po
@@ -12852,6 +13014,7 @@ odoo/addons/point_of_sale/i18n/pt.po
 odoo/addons/point_of_sale/i18n/pt_BR.po
 odoo/addons/point_of_sale/i18n/ro.po
 odoo/addons/point_of_sale/i18n/ru.po
+odoo/addons/point_of_sale/i18n/si.po
 odoo/addons/point_of_sale/i18n/sk.po
 odoo/addons/point_of_sale/i18n/sl.po
 odoo/addons/point_of_sale/i18n/sr.po
@@ -13232,6 +13395,7 @@ odoo/addons/portal/i18n/pt.po
 odoo/addons/portal/i18n/pt_BR.po
 odoo/addons/portal/i18n/ro.po
 odoo/addons/portal/i18n/ru.po
+odoo/addons/portal/i18n/si.po
 odoo/addons/portal/i18n/sk.po
 odoo/addons/portal/i18n/sl.po
 odoo/addons/portal/i18n/sr.po
@@ -13316,6 +13480,7 @@ odoo/addons/portal_rating/i18n/pt.po
 odoo/addons/portal_rating/i18n/pt_BR.po
 odoo/addons/portal_rating/i18n/ro.po
 odoo/addons/portal_rating/i18n/ru.po
+odoo/addons/portal_rating/i18n/si.po
 odoo/addons/portal_rating/i18n/sk.po
 odoo/addons/portal_rating/i18n/sl.po
 odoo/addons/portal_rating/i18n/sr.po
@@ -13356,6 +13521,7 @@ odoo/addons/pos_adyen/i18n/el.po
 odoo/addons/pos_adyen/i18n/eo.po
 odoo/addons/pos_adyen/i18n/es.po
 odoo/addons/pos_adyen/i18n/et.po
+odoo/addons/pos_adyen/i18n/fi.po
 odoo/addons/pos_adyen/i18n/fr.po
 odoo/addons/pos_adyen/i18n/he.po
 odoo/addons/pos_adyen/i18n/hr.po
@@ -13376,6 +13542,7 @@ odoo/addons/pos_adyen/i18n/pt.po
 odoo/addons/pos_adyen/i18n/pt_BR.po
 odoo/addons/pos_adyen/i18n/ro.po
 odoo/addons/pos_adyen/i18n/ru.po
+odoo/addons/pos_adyen/i18n/si.po
 odoo/addons/pos_adyen/i18n/sk.po
 odoo/addons/pos_adyen/i18n/tr.po
 odoo/addons/pos_adyen/i18n/uk.po
@@ -13460,6 +13627,7 @@ odoo/addons/pos_cache/i18n/pt.po
 odoo/addons/pos_cache/i18n/pt_BR.po
 odoo/addons/pos_cache/i18n/ro.po
 odoo/addons/pos_cache/i18n/ru.po
+odoo/addons/pos_cache/i18n/si.po
 odoo/addons/pos_cache/i18n/sk.po
 odoo/addons/pos_cache/i18n/sl.po
 odoo/addons/pos_cache/i18n/sq.po
@@ -13534,6 +13702,7 @@ odoo/addons/pos_discount/i18n/pt.po
 odoo/addons/pos_discount/i18n/pt_BR.po
 odoo/addons/pos_discount/i18n/ro.po
 odoo/addons/pos_discount/i18n/ru.po
+odoo/addons/pos_discount/i18n/si.po
 odoo/addons/pos_discount/i18n/sk.po
 odoo/addons/pos_discount/i18n/sl.po
 odoo/addons/pos_discount/i18n/sq.po
@@ -13566,6 +13735,7 @@ odoo/addons/pos_epson_printer/i18n/el.po
 odoo/addons/pos_epson_printer/i18n/eo.po
 odoo/addons/pos_epson_printer/i18n/es.po
 odoo/addons/pos_epson_printer/i18n/et.po
+odoo/addons/pos_epson_printer/i18n/fi.po
 odoo/addons/pos_epson_printer/i18n/fr.po
 odoo/addons/pos_epson_printer/i18n/he.po
 odoo/addons/pos_epson_printer/i18n/hr.po
@@ -13586,6 +13756,7 @@ odoo/addons/pos_epson_printer/i18n/pt.po
 odoo/addons/pos_epson_printer/i18n/pt_BR.po
 odoo/addons/pos_epson_printer/i18n/ro.po
 odoo/addons/pos_epson_printer/i18n/ru.po
+odoo/addons/pos_epson_printer/i18n/si.po
 odoo/addons/pos_epson_printer/i18n/sk.po
 odoo/addons/pos_epson_printer/i18n/tr.po
 odoo/addons/pos_epson_printer/i18n/uk.po
@@ -13612,6 +13783,7 @@ odoo/addons/pos_epson_printer_restaurant/i18n/el.po
 odoo/addons/pos_epson_printer_restaurant/i18n/eo.po
 odoo/addons/pos_epson_printer_restaurant/i18n/es.po
 odoo/addons/pos_epson_printer_restaurant/i18n/et.po
+odoo/addons/pos_epson_printer_restaurant/i18n/fi.po
 odoo/addons/pos_epson_printer_restaurant/i18n/fr.po
 odoo/addons/pos_epson_printer_restaurant/i18n/he.po
 odoo/addons/pos_epson_printer_restaurant/i18n/hr.po
@@ -13632,6 +13804,7 @@ odoo/addons/pos_epson_printer_restaurant/i18n/pt.po
 odoo/addons/pos_epson_printer_restaurant/i18n/pt_BR.po
 odoo/addons/pos_epson_printer_restaurant/i18n/ro.po
 odoo/addons/pos_epson_printer_restaurant/i18n/ru.po
+odoo/addons/pos_epson_printer_restaurant/i18n/si.po
 odoo/addons/pos_epson_printer_restaurant/i18n/sk.po
 odoo/addons/pos_epson_printer_restaurant/i18n/tr.po
 odoo/addons/pos_epson_printer_restaurant/i18n/uk.po
@@ -13656,6 +13829,7 @@ odoo/addons/pos_hr/i18n/el.po
 odoo/addons/pos_hr/i18n/eo.po
 odoo/addons/pos_hr/i18n/es.po
 odoo/addons/pos_hr/i18n/et.po
+odoo/addons/pos_hr/i18n/fi.po
 odoo/addons/pos_hr/i18n/fr.po
 odoo/addons/pos_hr/i18n/he.po
 odoo/addons/pos_hr/i18n/hr.po
@@ -13676,6 +13850,7 @@ odoo/addons/pos_hr/i18n/pt.po
 odoo/addons/pos_hr/i18n/pt_BR.po
 odoo/addons/pos_hr/i18n/ro.po
 odoo/addons/pos_hr/i18n/ru.po
+odoo/addons/pos_hr/i18n/si.po
 odoo/addons/pos_hr/i18n/sk.po
 odoo/addons/pos_hr/i18n/tr.po
 odoo/addons/pos_hr/i18n/uk.po
@@ -13754,6 +13929,7 @@ odoo/addons/pos_mercury/i18n/pt.po
 odoo/addons/pos_mercury/i18n/pt_BR.po
 odoo/addons/pos_mercury/i18n/ro.po
 odoo/addons/pos_mercury/i18n/ru.po
+odoo/addons/pos_mercury/i18n/si.po
 odoo/addons/pos_mercury/i18n/sk.po
 odoo/addons/pos_mercury/i18n/sl.po
 odoo/addons/pos_mercury/i18n/sr.po
@@ -13842,6 +14018,7 @@ odoo/addons/pos_restaurant/i18n/pt.po
 odoo/addons/pos_restaurant/i18n/pt_BR.po
 odoo/addons/pos_restaurant/i18n/ro.po
 odoo/addons/pos_restaurant/i18n/ru.po
+odoo/addons/pos_restaurant/i18n/si.po
 odoo/addons/pos_restaurant/i18n/sk.po
 odoo/addons/pos_restaurant/i18n/sl.po
 odoo/addons/pos_restaurant/i18n/sq.po
@@ -13969,6 +14146,7 @@ odoo/addons/pos_restaurant_adyen/i18n/el.po
 odoo/addons/pos_restaurant_adyen/i18n/eo.po
 odoo/addons/pos_restaurant_adyen/i18n/es.po
 odoo/addons/pos_restaurant_adyen/i18n/et.po
+odoo/addons/pos_restaurant_adyen/i18n/fi.po
 odoo/addons/pos_restaurant_adyen/i18n/fr.po
 odoo/addons/pos_restaurant_adyen/i18n/he.po
 odoo/addons/pos_restaurant_adyen/i18n/hr.po
@@ -13986,6 +14164,7 @@ odoo/addons/pos_restaurant_adyen/i18n/pt.po
 odoo/addons/pos_restaurant_adyen/i18n/pt_BR.po
 odoo/addons/pos_restaurant_adyen/i18n/ro.po
 odoo/addons/pos_restaurant_adyen/i18n/ru.po
+odoo/addons/pos_restaurant_adyen/i18n/si.po
 odoo/addons/pos_restaurant_adyen/i18n/sk.po
 odoo/addons/pos_restaurant_adyen/i18n/tr.po
 odoo/addons/pos_restaurant_adyen/i18n/uk.po
@@ -14041,6 +14220,7 @@ odoo/addons/pos_sale/i18n/pt.po
 odoo/addons/pos_sale/i18n/pt_BR.po
 odoo/addons/pos_sale/i18n/ro.po
 odoo/addons/pos_sale/i18n/ru.po
+odoo/addons/pos_sale/i18n/si.po
 odoo/addons/pos_sale/i18n/sk.po
 odoo/addons/pos_sale/i18n/sl.po
 odoo/addons/pos_sale/i18n/sr.po
@@ -14076,6 +14256,7 @@ odoo/addons/pos_six/i18n/el.po
 odoo/addons/pos_six/i18n/eo.po
 odoo/addons/pos_six/i18n/es.po
 odoo/addons/pos_six/i18n/et.po
+odoo/addons/pos_six/i18n/fi.po
 odoo/addons/pos_six/i18n/fr.po
 odoo/addons/pos_six/i18n/he.po
 odoo/addons/pos_six/i18n/hr.po
@@ -14093,6 +14274,7 @@ odoo/addons/pos_six/i18n/pt.po
 odoo/addons/pos_six/i18n/pt_BR.po
 odoo/addons/pos_six/i18n/ro.po
 odoo/addons/pos_six/i18n/ru.po
+odoo/addons/pos_six/i18n/si.po
 odoo/addons/pos_six/i18n/sk.po
 odoo/addons/pos_six/i18n/tr.po
 odoo/addons/pos_six/i18n/uk.po
@@ -14169,6 +14351,7 @@ odoo/addons/procurement_jit/i18n/pt.po
 odoo/addons/procurement_jit/i18n/pt_BR.po
 odoo/addons/procurement_jit/i18n/ro.po
 odoo/addons/procurement_jit/i18n/ru.po
+odoo/addons/procurement_jit/i18n/si.po
 odoo/addons/procurement_jit/i18n/sk.po
 odoo/addons/procurement_jit/i18n/sl.po
 odoo/addons/procurement_jit/i18n/sr.po
@@ -14239,6 +14422,7 @@ odoo/addons/product/i18n/pt.po
 odoo/addons/product/i18n/pt_BR.po
 odoo/addons/product/i18n/ro.po
 odoo/addons/product/i18n/ru.po
+odoo/addons/product/i18n/si.po
 odoo/addons/product/i18n/sk.po
 odoo/addons/product/i18n/sl.po
 odoo/addons/product/i18n/sr.po
@@ -14387,6 +14571,7 @@ odoo/addons/product_email_template/i18n/pt.po
 odoo/addons/product_email_template/i18n/pt_BR.po
 odoo/addons/product_email_template/i18n/ro.po
 odoo/addons/product_email_template/i18n/ru.po
+odoo/addons/product_email_template/i18n/si.po
 odoo/addons/product_email_template/i18n/sk.po
 odoo/addons/product_email_template/i18n/sl.po
 odoo/addons/product_email_template/i18n/sq.po
@@ -14462,6 +14647,7 @@ odoo/addons/product_expiry/i18n/pt.po
 odoo/addons/product_expiry/i18n/pt_BR.po
 odoo/addons/product_expiry/i18n/ro.po
 odoo/addons/product_expiry/i18n/ru.po
+odoo/addons/product_expiry/i18n/si.po
 odoo/addons/product_expiry/i18n/sk.po
 odoo/addons/product_expiry/i18n/sl.po
 odoo/addons/product_expiry/i18n/sr.po
@@ -14561,6 +14747,7 @@ odoo/addons/product_margin/i18n/pt.po
 odoo/addons/product_margin/i18n/pt_BR.po
 odoo/addons/product_margin/i18n/ro.po
 odoo/addons/product_margin/i18n/ru.po
+odoo/addons/product_margin/i18n/si.po
 odoo/addons/product_margin/i18n/sk.po
 odoo/addons/product_margin/i18n/sl.po
 odoo/addons/product_margin/i18n/sq.po
@@ -14597,6 +14784,7 @@ odoo/addons/product_matrix/i18n/el.po
 odoo/addons/product_matrix/i18n/eo.po
 odoo/addons/product_matrix/i18n/es.po
 odoo/addons/product_matrix/i18n/et.po
+odoo/addons/product_matrix/i18n/fi.po
 odoo/addons/product_matrix/i18n/fr.po
 odoo/addons/product_matrix/i18n/he.po
 odoo/addons/product_matrix/i18n/hr.po
@@ -14617,6 +14805,7 @@ odoo/addons/product_matrix/i18n/pt.po
 odoo/addons/product_matrix/i18n/pt_BR.po
 odoo/addons/product_matrix/i18n/ro.po
 odoo/addons/product_matrix/i18n/ru.po
+odoo/addons/product_matrix/i18n/si.po
 odoo/addons/product_matrix/i18n/sk.po
 odoo/addons/product_matrix/i18n/tr.po
 odoo/addons/product_matrix/i18n/uk.po
@@ -14700,6 +14889,7 @@ odoo/addons/project/i18n/pt.po
 odoo/addons/project/i18n/pt_BR.po
 odoo/addons/project/i18n/ro.po
 odoo/addons/project/i18n/ru.po
+odoo/addons/project/i18n/si.po
 odoo/addons/project/i18n/sk.po
 odoo/addons/project/i18n/sl.po
 odoo/addons/project/i18n/sr.po
@@ -14810,6 +15000,7 @@ odoo/addons/project_timesheet_holidays/i18n/pt.po
 odoo/addons/project_timesheet_holidays/i18n/pt_BR.po
 odoo/addons/project_timesheet_holidays/i18n/ro.po
 odoo/addons/project_timesheet_holidays/i18n/ru.po
+odoo/addons/project_timesheet_holidays/i18n/si.po
 odoo/addons/project_timesheet_holidays/i18n/sk.po
 odoo/addons/project_timesheet_holidays/i18n/sl.po
 odoo/addons/project_timesheet_holidays/i18n/sr.po
@@ -14903,6 +15094,7 @@ odoo/addons/purchase/i18n/pt_BR.po
 odoo/addons/purchase/i18n/purchase.pot
 odoo/addons/purchase/i18n/ro.po
 odoo/addons/purchase/i18n/ru.po
+odoo/addons/purchase/i18n/si.po
 odoo/addons/purchase/i18n/sk.po
 odoo/addons/purchase/i18n/sl.po
 odoo/addons/purchase/i18n/sq.po
@@ -14997,6 +15189,7 @@ odoo/addons/purchase_mrp/i18n/pt_BR.po
 odoo/addons/purchase_mrp/i18n/purchase_mrp.pot
 odoo/addons/purchase_mrp/i18n/ro.po
 odoo/addons/purchase_mrp/i18n/ru.po
+odoo/addons/purchase_mrp/i18n/si.po
 odoo/addons/purchase_mrp/i18n/sk.po
 odoo/addons/purchase_mrp/i18n/sl.po
 odoo/addons/purchase_mrp/i18n/sr.po
@@ -15029,6 +15222,7 @@ odoo/addons/purchase_product_matrix/i18n/el.po
 odoo/addons/purchase_product_matrix/i18n/eo.po
 odoo/addons/purchase_product_matrix/i18n/es.po
 odoo/addons/purchase_product_matrix/i18n/et.po
+odoo/addons/purchase_product_matrix/i18n/fi.po
 odoo/addons/purchase_product_matrix/i18n/fr.po
 odoo/addons/purchase_product_matrix/i18n/he.po
 odoo/addons/purchase_product_matrix/i18n/hr.po
@@ -15049,6 +15243,7 @@ odoo/addons/purchase_product_matrix/i18n/pt_BR.po
 odoo/addons/purchase_product_matrix/i18n/purchase_product_matrix.pot
 odoo/addons/purchase_product_matrix/i18n/ro.po
 odoo/addons/purchase_product_matrix/i18n/ru.po
+odoo/addons/purchase_product_matrix/i18n/si.po
 odoo/addons/purchase_product_matrix/i18n/sk.po
 odoo/addons/purchase_product_matrix/i18n/tr.po
 odoo/addons/purchase_product_matrix/i18n/uk.po
@@ -15131,6 +15326,7 @@ odoo/addons/purchase_requisition/i18n/pt_BR.po
 odoo/addons/purchase_requisition/i18n/purchase_requisition.pot
 odoo/addons/purchase_requisition/i18n/ro.po
 odoo/addons/purchase_requisition/i18n/ru.po
+odoo/addons/purchase_requisition/i18n/si.po
 odoo/addons/purchase_requisition/i18n/sk.po
 odoo/addons/purchase_requisition/i18n/sl.po
 odoo/addons/purchase_requisition/i18n/sq.po
@@ -15173,6 +15369,7 @@ odoo/addons/purchase_requisition_stock/i18n/el.po
 odoo/addons/purchase_requisition_stock/i18n/eo.po
 odoo/addons/purchase_requisition_stock/i18n/es.po
 odoo/addons/purchase_requisition_stock/i18n/et.po
+odoo/addons/purchase_requisition_stock/i18n/fi.po
 odoo/addons/purchase_requisition_stock/i18n/fr.po
 odoo/addons/purchase_requisition_stock/i18n/he.po
 odoo/addons/purchase_requisition_stock/i18n/hr.po
@@ -15193,6 +15390,7 @@ odoo/addons/purchase_requisition_stock/i18n/pt_BR.po
 odoo/addons/purchase_requisition_stock/i18n/purchase_requisition_stock.pot
 odoo/addons/purchase_requisition_stock/i18n/ro.po
 odoo/addons/purchase_requisition_stock/i18n/ru.po
+odoo/addons/purchase_requisition_stock/i18n/si.po
 odoo/addons/purchase_requisition_stock/i18n/sk.po
 odoo/addons/purchase_requisition_stock/i18n/tr.po
 odoo/addons/purchase_requisition_stock/i18n/uk.po
@@ -15250,6 +15448,7 @@ odoo/addons/purchase_stock/i18n/pt_BR.po
 odoo/addons/purchase_stock/i18n/purchase_stock.pot
 odoo/addons/purchase_stock/i18n/ro.po
 odoo/addons/purchase_stock/i18n/ru.po
+odoo/addons/purchase_stock/i18n/si.po
 odoo/addons/purchase_stock/i18n/sk.po
 odoo/addons/purchase_stock/i18n/sr.po
 odoo/addons/purchase_stock/i18n/sv.po
@@ -15372,6 +15571,7 @@ odoo/addons/rating/i18n/pt_BR.po
 odoo/addons/rating/i18n/rating.pot
 odoo/addons/rating/i18n/ro.po
 odoo/addons/rating/i18n/ru.po
+odoo/addons/rating/i18n/si.po
 odoo/addons/rating/i18n/sk.po
 odoo/addons/rating/i18n/sl.po
 odoo/addons/rating/i18n/sq.po
@@ -15473,6 +15673,7 @@ odoo/addons/repair/i18n/pt_BR.po
 odoo/addons/repair/i18n/repair.pot
 odoo/addons/repair/i18n/ro.po
 odoo/addons/repair/i18n/ru.po
+odoo/addons/repair/i18n/si.po
 odoo/addons/repair/i18n/sk.po
 odoo/addons/repair/i18n/sl.po
 odoo/addons/repair/i18n/sq.po
@@ -15572,6 +15773,7 @@ odoo/addons/resource/i18n/pt_BR.po
 odoo/addons/resource/i18n/resource.pot
 odoo/addons/resource/i18n/ro.po
 odoo/addons/resource/i18n/ru.po
+odoo/addons/resource/i18n/si.po
 odoo/addons/resource/i18n/sk.po
 odoo/addons/resource/i18n/sl.po
 odoo/addons/resource/i18n/sq.po
@@ -15671,6 +15873,7 @@ odoo/addons/sale/i18n/pt_BR.po
 odoo/addons/sale/i18n/ro.po
 odoo/addons/sale/i18n/ru.po
 odoo/addons/sale/i18n/sale.pot
+odoo/addons/sale/i18n/si.po
 odoo/addons/sale/i18n/sk.po
 odoo/addons/sale/i18n/sl.po
 odoo/addons/sale/i18n/sq.po
@@ -15824,6 +16027,7 @@ odoo/addons/sale_coupon/i18n/pt_BR.po
 odoo/addons/sale_coupon/i18n/ro.po
 odoo/addons/sale_coupon/i18n/ru.po
 odoo/addons/sale_coupon/i18n/sale_coupon.pot
+odoo/addons/sale_coupon/i18n/si.po
 odoo/addons/sale_coupon/i18n/sk.po
 odoo/addons/sale_coupon/i18n/sl.po
 odoo/addons/sale_coupon/i18n/sq.po
@@ -15918,6 +16122,7 @@ odoo/addons/sale_coupon_delivery/i18n/pt_BR.po
 odoo/addons/sale_coupon_delivery/i18n/ro.po
 odoo/addons/sale_coupon_delivery/i18n/ru.po
 odoo/addons/sale_coupon_delivery/i18n/sale_coupon_delivery.pot
+odoo/addons/sale_coupon_delivery/i18n/si.po
 odoo/addons/sale_coupon_delivery/i18n/sk.po
 odoo/addons/sale_coupon_delivery/i18n/sl.po
 odoo/addons/sale_coupon_delivery/i18n/sq.po
@@ -15994,6 +16199,7 @@ odoo/addons/sale_crm/i18n/pt_BR.po
 odoo/addons/sale_crm/i18n/ro.po
 odoo/addons/sale_crm/i18n/ru.po
 odoo/addons/sale_crm/i18n/sale_crm.pot
+odoo/addons/sale_crm/i18n/si.po
 odoo/addons/sale_crm/i18n/sk.po
 odoo/addons/sale_crm/i18n/sl.po
 odoo/addons/sale_crm/i18n/sr.po
@@ -16062,6 +16268,7 @@ odoo/addons/sale_expense/i18n/pt_BR.po
 odoo/addons/sale_expense/i18n/ro.po
 odoo/addons/sale_expense/i18n/ru.po
 odoo/addons/sale_expense/i18n/sale_expense.pot
+odoo/addons/sale_expense/i18n/si.po
 odoo/addons/sale_expense/i18n/sk.po
 odoo/addons/sale_expense/i18n/sl.po
 odoo/addons/sale_expense/i18n/sr.po
@@ -16133,6 +16340,7 @@ odoo/addons/sale_management/i18n/pt_BR.po
 odoo/addons/sale_management/i18n/ro.po
 odoo/addons/sale_management/i18n/ru.po
 odoo/addons/sale_management/i18n/sale_management.pot
+odoo/addons/sale_management/i18n/si.po
 odoo/addons/sale_management/i18n/sk.po
 odoo/addons/sale_management/i18n/sl.po
 odoo/addons/sale_management/i18n/sr.po
@@ -16238,6 +16446,7 @@ odoo/addons/sale_margin/i18n/pt_BR.po
 odoo/addons/sale_margin/i18n/ro.po
 odoo/addons/sale_margin/i18n/ru.po
 odoo/addons/sale_margin/i18n/sale_margin.pot
+odoo/addons/sale_margin/i18n/si.po
 odoo/addons/sale_margin/i18n/sk.po
 odoo/addons/sale_margin/i18n/sl.po
 odoo/addons/sale_margin/i18n/sr.po
@@ -16322,6 +16531,7 @@ odoo/addons/sale_mrp/i18n/pt_BR.po
 odoo/addons/sale_mrp/i18n/ro.po
 odoo/addons/sale_mrp/i18n/ru.po
 odoo/addons/sale_mrp/i18n/sale_mrp.pot
+odoo/addons/sale_mrp/i18n/si.po
 odoo/addons/sale_mrp/i18n/sk.po
 odoo/addons/sale_mrp/i18n/sl.po
 odoo/addons/sale_mrp/i18n/sr.po
@@ -16362,6 +16572,7 @@ odoo/addons/sale_product_configurator/i18n/el.po
 odoo/addons/sale_product_configurator/i18n/eo.po
 odoo/addons/sale_product_configurator/i18n/es.po
 odoo/addons/sale_product_configurator/i18n/et.po
+odoo/addons/sale_product_configurator/i18n/fi.po
 odoo/addons/sale_product_configurator/i18n/fr.po
 odoo/addons/sale_product_configurator/i18n/he.po
 odoo/addons/sale_product_configurator/i18n/hr.po
@@ -16382,6 +16593,7 @@ odoo/addons/sale_product_configurator/i18n/pt_BR.po
 odoo/addons/sale_product_configurator/i18n/ro.po
 odoo/addons/sale_product_configurator/i18n/ru.po
 odoo/addons/sale_product_configurator/i18n/sale_product_configurator.pot
+odoo/addons/sale_product_configurator/i18n/si.po
 odoo/addons/sale_product_configurator/i18n/sk.po
 odoo/addons/sale_product_configurator/i18n/tr.po
 odoo/addons/sale_product_configurator/i18n/uk.po
@@ -16427,6 +16639,7 @@ odoo/addons/sale_product_matrix/i18n/el.po
 odoo/addons/sale_product_matrix/i18n/eo.po
 odoo/addons/sale_product_matrix/i18n/es.po
 odoo/addons/sale_product_matrix/i18n/et.po
+odoo/addons/sale_product_matrix/i18n/fi.po
 odoo/addons/sale_product_matrix/i18n/fr.po
 odoo/addons/sale_product_matrix/i18n/he.po
 odoo/addons/sale_product_matrix/i18n/hr.po
@@ -16447,6 +16660,7 @@ odoo/addons/sale_product_matrix/i18n/pt_BR.po
 odoo/addons/sale_product_matrix/i18n/ro.po
 odoo/addons/sale_product_matrix/i18n/ru.po
 odoo/addons/sale_product_matrix/i18n/sale_product_matrix.pot
+odoo/addons/sale_product_matrix/i18n/si.po
 odoo/addons/sale_product_matrix/i18n/sk.po
 odoo/addons/sale_product_matrix/i18n/tr.po
 odoo/addons/sale_product_matrix/i18n/uk.po
@@ -16478,6 +16692,7 @@ odoo/addons/sale_project/i18n/el.po
 odoo/addons/sale_project/i18n/eo.po
 odoo/addons/sale_project/i18n/es.po
 odoo/addons/sale_project/i18n/et.po
+odoo/addons/sale_project/i18n/fi.po
 odoo/addons/sale_project/i18n/fr.po
 odoo/addons/sale_project/i18n/he.po
 odoo/addons/sale_project/i18n/hr.po
@@ -16495,6 +16710,7 @@ odoo/addons/sale_project/i18n/pt_BR.po
 odoo/addons/sale_project/i18n/ro.po
 odoo/addons/sale_project/i18n/ru.po
 odoo/addons/sale_project/i18n/sale_project.pot
+odoo/addons/sale_project/i18n/si.po
 odoo/addons/sale_project/i18n/sk.po
 odoo/addons/sale_project/i18n/tr.po
 odoo/addons/sale_project/i18n/uk.po
@@ -16554,6 +16770,7 @@ odoo/addons/sale_purchase/i18n/pt_BR.po
 odoo/addons/sale_purchase/i18n/ro.po
 odoo/addons/sale_purchase/i18n/ru.po
 odoo/addons/sale_purchase/i18n/sale_purchase.pot
+odoo/addons/sale_purchase/i18n/si.po
 odoo/addons/sale_purchase/i18n/sk.po
 odoo/addons/sale_purchase/i18n/sr.po
 odoo/addons/sale_purchase/i18n/th.po
@@ -16621,6 +16838,7 @@ odoo/addons/sale_quotation_builder/i18n/pt_BR.po
 odoo/addons/sale_quotation_builder/i18n/ro.po
 odoo/addons/sale_quotation_builder/i18n/ru.po
 odoo/addons/sale_quotation_builder/i18n/sale_quotation_builder.pot
+odoo/addons/sale_quotation_builder/i18n/si.po
 odoo/addons/sale_quotation_builder/i18n/sk.po
 odoo/addons/sale_quotation_builder/i18n/sr.po
 odoo/addons/sale_quotation_builder/i18n/th.po
@@ -16702,6 +16920,7 @@ odoo/addons/sale_stock/i18n/pt_BR.po
 odoo/addons/sale_stock/i18n/ro.po
 odoo/addons/sale_stock/i18n/ru.po
 odoo/addons/sale_stock/i18n/sale_stock.pot
+odoo/addons/sale_stock/i18n/si.po
 odoo/addons/sale_stock/i18n/sk.po
 odoo/addons/sale_stock/i18n/sl.po
 odoo/addons/sale_stock/i18n/sr.po
@@ -16829,6 +17048,7 @@ odoo/addons/sale_timesheet/i18n/pt_BR.po
 odoo/addons/sale_timesheet/i18n/ro.po
 odoo/addons/sale_timesheet/i18n/ru.po
 odoo/addons/sale_timesheet/i18n/sale_timesheet.pot
+odoo/addons/sale_timesheet/i18n/si.po
 odoo/addons/sale_timesheet/i18n/sk.po
 odoo/addons/sale_timesheet/i18n/sl.po
 odoo/addons/sale_timesheet/i18n/sq.po
@@ -16900,6 +17120,7 @@ odoo/addons/sale_timesheet_purchase/i18n/el.po
 odoo/addons/sale_timesheet_purchase/i18n/eo.po
 odoo/addons/sale_timesheet_purchase/i18n/es.po
 odoo/addons/sale_timesheet_purchase/i18n/et.po
+odoo/addons/sale_timesheet_purchase/i18n/fi.po
 odoo/addons/sale_timesheet_purchase/i18n/fr.po
 odoo/addons/sale_timesheet_purchase/i18n/he.po
 odoo/addons/sale_timesheet_purchase/i18n/hr.po
@@ -16920,6 +17141,7 @@ odoo/addons/sale_timesheet_purchase/i18n/pt_BR.po
 odoo/addons/sale_timesheet_purchase/i18n/ro.po
 odoo/addons/sale_timesheet_purchase/i18n/ru.po
 odoo/addons/sale_timesheet_purchase/i18n/sale_timesheet_purchase.pot
+odoo/addons/sale_timesheet_purchase/i18n/si.po
 odoo/addons/sale_timesheet_purchase/i18n/sk.po
 odoo/addons/sale_timesheet_purchase/i18n/tr.po
 odoo/addons/sale_timesheet_purchase/i18n/uk.po
@@ -16993,6 +17215,7 @@ odoo/addons/sales_team/i18n/pt_BR.po
 odoo/addons/sales_team/i18n/ro.po
 odoo/addons/sales_team/i18n/ru.po
 odoo/addons/sales_team/i18n/sales_team.pot
+odoo/addons/sales_team/i18n/si.po
 odoo/addons/sales_team/i18n/sk.po
 odoo/addons/sales_team/i18n/sl.po
 odoo/addons/sales_team/i18n/sq.po
@@ -17063,6 +17286,7 @@ odoo/addons/sms/i18n/pt.po
 odoo/addons/sms/i18n/pt_BR.po
 odoo/addons/sms/i18n/ro.po
 odoo/addons/sms/i18n/ru.po
+odoo/addons/sms/i18n/si.po
 odoo/addons/sms/i18n/sk.po
 odoo/addons/sms/i18n/sl.po
 odoo/addons/sms/i18n/sms.pot
@@ -17162,6 +17386,7 @@ odoo/addons/snailmail/i18n/pt.po
 odoo/addons/snailmail/i18n/pt_BR.po
 odoo/addons/snailmail/i18n/ro.po
 odoo/addons/snailmail/i18n/ru.po
+odoo/addons/snailmail/i18n/si.po
 odoo/addons/snailmail/i18n/sk.po
 odoo/addons/snailmail/i18n/snailmail.pot
 odoo/addons/snailmail/i18n/sr.po
@@ -17255,6 +17480,7 @@ odoo/addons/snailmail_account/i18n/pt.po
 odoo/addons/snailmail_account/i18n/pt_BR.po
 odoo/addons/snailmail_account/i18n/ro.po
 odoo/addons/snailmail_account/i18n/ru.po
+odoo/addons/snailmail_account/i18n/si.po
 odoo/addons/snailmail_account/i18n/sk.po
 odoo/addons/snailmail_account/i18n/snailmail_account.pot
 odoo/addons/snailmail_account/i18n/sr.po
@@ -17317,6 +17543,7 @@ odoo/addons/social_media/i18n/pt.po
 odoo/addons/social_media/i18n/pt_BR.po
 odoo/addons/social_media/i18n/ro.po
 odoo/addons/social_media/i18n/ru.po
+odoo/addons/social_media/i18n/si.po
 odoo/addons/social_media/i18n/sk.po
 odoo/addons/social_media/i18n/social_media.pot
 odoo/addons/social_media/i18n/sr.po
@@ -17400,6 +17627,7 @@ odoo/addons/stock/i18n/pt.po
 odoo/addons/stock/i18n/pt_BR.po
 odoo/addons/stock/i18n/ro.po
 odoo/addons/stock/i18n/ru.po
+odoo/addons/stock/i18n/si.po
 odoo/addons/stock/i18n/sk.po
 odoo/addons/stock/i18n/sl.po
 odoo/addons/stock/i18n/sr.po
@@ -17621,6 +17849,7 @@ odoo/addons/stock_account/i18n/pt.po
 odoo/addons/stock_account/i18n/pt_BR.po
 odoo/addons/stock_account/i18n/ro.po
 odoo/addons/stock_account/i18n/ru.po
+odoo/addons/stock_account/i18n/si.po
 odoo/addons/stock_account/i18n/sk.po
 odoo/addons/stock_account/i18n/sl.po
 odoo/addons/stock_account/i18n/sq.po
@@ -17715,6 +17944,7 @@ odoo/addons/stock_dropshipping/i18n/pt.po
 odoo/addons/stock_dropshipping/i18n/pt_BR.po
 odoo/addons/stock_dropshipping/i18n/ro.po
 odoo/addons/stock_dropshipping/i18n/ru.po
+odoo/addons/stock_dropshipping/i18n/si.po
 odoo/addons/stock_dropshipping/i18n/sk.po
 odoo/addons/stock_dropshipping/i18n/sl.po
 odoo/addons/stock_dropshipping/i18n/sr.po
@@ -17806,6 +18036,7 @@ odoo/addons/stock_landed_costs/i18n/pt.po
 odoo/addons/stock_landed_costs/i18n/pt_BR.po
 odoo/addons/stock_landed_costs/i18n/ro.po
 odoo/addons/stock_landed_costs/i18n/ru.po
+odoo/addons/stock_landed_costs/i18n/si.po
 odoo/addons/stock_landed_costs/i18n/sk.po
 odoo/addons/stock_landed_costs/i18n/sl.po
 odoo/addons/stock_landed_costs/i18n/sq.po
@@ -17907,6 +18138,7 @@ odoo/addons/stock_picking_batch/i18n/pt.po
 odoo/addons/stock_picking_batch/i18n/pt_BR.po
 odoo/addons/stock_picking_batch/i18n/ro.po
 odoo/addons/stock_picking_batch/i18n/ru.po
+odoo/addons/stock_picking_batch/i18n/si.po
 odoo/addons/stock_picking_batch/i18n/sk.po
 odoo/addons/stock_picking_batch/i18n/sl.po
 odoo/addons/stock_picking_batch/i18n/sq.po
@@ -17948,6 +18180,7 @@ odoo/addons/stock_sms/i18n/el.po
 odoo/addons/stock_sms/i18n/eo.po
 odoo/addons/stock_sms/i18n/es.po
 odoo/addons/stock_sms/i18n/et.po
+odoo/addons/stock_sms/i18n/fi.po
 odoo/addons/stock_sms/i18n/fr.po
 odoo/addons/stock_sms/i18n/he.po
 odoo/addons/stock_sms/i18n/hr.po
@@ -17967,6 +18200,7 @@ odoo/addons/stock_sms/i18n/pt.po
 odoo/addons/stock_sms/i18n/pt_BR.po
 odoo/addons/stock_sms/i18n/ro.po
 odoo/addons/stock_sms/i18n/ru.po
+odoo/addons/stock_sms/i18n/si.po
 odoo/addons/stock_sms/i18n/sk.po
 odoo/addons/stock_sms/i18n/stock_sms.pot
 odoo/addons/stock_sms/i18n/tr.po
@@ -18050,6 +18284,7 @@ odoo/addons/survey/i18n/pt.po
 odoo/addons/survey/i18n/pt_BR.po
 odoo/addons/survey/i18n/ro.po
 odoo/addons/survey/i18n/ru.po
+odoo/addons/survey/i18n/si.po
 odoo/addons/survey/i18n/sk.po
 odoo/addons/survey/i18n/sl.po
 odoo/addons/survey/i18n/sr.po
@@ -18549,6 +18784,7 @@ odoo/addons/transifex/i18n/pt.po
 odoo/addons/transifex/i18n/pt_BR.po
 odoo/addons/transifex/i18n/ro.po
 odoo/addons/transifex/i18n/ru.po
+odoo/addons/transifex/i18n/si.po
 odoo/addons/transifex/i18n/sk.po
 odoo/addons/transifex/i18n/sl.po
 odoo/addons/transifex/i18n/sr.po
@@ -18605,6 +18841,7 @@ odoo/addons/uom/i18n/pt.po
 odoo/addons/uom/i18n/pt_BR.po
 odoo/addons/uom/i18n/ro.po
 odoo/addons/uom/i18n/ru.po
+odoo/addons/uom/i18n/si.po
 odoo/addons/uom/i18n/sk.po
 odoo/addons/uom/i18n/sr.po
 odoo/addons/uom/i18n/sv.po
@@ -18686,6 +18923,7 @@ odoo/addons/utm/i18n/pt.po
 odoo/addons/utm/i18n/pt_BR.po
 odoo/addons/utm/i18n/ro.po
 odoo/addons/utm/i18n/ru.po
+odoo/addons/utm/i18n/si.po
 odoo/addons/utm/i18n/sk.po
 odoo/addons/utm/i18n/sl.po
 odoo/addons/utm/i18n/sq.po
@@ -18802,6 +19040,7 @@ odoo/addons/web/i18n/pt.po
 odoo/addons/web/i18n/pt_BR.po
 odoo/addons/web/i18n/ro.po
 odoo/addons/web/i18n/ru.po
+odoo/addons/web/i18n/si.po
 odoo/addons/web/i18n/sk.po
 odoo/addons/web/i18n/sl.po
 odoo/addons/web/i18n/sr.po
@@ -19981,6 +20220,7 @@ odoo/addons/web_editor/i18n/pt.po
 odoo/addons/web_editor/i18n/pt_BR.po
 odoo/addons/web_editor/i18n/ro.po
 odoo/addons/web_editor/i18n/ru.po
+odoo/addons/web_editor/i18n/si.po
 odoo/addons/web_editor/i18n/sk.po
 odoo/addons/web_editor/i18n/sl.po
 odoo/addons/web_editor/i18n/sr.po
@@ -20249,6 +20489,7 @@ odoo/addons/web_kanban_gauge/i18n/pt.po
 odoo/addons/web_kanban_gauge/i18n/pt_BR.po
 odoo/addons/web_kanban_gauge/i18n/ro.po
 odoo/addons/web_kanban_gauge/i18n/ru.po
+odoo/addons/web_kanban_gauge/i18n/si.po
 odoo/addons/web_kanban_gauge/i18n/sk.po
 odoo/addons/web_kanban_gauge/i18n/sl.po
 odoo/addons/web_kanban_gauge/i18n/sr.po
@@ -20305,6 +20546,7 @@ odoo/addons/web_tour/i18n/pt.po
 odoo/addons/web_tour/i18n/pt_BR.po
 odoo/addons/web_tour/i18n/ro.po
 odoo/addons/web_tour/i18n/ru.po
+odoo/addons/web_tour/i18n/si.po
 odoo/addons/web_tour/i18n/sk.po
 odoo/addons/web_tour/i18n/sl.po
 odoo/addons/web_tour/i18n/sr.po
@@ -20379,6 +20621,7 @@ odoo/addons/web_unsplash/i18n/pt.po
 odoo/addons/web_unsplash/i18n/pt_BR.po
 odoo/addons/web_unsplash/i18n/ro.po
 odoo/addons/web_unsplash/i18n/ru.po
+odoo/addons/web_unsplash/i18n/si.po
 odoo/addons/web_unsplash/i18n/sk.po
 odoo/addons/web_unsplash/i18n/sr.po
 odoo/addons/web_unsplash/i18n/th.po
@@ -20462,6 +20705,7 @@ odoo/addons/website/i18n/pt.po
 odoo/addons/website/i18n/pt_BR.po
 odoo/addons/website/i18n/ro.po
 odoo/addons/website/i18n/ru.po
+odoo/addons/website/i18n/si.po
 odoo/addons/website/i18n/sk.po
 odoo/addons/website/i18n/sl.po
 odoo/addons/website/i18n/sr.po
@@ -20995,6 +21239,7 @@ odoo/addons/website_blog/i18n/pt.po
 odoo/addons/website_blog/i18n/pt_BR.po
 odoo/addons/website_blog/i18n/ro.po
 odoo/addons/website_blog/i18n/ru.po
+odoo/addons/website_blog/i18n/si.po
 odoo/addons/website_blog/i18n/sk.po
 odoo/addons/website_blog/i18n/sl.po
 odoo/addons/website_blog/i18n/sq.po
@@ -21122,6 +21367,7 @@ odoo/addons/website_crm/i18n/pt.po
 odoo/addons/website_crm/i18n/pt_BR.po
 odoo/addons/website_crm/i18n/ro.po
 odoo/addons/website_crm/i18n/ru.po
+odoo/addons/website_crm/i18n/si.po
 odoo/addons/website_crm/i18n/sk.po
 odoo/addons/website_crm/i18n/sl.po
 odoo/addons/website_crm/i18n/sr.po
@@ -21163,6 +21409,7 @@ odoo/addons/website_crm_livechat/i18n/el.po
 odoo/addons/website_crm_livechat/i18n/eo.po
 odoo/addons/website_crm_livechat/i18n/es.po
 odoo/addons/website_crm_livechat/i18n/et.po
+odoo/addons/website_crm_livechat/i18n/fi.po
 odoo/addons/website_crm_livechat/i18n/fr.po
 odoo/addons/website_crm_livechat/i18n/he.po
 odoo/addons/website_crm_livechat/i18n/hr.po
@@ -21179,6 +21426,7 @@ odoo/addons/website_crm_livechat/i18n/pt.po
 odoo/addons/website_crm_livechat/i18n/pt_BR.po
 odoo/addons/website_crm_livechat/i18n/ro.po
 odoo/addons/website_crm_livechat/i18n/ru.po
+odoo/addons/website_crm_livechat/i18n/si.po
 odoo/addons/website_crm_livechat/i18n/sk.po
 odoo/addons/website_crm_livechat/i18n/tr.po
 odoo/addons/website_crm_livechat/i18n/uk.po
@@ -21260,6 +21508,7 @@ odoo/addons/website_crm_partner_assign/i18n/pt.po
 odoo/addons/website_crm_partner_assign/i18n/pt_BR.po
 odoo/addons/website_crm_partner_assign/i18n/ro.po
 odoo/addons/website_crm_partner_assign/i18n/ru.po
+odoo/addons/website_crm_partner_assign/i18n/si.po
 odoo/addons/website_crm_partner_assign/i18n/sk.po
 odoo/addons/website_crm_partner_assign/i18n/sl.po
 odoo/addons/website_crm_partner_assign/i18n/sq.po
@@ -21367,6 +21616,7 @@ odoo/addons/website_customer/i18n/pt.po
 odoo/addons/website_customer/i18n/pt_BR.po
 odoo/addons/website_customer/i18n/ro.po
 odoo/addons/website_customer/i18n/ru.po
+odoo/addons/website_customer/i18n/si.po
 odoo/addons/website_customer/i18n/sk.po
 odoo/addons/website_customer/i18n/sl.po
 odoo/addons/website_customer/i18n/sq.po
@@ -21453,6 +21703,7 @@ odoo/addons/website_event/i18n/pt.po
 odoo/addons/website_event/i18n/pt_BR.po
 odoo/addons/website_event/i18n/ro.po
 odoo/addons/website_event/i18n/ru.po
+odoo/addons/website_event/i18n/si.po
 odoo/addons/website_event/i18n/sk.po
 odoo/addons/website_event/i18n/sl.po
 odoo/addons/website_event/i18n/sr.po
@@ -21548,6 +21799,7 @@ odoo/addons/website_event_meet/i18n/el.po
 odoo/addons/website_event_meet/i18n/eo.po
 odoo/addons/website_event_meet/i18n/es.po
 odoo/addons/website_event_meet/i18n/et.po
+odoo/addons/website_event_meet/i18n/fi.po
 odoo/addons/website_event_meet/i18n/fr.po
 odoo/addons/website_event_meet/i18n/he.po
 odoo/addons/website_event_meet/i18n/hr.po
@@ -21564,6 +21816,7 @@ odoo/addons/website_event_meet/i18n/pt.po
 odoo/addons/website_event_meet/i18n/pt_BR.po
 odoo/addons/website_event_meet/i18n/ro.po
 odoo/addons/website_event_meet/i18n/ru.po
+odoo/addons/website_event_meet/i18n/si.po
 odoo/addons/website_event_meet/i18n/sk.po
 odoo/addons/website_event_meet/i18n/tr.po
 odoo/addons/website_event_meet/i18n/uk.po
@@ -21666,6 +21919,7 @@ odoo/addons/website_event_questions/i18n/pt.po
 odoo/addons/website_event_questions/i18n/pt_BR.po
 odoo/addons/website_event_questions/i18n/ro.po
 odoo/addons/website_event_questions/i18n/ru.po
+odoo/addons/website_event_questions/i18n/si.po
 odoo/addons/website_event_questions/i18n/sk.po
 odoo/addons/website_event_questions/i18n/sl.po
 odoo/addons/website_event_questions/i18n/sq.po
@@ -21762,6 +22016,7 @@ odoo/addons/website_event_sale/i18n/pt.po
 odoo/addons/website_event_sale/i18n/pt_BR.po
 odoo/addons/website_event_sale/i18n/ro.po
 odoo/addons/website_event_sale/i18n/ru.po
+odoo/addons/website_event_sale/i18n/si.po
 odoo/addons/website_event_sale/i18n/sk.po
 odoo/addons/website_event_sale/i18n/sl.po
 odoo/addons/website_event_sale/i18n/sr.po
@@ -21862,6 +22117,7 @@ odoo/addons/website_event_track/i18n/pt.po
 odoo/addons/website_event_track/i18n/pt_BR.po
 odoo/addons/website_event_track/i18n/ro.po
 odoo/addons/website_event_track/i18n/ru.po
+odoo/addons/website_event_track/i18n/si.po
 odoo/addons/website_event_track/i18n/sk.po
 odoo/addons/website_event_track/i18n/sl.po
 odoo/addons/website_event_track/i18n/sq.po
@@ -21956,6 +22212,7 @@ odoo/addons/website_event_track_exhibitor/i18n/el.po
 odoo/addons/website_event_track_exhibitor/i18n/eo.po
 odoo/addons/website_event_track_exhibitor/i18n/es.po
 odoo/addons/website_event_track_exhibitor/i18n/et.po
+odoo/addons/website_event_track_exhibitor/i18n/fi.po
 odoo/addons/website_event_track_exhibitor/i18n/fr.po
 odoo/addons/website_event_track_exhibitor/i18n/he.po
 odoo/addons/website_event_track_exhibitor/i18n/hr.po
@@ -21972,6 +22229,7 @@ odoo/addons/website_event_track_exhibitor/i18n/pt.po
 odoo/addons/website_event_track_exhibitor/i18n/pt_BR.po
 odoo/addons/website_event_track_exhibitor/i18n/ro.po
 odoo/addons/website_event_track_exhibitor/i18n/ru.po
+odoo/addons/website_event_track_exhibitor/i18n/si.po
 odoo/addons/website_event_track_exhibitor/i18n/sk.po
 odoo/addons/website_event_track_exhibitor/i18n/tr.po
 odoo/addons/website_event_track_exhibitor/i18n/uk.po
@@ -22014,6 +22272,7 @@ odoo/addons/website_event_track_live/i18n/el.po
 odoo/addons/website_event_track_live/i18n/eo.po
 odoo/addons/website_event_track_live/i18n/es.po
 odoo/addons/website_event_track_live/i18n/et.po
+odoo/addons/website_event_track_live/i18n/fi.po
 odoo/addons/website_event_track_live/i18n/fr.po
 odoo/addons/website_event_track_live/i18n/he.po
 odoo/addons/website_event_track_live/i18n/hr.po
@@ -22030,6 +22289,7 @@ odoo/addons/website_event_track_live/i18n/pt.po
 odoo/addons/website_event_track_live/i18n/pt_BR.po
 odoo/addons/website_event_track_live/i18n/ro.po
 odoo/addons/website_event_track_live/i18n/ru.po
+odoo/addons/website_event_track_live/i18n/si.po
 odoo/addons/website_event_track_live/i18n/sk.po
 odoo/addons/website_event_track_live/i18n/tr.po
 odoo/addons/website_event_track_live/i18n/uk.po
@@ -22074,6 +22334,7 @@ odoo/addons/website_event_track_quiz/i18n/el.po
 odoo/addons/website_event_track_quiz/i18n/eo.po
 odoo/addons/website_event_track_quiz/i18n/es.po
 odoo/addons/website_event_track_quiz/i18n/et.po
+odoo/addons/website_event_track_quiz/i18n/fi.po
 odoo/addons/website_event_track_quiz/i18n/fr.po
 odoo/addons/website_event_track_quiz/i18n/he.po
 odoo/addons/website_event_track_quiz/i18n/hr.po
@@ -22090,6 +22351,7 @@ odoo/addons/website_event_track_quiz/i18n/pt.po
 odoo/addons/website_event_track_quiz/i18n/pt_BR.po
 odoo/addons/website_event_track_quiz/i18n/ro.po
 odoo/addons/website_event_track_quiz/i18n/ru.po
+odoo/addons/website_event_track_quiz/i18n/si.po
 odoo/addons/website_event_track_quiz/i18n/sk.po
 odoo/addons/website_event_track_quiz/i18n/tr.po
 odoo/addons/website_event_track_quiz/i18n/uk.po
@@ -22172,6 +22434,7 @@ odoo/addons/website_form/i18n/pt.po
 odoo/addons/website_form/i18n/pt_BR.po
 odoo/addons/website_form/i18n/ro.po
 odoo/addons/website_form/i18n/ru.po
+odoo/addons/website_form/i18n/si.po
 odoo/addons/website_form/i18n/sk.po
 odoo/addons/website_form/i18n/sl.po
 odoo/addons/website_form/i18n/sr.po
@@ -22218,6 +22481,7 @@ odoo/addons/website_form_project/i18n/el.po
 odoo/addons/website_form_project/i18n/eo.po
 odoo/addons/website_form_project/i18n/es.po
 odoo/addons/website_form_project/i18n/et.po
+odoo/addons/website_form_project/i18n/fi.po
 odoo/addons/website_form_project/i18n/fr.po
 odoo/addons/website_form_project/i18n/he.po
 odoo/addons/website_form_project/i18n/hr.po
@@ -22237,6 +22501,7 @@ odoo/addons/website_form_project/i18n/pt.po
 odoo/addons/website_form_project/i18n/pt_BR.po
 odoo/addons/website_form_project/i18n/ro.po
 odoo/addons/website_form_project/i18n/ru.po
+odoo/addons/website_form_project/i18n/si.po
 odoo/addons/website_form_project/i18n/sk.po
 odoo/addons/website_form_project/i18n/tr.po
 odoo/addons/website_form_project/i18n/uk.po
@@ -22306,6 +22571,7 @@ odoo/addons/website_forum/i18n/pt.po
 odoo/addons/website_forum/i18n/pt_BR.po
 odoo/addons/website_forum/i18n/ro.po
 odoo/addons/website_forum/i18n/ru.po
+odoo/addons/website_forum/i18n/si.po
 odoo/addons/website_forum/i18n/sk.po
 odoo/addons/website_forum/i18n/sl.po
 odoo/addons/website_forum/i18n/sr.po
@@ -22425,6 +22691,7 @@ odoo/addons/website_hr_recruitment/i18n/pt.po
 odoo/addons/website_hr_recruitment/i18n/pt_BR.po
 odoo/addons/website_hr_recruitment/i18n/ro.po
 odoo/addons/website_hr_recruitment/i18n/ru.po
+odoo/addons/website_hr_recruitment/i18n/si.po
 odoo/addons/website_hr_recruitment/i18n/sk.po
 odoo/addons/website_hr_recruitment/i18n/sl.po
 odoo/addons/website_hr_recruitment/i18n/sr.po
@@ -22478,6 +22745,7 @@ odoo/addons/website_jitsi/i18n/el.po
 odoo/addons/website_jitsi/i18n/eo.po
 odoo/addons/website_jitsi/i18n/es.po
 odoo/addons/website_jitsi/i18n/et.po
+odoo/addons/website_jitsi/i18n/fi.po
 odoo/addons/website_jitsi/i18n/fr.po
 odoo/addons/website_jitsi/i18n/he.po
 odoo/addons/website_jitsi/i18n/hr.po
@@ -22494,6 +22762,7 @@ odoo/addons/website_jitsi/i18n/pt.po
 odoo/addons/website_jitsi/i18n/pt_BR.po
 odoo/addons/website_jitsi/i18n/ro.po
 odoo/addons/website_jitsi/i18n/ru.po
+odoo/addons/website_jitsi/i18n/si.po
 odoo/addons/website_jitsi/i18n/sk.po
 odoo/addons/website_jitsi/i18n/tr.po
 odoo/addons/website_jitsi/i18n/uk.po
@@ -22561,6 +22830,7 @@ odoo/addons/website_links/i18n/pt.po
 odoo/addons/website_links/i18n/pt_BR.po
 odoo/addons/website_links/i18n/ro.po
 odoo/addons/website_links/i18n/ru.po
+odoo/addons/website_links/i18n/si.po
 odoo/addons/website_links/i18n/sk.po
 odoo/addons/website_links/i18n/sl.po
 odoo/addons/website_links/i18n/sr.po
@@ -22649,6 +22919,7 @@ odoo/addons/website_livechat/i18n/pt.po
 odoo/addons/website_livechat/i18n/pt_BR.po
 odoo/addons/website_livechat/i18n/ro.po
 odoo/addons/website_livechat/i18n/ru.po
+odoo/addons/website_livechat/i18n/si.po
 odoo/addons/website_livechat/i18n/sk.po
 odoo/addons/website_livechat/i18n/sl.po
 odoo/addons/website_livechat/i18n/sr.po
@@ -22766,6 +23037,7 @@ odoo/addons/website_mail/i18n/pt.po
 odoo/addons/website_mail/i18n/pt_BR.po
 odoo/addons/website_mail/i18n/ro.po
 odoo/addons/website_mail/i18n/ru.po
+odoo/addons/website_mail/i18n/si.po
 odoo/addons/website_mail/i18n/sk.po
 odoo/addons/website_mail/i18n/sl.po
 odoo/addons/website_mail/i18n/sr.po
@@ -22843,6 +23115,7 @@ odoo/addons/website_mail_channel/i18n/pt.po
 odoo/addons/website_mail_channel/i18n/pt_BR.po
 odoo/addons/website_mail_channel/i18n/ro.po
 odoo/addons/website_mail_channel/i18n/ru.po
+odoo/addons/website_mail_channel/i18n/si.po
 odoo/addons/website_mail_channel/i18n/sk.po
 odoo/addons/website_mail_channel/i18n/sl.po
 odoo/addons/website_mail_channel/i18n/sr.po
@@ -22920,6 +23193,7 @@ odoo/addons/website_mass_mailing/i18n/pt.po
 odoo/addons/website_mass_mailing/i18n/pt_BR.po
 odoo/addons/website_mass_mailing/i18n/ro.po
 odoo/addons/website_mass_mailing/i18n/ru.po
+odoo/addons/website_mass_mailing/i18n/si.po
 odoo/addons/website_mass_mailing/i18n/sk.po
 odoo/addons/website_mass_mailing/i18n/sl.po
 odoo/addons/website_mass_mailing/i18n/sr.po
@@ -23009,6 +23283,7 @@ odoo/addons/website_membership/i18n/pt.po
 odoo/addons/website_membership/i18n/pt_BR.po
 odoo/addons/website_membership/i18n/ro.po
 odoo/addons/website_membership/i18n/ru.po
+odoo/addons/website_membership/i18n/si.po
 odoo/addons/website_membership/i18n/sk.po
 odoo/addons/website_membership/i18n/sl.po
 odoo/addons/website_membership/i18n/sr.po
@@ -23096,6 +23371,7 @@ odoo/addons/website_partner/i18n/pt.po
 odoo/addons/website_partner/i18n/pt_BR.po
 odoo/addons/website_partner/i18n/ro.po
 odoo/addons/website_partner/i18n/ru.po
+odoo/addons/website_partner/i18n/si.po
 odoo/addons/website_partner/i18n/sk.po
 odoo/addons/website_partner/i18n/sl.po
 odoo/addons/website_partner/i18n/sr.po
@@ -23175,6 +23451,7 @@ odoo/addons/website_payment/i18n/pt.po
 odoo/addons/website_payment/i18n/pt_BR.po
 odoo/addons/website_payment/i18n/ro.po
 odoo/addons/website_payment/i18n/ru.po
+odoo/addons/website_payment/i18n/si.po
 odoo/addons/website_payment/i18n/sk.po
 odoo/addons/website_payment/i18n/sl.po
 odoo/addons/website_payment/i18n/sq.po
@@ -23218,6 +23495,7 @@ odoo/addons/website_profile/i18n/el.po
 odoo/addons/website_profile/i18n/eo.po
 odoo/addons/website_profile/i18n/es.po
 odoo/addons/website_profile/i18n/et.po
+odoo/addons/website_profile/i18n/fi.po
 odoo/addons/website_profile/i18n/fr.po
 odoo/addons/website_profile/i18n/he.po
 odoo/addons/website_profile/i18n/hr.po
@@ -23237,6 +23515,7 @@ odoo/addons/website_profile/i18n/pt.po
 odoo/addons/website_profile/i18n/pt_BR.po
 odoo/addons/website_profile/i18n/ro.po
 odoo/addons/website_profile/i18n/ru.po
+odoo/addons/website_profile/i18n/si.po
 odoo/addons/website_profile/i18n/sk.po
 odoo/addons/website_profile/i18n/tr.po
 odoo/addons/website_profile/i18n/uk.po
@@ -23325,6 +23604,7 @@ odoo/addons/website_sale/i18n/pt.po
 odoo/addons/website_sale/i18n/pt_BR.po
 odoo/addons/website_sale/i18n/ro.po
 odoo/addons/website_sale/i18n/ru.po
+odoo/addons/website_sale/i18n/si.po
 odoo/addons/website_sale/i18n/sk.po
 odoo/addons/website_sale/i18n/sl.po
 odoo/addons/website_sale/i18n/sr.po
@@ -23498,6 +23778,7 @@ odoo/addons/website_sale_comparison/i18n/pt.po
 odoo/addons/website_sale_comparison/i18n/pt_BR.po
 odoo/addons/website_sale_comparison/i18n/ro.po
 odoo/addons/website_sale_comparison/i18n/ru.po
+odoo/addons/website_sale_comparison/i18n/si.po
 odoo/addons/website_sale_comparison/i18n/sk.po
 odoo/addons/website_sale_comparison/i18n/sl.po
 odoo/addons/website_sale_comparison/i18n/sr.po
@@ -23586,6 +23867,7 @@ odoo/addons/website_sale_coupon/i18n/pt.po
 odoo/addons/website_sale_coupon/i18n/pt_BR.po
 odoo/addons/website_sale_coupon/i18n/ro.po
 odoo/addons/website_sale_coupon/i18n/ru.po
+odoo/addons/website_sale_coupon/i18n/si.po
 odoo/addons/website_sale_coupon/i18n/sk.po
 odoo/addons/website_sale_coupon/i18n/sl.po
 odoo/addons/website_sale_coupon/i18n/sq.po
@@ -23680,6 +23962,7 @@ odoo/addons/website_sale_delivery/i18n/pt.po
 odoo/addons/website_sale_delivery/i18n/pt_BR.po
 odoo/addons/website_sale_delivery/i18n/ro.po
 odoo/addons/website_sale_delivery/i18n/ru.po
+odoo/addons/website_sale_delivery/i18n/si.po
 odoo/addons/website_sale_delivery/i18n/sk.po
 odoo/addons/website_sale_delivery/i18n/sl.po
 odoo/addons/website_sale_delivery/i18n/sr.po
@@ -23774,6 +24057,7 @@ odoo/addons/website_sale_digital/i18n/pt.po
 odoo/addons/website_sale_digital/i18n/pt_BR.po
 odoo/addons/website_sale_digital/i18n/ro.po
 odoo/addons/website_sale_digital/i18n/ru.po
+odoo/addons/website_sale_digital/i18n/si.po
 odoo/addons/website_sale_digital/i18n/sk.po
 odoo/addons/website_sale_digital/i18n/sl.po
 odoo/addons/website_sale_digital/i18n/sq.po
@@ -23837,6 +24121,7 @@ odoo/addons/website_sale_management/i18n/pt.po
 odoo/addons/website_sale_management/i18n/pt_BR.po
 odoo/addons/website_sale_management/i18n/ro.po
 odoo/addons/website_sale_management/i18n/ru.po
+odoo/addons/website_sale_management/i18n/si.po
 odoo/addons/website_sale_management/i18n/sk.po
 odoo/addons/website_sale_management/i18n/sr.po
 odoo/addons/website_sale_management/i18n/sv.po
@@ -23864,6 +24149,7 @@ odoo/addons/website_sale_product_configurator/i18n/el.po
 odoo/addons/website_sale_product_configurator/i18n/eo.po
 odoo/addons/website_sale_product_configurator/i18n/es.po
 odoo/addons/website_sale_product_configurator/i18n/et.po
+odoo/addons/website_sale_product_configurator/i18n/fi.po
 odoo/addons/website_sale_product_configurator/i18n/fr.po
 odoo/addons/website_sale_product_configurator/i18n/he.po
 odoo/addons/website_sale_product_configurator/i18n/hr.po
@@ -23883,6 +24169,7 @@ odoo/addons/website_sale_product_configurator/i18n/pt.po
 odoo/addons/website_sale_product_configurator/i18n/pt_BR.po
 odoo/addons/website_sale_product_configurator/i18n/ro.po
 odoo/addons/website_sale_product_configurator/i18n/ru.po
+odoo/addons/website_sale_product_configurator/i18n/si.po
 odoo/addons/website_sale_product_configurator/i18n/sk.po
 odoo/addons/website_sale_product_configurator/i18n/tr.po
 odoo/addons/website_sale_product_configurator/i18n/uk.po
@@ -23919,6 +24206,7 @@ odoo/addons/website_sale_slides/i18n/el.po
 odoo/addons/website_sale_slides/i18n/eo.po
 odoo/addons/website_sale_slides/i18n/es.po
 odoo/addons/website_sale_slides/i18n/et.po
+odoo/addons/website_sale_slides/i18n/fi.po
 odoo/addons/website_sale_slides/i18n/fr.po
 odoo/addons/website_sale_slides/i18n/he.po
 odoo/addons/website_sale_slides/i18n/hr.po
@@ -23938,6 +24226,7 @@ odoo/addons/website_sale_slides/i18n/pt.po
 odoo/addons/website_sale_slides/i18n/pt_BR.po
 odoo/addons/website_sale_slides/i18n/ro.po
 odoo/addons/website_sale_slides/i18n/ru.po
+odoo/addons/website_sale_slides/i18n/si.po
 odoo/addons/website_sale_slides/i18n/sk.po
 odoo/addons/website_sale_slides/i18n/tr.po
 odoo/addons/website_sale_slides/i18n/uk.po
@@ -24013,6 +24302,7 @@ odoo/addons/website_sale_stock/i18n/pt.po
 odoo/addons/website_sale_stock/i18n/pt_BR.po
 odoo/addons/website_sale_stock/i18n/ro.po
 odoo/addons/website_sale_stock/i18n/ru.po
+odoo/addons/website_sale_stock/i18n/si.po
 odoo/addons/website_sale_stock/i18n/sk.po
 odoo/addons/website_sale_stock/i18n/sl.po
 odoo/addons/website_sale_stock/i18n/sr.po
@@ -24086,6 +24376,7 @@ odoo/addons/website_sale_wishlist/i18n/pt.po
 odoo/addons/website_sale_wishlist/i18n/pt_BR.po
 odoo/addons/website_sale_wishlist/i18n/ro.po
 odoo/addons/website_sale_wishlist/i18n/ru.po
+odoo/addons/website_sale_wishlist/i18n/si.po
 odoo/addons/website_sale_wishlist/i18n/sk.po
 odoo/addons/website_sale_wishlist/i18n/sl.po
 odoo/addons/website_sale_wishlist/i18n/sr.po
@@ -24180,6 +24471,7 @@ odoo/addons/website_slides/i18n/pt.po
 odoo/addons/website_slides/i18n/pt_BR.po
 odoo/addons/website_slides/i18n/ro.po
 odoo/addons/website_slides/i18n/ru.po
+odoo/addons/website_slides/i18n/si.po
 odoo/addons/website_slides/i18n/sk.po
 odoo/addons/website_slides/i18n/sl.po
 odoo/addons/website_slides/i18n/sq.po
@@ -24335,6 +24627,7 @@ odoo/addons/website_slides_forum/i18n/el.po
 odoo/addons/website_slides_forum/i18n/eo.po
 odoo/addons/website_slides_forum/i18n/es.po
 odoo/addons/website_slides_forum/i18n/et.po
+odoo/addons/website_slides_forum/i18n/fi.po
 odoo/addons/website_slides_forum/i18n/fr.po
 odoo/addons/website_slides_forum/i18n/he.po
 odoo/addons/website_slides_forum/i18n/hr.po
@@ -24354,6 +24647,7 @@ odoo/addons/website_slides_forum/i18n/pt.po
 odoo/addons/website_slides_forum/i18n/pt_BR.po
 odoo/addons/website_slides_forum/i18n/ro.po
 odoo/addons/website_slides_forum/i18n/ru.po
+odoo/addons/website_slides_forum/i18n/si.po
 odoo/addons/website_slides_forum/i18n/sk.po
 odoo/addons/website_slides_forum/i18n/tr.po
 odoo/addons/website_slides_forum/i18n/uk.po
@@ -24395,6 +24689,7 @@ odoo/addons/website_slides_survey/i18n/el.po
 odoo/addons/website_slides_survey/i18n/eo.po
 odoo/addons/website_slides_survey/i18n/es.po
 odoo/addons/website_slides_survey/i18n/et.po
+odoo/addons/website_slides_survey/i18n/fi.po
 odoo/addons/website_slides_survey/i18n/fr.po
 odoo/addons/website_slides_survey/i18n/he.po
 odoo/addons/website_slides_survey/i18n/hr.po
@@ -24414,6 +24709,7 @@ odoo/addons/website_slides_survey/i18n/pt.po
 odoo/addons/website_slides_survey/i18n/pt_BR.po
 odoo/addons/website_slides_survey/i18n/ro.po
 odoo/addons/website_slides_survey/i18n/ru.po
+odoo/addons/website_slides_survey/i18n/si.po
 odoo/addons/website_slides_survey/i18n/sk.po
 odoo/addons/website_slides_survey/i18n/tr.po
 odoo/addons/website_slides_survey/i18n/uk.po
@@ -24460,6 +24756,7 @@ odoo/addons/website_sms/i18n/el.po
 odoo/addons/website_sms/i18n/eo.po
 odoo/addons/website_sms/i18n/es.po
 odoo/addons/website_sms/i18n/et.po
+odoo/addons/website_sms/i18n/fi.po
 odoo/addons/website_sms/i18n/fr.po
 odoo/addons/website_sms/i18n/he.po
 odoo/addons/website_sms/i18n/hr.po
@@ -24476,6 +24773,7 @@ odoo/addons/website_sms/i18n/pt.po
 odoo/addons/website_sms/i18n/pt_BR.po
 odoo/addons/website_sms/i18n/ro.po
 odoo/addons/website_sms/i18n/ru.po
+odoo/addons/website_sms/i18n/si.po
 odoo/addons/website_sms/i18n/sk.po
 odoo/addons/website_sms/i18n/tr.po
 odoo/addons/website_sms/i18n/uk.po
@@ -24547,6 +24845,7 @@ odoo/addons/website_twitter/i18n/pt.po
 odoo/addons/website_twitter/i18n/pt_BR.po
 odoo/addons/website_twitter/i18n/ro.po
 odoo/addons/website_twitter/i18n/ru.po
+odoo/addons/website_twitter/i18n/si.po
 odoo/addons/website_twitter/i18n/sk.po
 odoo/addons/website_twitter/i18n/sl.po
 odoo/addons/website_twitter/i18n/sq.po
