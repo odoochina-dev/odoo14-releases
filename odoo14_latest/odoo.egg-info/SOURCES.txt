@@ -14481,6 +14481,7 @@ odoo/addons/product/models/product_template.py
 odoo/addons/product/models/res_company.py
 odoo/addons/product/models/res_config_settings.py
 odoo/addons/product/models/res_partner.py
+odoo/addons/product/models/uom_uom.py
 odoo/addons/product/populate/__init__.py
 odoo/addons/product/populate/product.py
 odoo/addons/product/report/__init__.py
