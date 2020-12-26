@@ -12465,6 +12465,7 @@ odoo/addons/payment_odoo_by_adyen/__manifest__.py
 odoo/addons/payment_odoo_by_adyen/controllers/__init__.py
 odoo/addons/payment_odoo_by_adyen/controllers/main.py
 odoo/addons/payment_odoo_by_adyen/data/payment_acquirer_data.xml
+odoo/addons/payment_odoo_by_adyen/i18n/payment_odoo_by_adyen.pot
 odoo/addons/payment_odoo_by_adyen/models/__init__.py
 odoo/addons/payment_odoo_by_adyen/models/payment.py
 odoo/addons/payment_odoo_by_adyen/static/src/img/odoo_icon.png
@@ -24970,6 +24971,7 @@ odoo/tests/loader.py
 odoo/tests/runner.py
 odoo/tests/test_module_operations.py
 odoo/tools/__init__.py
+odoo/tools/_monkeypatches.py
 odoo/tools/appdirs.py
 odoo/tools/cache.py
 odoo/tools/cloc.py
