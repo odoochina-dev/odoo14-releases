@@ -8229,11 +8229,14 @@ odoo/addons/l10n_ie/static/description/icon.png
 odoo/addons/l10n_il/__init__.py
 odoo/addons/l10n_il/__manifest__.py
 odoo/addons/l10n_il/data/account.account.template.csv
+odoo/addons/l10n_il/data/account_account_tag.xml
 odoo/addons/l10n_il/data/account_chart_template_configure_data.xml
 odoo/addons/l10n_il/data/account_chart_template_data.xml
 odoo/addons/l10n_il/data/account_chart_template_post_data.xml
 odoo/addons/l10n_il/data/account_data.xml
+odoo/addons/l10n_il/data/account_tax_report_data.xml
 odoo/addons/l10n_il/data/account_tax_template_data.xml
+odoo/addons/l10n_il/data/fiscal_templates_data.xml
 odoo/addons/l10n_il/demo/demo_company.xml
 odoo/addons/l10n_in/__init__.py
 odoo/addons/l10n_in/__manifest__.py
@@ -9981,6 +9984,7 @@ odoo/addons/mass_mailing/static/src/img/theme_imgs/default_thumb_large.png
 odoo/addons/mass_mailing/static/src/img/theme_imgs/default_thumb_logo.png
 odoo/addons/mass_mailing/static/src/img/theme_imgs/default_thumb_small.png
 odoo/addons/mass_mailing/static/src/js/mass_mailing.js
+odoo/addons/mass_mailing/static/src/js/mass_mailing_link_dialog_fix.js
 odoo/addons/mass_mailing/static/src/js/mass_mailing_list_kanban_record.js
 odoo/addons/mass_mailing/static/src/js/mass_mailing_list_kanban_renderer.js
 odoo/addons/mass_mailing/static/src/js/mass_mailing_list_kanban_view.js
@@ -15491,6 +15495,7 @@ odoo/addons/sale_coupon/security/ir.model.access.csv
 odoo/addons/sale_coupon/security/sale_coupon_security.xml
 odoo/addons/sale_coupon/tests/__init__.py
 odoo/addons/sale_coupon/tests/common.py
+odoo/addons/sale_coupon/tests/test_program_multi_company.py
 odoo/addons/sale_coupon/tests/test_program_numbers.py
 odoo/addons/sale_coupon/tests/test_program_rules.py
 odoo/addons/sale_coupon/tests/test_program_with_code_operations.py
