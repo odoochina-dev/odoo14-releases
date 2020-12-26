@@ -1,10 +1,15 @@
 # odoo14-releases
 
 
+## Introduction
 Odoo releases in a daily way, looks there is not much method to track what's new and what's the diff b/w two odoo releases. 
 This repo is to check in each odoo14 daily release as a commit of this repo, so that you can easily track what's the diff, via git tools.
 
 Of course, this is for odoo14 community releases, not odoo14 enterprise. ^_^
+
+## Disclaimer
+This is a **3rd party** repo, automatically generated based on the Odoo 14 Community Edition open source nightly release build. <br/>
+**It's NOT official odoo, nor has any relationship with offical odoo (at https://www.odoo.com/).**
 
 ## Credit
 The source code is just a copy & paste from odoo. All credits goes to @odoo. Here is a quote (from https://github.com/odoo/odoo/blob/14.0/README.md as of today, 2020.12.26):
@@ -19,7 +24,7 @@ Please see odoo official site for more info:
  - https://github.com/odoo/odoo
 
 ## LICENSE
-It's LGPLv3 in short.
+This repo does not claim any ownership of the source code, it belongs to the offical odoo. And the open source license also comes from official odoo: in short, its LGPLv3.
 Details, please refer:
 - [odoo14_latest/LICENSE](odoo14_latest/LICENSE)
 - https://www.odoo.com/documentation/user/14.0/legal/licenses/licenses.html
