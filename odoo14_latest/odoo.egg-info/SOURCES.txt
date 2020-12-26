@@ -21253,6 +21253,7 @@ odoo/addons/website/static/src/xml/website.seo.xml
 odoo/addons/website/static/src/xml/website.share.xml
 odoo/addons/website/static/src/xml/website.xml
 odoo/addons/website/static/src/xml/website_widget.xml
+odoo/addons/website/static/tests/dashboard_tests.js
 odoo/addons/website/static/tests/website_tests.js
 odoo/addons/website/static/tests/tours/dashboard_tour.js
 odoo/addons/website/static/tests/tours/html_editor.js
