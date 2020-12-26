@@ -13715,6 +13715,8 @@ odoo/addons/pos_adyen/views/pos_payment_method_views.xml
 odoo/addons/pos_adyen/views/res_config_settings_views.xml
 odoo/addons/pos_cache/__init__.py
 odoo/addons/pos_cache/__manifest__.py
+odoo/addons/pos_cache/controllers/__init__.py
+odoo/addons/pos_cache/controllers/main.py
 odoo/addons/pos_cache/data/pos_cache_data.xml
 odoo/addons/pos_cache/doc/cache.rst
 odoo/addons/pos_cache/i18n/af.po
@@ -18870,11 +18872,13 @@ odoo/addons/test_website/controllers/__init__.py
 odoo/addons/test_website/controllers/main.py
 odoo/addons/test_website/data/test_website_data.xml
 odoo/addons/test_website/static/src/js/test_error.js
+odoo/addons/test_website/static/tests/tours/custom_snippets.js
 odoo/addons/test_website/static/tests/tours/error_views.js
 odoo/addons/test_website/static/tests/tours/json_auth.js
 odoo/addons/test_website/static/tests/tours/reset_views.js
 odoo/addons/test_website/tests/__init__.py
 odoo/addons/test_website/tests/test_controller_args.py
+odoo/addons/test_website/tests/test_custom_snippet.py
 odoo/addons/test_website/tests/test_error.py
 odoo/addons/test_website/tests/test_is_multilang.py
 odoo/addons/test_website/tests/test_multi_company.py
