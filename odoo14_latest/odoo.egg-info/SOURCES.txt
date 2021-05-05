@@ -8600,6 +8600,8 @@ odoo/addons/l10n_cn/models/__init__.py
 odoo/addons/l10n_cn/models/account_move.py
 odoo/addons/l10n_cn/static/description/icon.png
 odoo/addons/l10n_cn/views/account_move_view.xml
+odoo/addons/l10n_cn/views/account_report.xml
+odoo/addons/l10n_cn/views/report_voucher.xml
 odoo/addons/l10n_cn_city/__init__.py
 odoo/addons/l10n_cn_city/__manifest__.py
 odoo/addons/l10n_cn_city/data/res_city_data.xml
