@@ -8360,6 +8360,16 @@ odoo/addons/l10n_ar/views/res_country_view.xml
 odoo/addons/l10n_ar/views/res_currency_view.xml
 odoo/addons/l10n_ar/views/res_partner_view.xml
 odoo/addons/l10n_ar/views/uom_uom_view.xml
+odoo/addons/l10n_ar_website_sale/__init__.py
+odoo/addons/l10n_ar_website_sale/__manifest__.py
+odoo/addons/l10n_ar_website_sale/controllers/__init__.py
+odoo/addons/l10n_ar_website_sale/controllers/main.py
+odoo/addons/l10n_ar_website_sale/data/ir_model_fields.xml
+odoo/addons/l10n_ar_website_sale/demo/website_demo.xml
+odoo/addons/l10n_ar_website_sale/i18n/es.po
+odoo/addons/l10n_ar_website_sale/i18n/l10n_ar_website_sale.pot
+odoo/addons/l10n_ar_website_sale/static/description/icon.png
+odoo/addons/l10n_ar_website_sale/views/templates.xml
 odoo/addons/l10n_at/__init__.py
 odoo/addons/l10n_at/__manifest__.py
 odoo/addons/l10n_at/data/account_account_tag.xml
