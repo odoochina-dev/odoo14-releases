@@ -15125,6 +15125,7 @@ odoo/addons/pos_sale/i18n/vi.po
 odoo/addons/pos_sale/i18n/zh_CN.po
 odoo/addons/pos_sale/i18n/zh_TW.po
 odoo/addons/pos_sale/models/__init__.py
+odoo/addons/pos_sale/models/account_move.py
 odoo/addons/pos_sale/models/crm_team.py
 odoo/addons/pos_sale/models/pos_config.py
 odoo/addons/pos_sale/models/pos_order.py
@@ -19718,8 +19719,8 @@ odoo/addons/test_mass_mailing/tests/test_blacklist.py
 odoo/addons/test_mass_mailing/tests/test_blacklist_behavior.py
 odoo/addons/test_mass_mailing/tests/test_blacklist_mixin.py
 odoo/addons/test_mass_mailing/tests/test_link_tracker.py
-odoo/addons/test_mass_mailing/tests/test_mailing_internals.py
-odoo/addons/test_mass_mailing/tests/test_mass_mailing.py
+odoo/addons/test_mass_mailing/tests/test_mailing.py
+odoo/addons/test_mass_mailing/tests/test_mailing_test.py
 odoo/addons/test_mass_mailing/tests/test_performance.py
 odoo/addons/test_mimetypes/__init__.py
 odoo/addons/test_mimetypes/__manifest__.py
