@@ -19580,16 +19580,6 @@ odoo/addons/test_data_module_install/__init__.py
 odoo/addons/test_data_module_install/__manifest__.py
 odoo/addons/test_data_module_install/tests/__init__.py
 odoo/addons/test_data_module_install/tests/test_data_module_installed.py
-odoo/addons/test_documentation_examples/__init__.py
-odoo/addons/test_documentation_examples/__manifest__.py
-odoo/addons/test_documentation_examples/delegation.py
-odoo/addons/test_documentation_examples/extension.py
-odoo/addons/test_documentation_examples/inheritance.py
-odoo/addons/test_documentation_examples/ir.model.access.csv
-odoo/addons/test_documentation_examples/tests/__init__.py
-odoo/addons/test_documentation_examples/tests/test_delegation.py
-odoo/addons/test_documentation_examples/tests/test_extension.py
-odoo/addons/test_documentation_examples/tests/test_inheritance.py
 odoo/addons/test_event_full/__init__.py
 odoo/addons/test_event_full/__manifest__.py
 odoo/addons/test_event_full/static/src/js/tours/wevent_register_tour.js
