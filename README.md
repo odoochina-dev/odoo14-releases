@@ -2,8 +2,11 @@
 
 
 ## Introduction
-Odoo releases in a daily way, looks there is not much method to track what's new and what's the diff b/w two odoo releases. 
-This repo is to check in each odoo14 daily release as a commit of this repo, so that you can easily track what's the diff, via git tools.
+Odoo releases in a daily way, looks there is not much method to track **what's new and what's the diff b/w two odoo releases**. 
+Here I check in each odoo14 daily release as a commit of this repo, then it's quite easy to compare what's the diff b/w two odoo releases.
+e.g. 
+- odoo_14.0.20210505.tar.gz vs odoo_14.0.20210504.tar.gz is at https://github.com/odoochina-dev/odoo14-releases/commit/92a397f39f951f3b6e78309f02a80cda9b2e1988
+- with git command lines you can also easy to get the diff b/w e.g odoo_14.0.20210505.tar.gz vs odoo_14.0.20210405.tar.gz
 
 Of course, this is for odoo14 community releases, not odoo14 enterprise. ^_^
 
