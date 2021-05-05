@@ -8398,6 +8398,8 @@ odoo/addons/l10n_be/i18n_extra/l10n_be.pot
 odoo/addons/l10n_be/i18n_extra/nl.po
 odoo/addons/l10n_be/models/__init__.py
 odoo/addons/l10n_be/models/account_chart_template.py
+odoo/addons/l10n_be/models/account_invoice.py
+odoo/addons/l10n_be/models/account_journal.py
 odoo/addons/l10n_be/static/description/icon.png
 odoo/addons/l10n_be_edi/__init__.py
 odoo/addons/l10n_be_edi/__manifest__.py
@@ -8418,9 +8420,6 @@ odoo/addons/l10n_be_invoice_bba/i18n/fr_CA.po
 odoo/addons/l10n_be_invoice_bba/i18n/l10n_be_invoice_bba.pot
 odoo/addons/l10n_be_invoice_bba/i18n/nl.po
 odoo/addons/l10n_be_invoice_bba/i18n/nl_BE.po
-odoo/addons/l10n_be_invoice_bba/models/__init__.py
-odoo/addons/l10n_be_invoice_bba/models/account_invoice.py
-odoo/addons/l10n_be_invoice_bba/models/account_journal.py
 odoo/addons/l10n_bo/__init__.py
 odoo/addons/l10n_bo/__manifest__.py
 odoo/addons/l10n_bo/data/account.account.template.csv
