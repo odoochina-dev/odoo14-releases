@@ -3771,6 +3771,7 @@ odoo/addons/calendar_sms/i18n/zh_CN.po
 odoo/addons/calendar_sms/i18n/zh_TW.po
 odoo/addons/calendar_sms/models/__init__.py
 odoo/addons/calendar_sms/models/calendar.py
+odoo/addons/calendar_sms/security/sms_security.xml
 odoo/addons/calendar_sms/views/calendar_views.xml
 odoo/addons/contacts/__init__.py
 odoo/addons/contacts/__manifest__.py
@@ -6857,6 +6858,7 @@ odoo/addons/hr_presence/models/__init__.py
 odoo/addons/hr_presence/models/hr_employee.py
 odoo/addons/hr_presence/models/res_company.py
 odoo/addons/hr_presence/models/res_users_log.py
+odoo/addons/hr_presence/security/sms_security.xml
 odoo/addons/hr_presence/views/hr_employee_views.xml
 odoo/addons/hr_recruitment/README.md
 odoo/addons/hr_recruitment/__init__.py
@@ -11888,6 +11890,7 @@ odoo/addons/odoo_referral/i18n/vi.po
 odoo/addons/odoo_referral/i18n/zh_CN.po
 odoo/addons/odoo_referral/i18n/zh_TW.po
 odoo/addons/odoo_referral/static/src/js/systray.js
+odoo/addons/odoo_referral/static/src/xml/systray.xml
 odoo/addons/odoo_referral/views/templates.xml
 odoo/addons/odoo_referral_portal/__init__.py
 odoo/addons/pad/__init__.py
