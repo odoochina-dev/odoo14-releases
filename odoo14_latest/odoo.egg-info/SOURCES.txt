@@ -5552,6 +5552,7 @@ odoo/addons/google_calendar/i18n/zh_CN.po
 odoo/addons/google_calendar/i18n/zh_TW.po
 odoo/addons/google_calendar/models/__init__.py
 odoo/addons/google_calendar/models/calendar.py
+odoo/addons/google_calendar/models/calendar_attendee.py
 odoo/addons/google_calendar/models/calendar_recurrence_rule.py
 odoo/addons/google_calendar/models/google_sync.py
 odoo/addons/google_calendar/models/res_config_settings.py
