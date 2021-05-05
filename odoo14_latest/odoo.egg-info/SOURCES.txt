@@ -16442,6 +16442,7 @@ odoo/addons/sale_coupon/tests/test_program_numbers.py
 odoo/addons/sale_coupon/tests/test_program_rules.py
 odoo/addons/sale_coupon/tests/test_program_with_code_operations.py
 odoo/addons/sale_coupon/tests/test_program_without_code_operations.py
+odoo/addons/sale_coupon/tests/test_sale_invoicing.py
 odoo/addons/sale_coupon/views/coupon_program_views.xml
 odoo/addons/sale_coupon/views/coupon_views.xml
 odoo/addons/sale_coupon/views/res_config_settings_views.xml
