@@ -7040,6 +7040,7 @@ odoo/addons/hr_presence/models/__init__.py
 odoo/addons/hr_presence/models/hr_employee.py
 odoo/addons/hr_presence/models/res_company.py
 odoo/addons/hr_presence/models/res_users_log.py
+odoo/addons/hr_presence/security/ir.model.access.csv
 odoo/addons/hr_presence/security/sms_security.xml
 odoo/addons/hr_presence/views/hr_employee_views.xml
 odoo/addons/hr_recruitment/README.md
@@ -12020,7 +12021,6 @@ odoo/addons/mrp_subcontracting/wizard/stock_picking_return_views.xml
 odoo/addons/mrp_subcontracting_account/__init__.py
 odoo/addons/mrp_subcontracting_account/__manifest__.py
 odoo/addons/mrp_subcontracting_account/models/__init__.py
-odoo/addons/mrp_subcontracting_account/models/stock_location.py
 odoo/addons/mrp_subcontracting_account/models/stock_picking.py
 odoo/addons/mrp_subcontracting_account/tests/__init__.py
 odoo/addons/mrp_subcontracting_account/tests/test_subcontracting_account.py
@@ -18367,6 +18367,7 @@ odoo/addons/sms/static/src/models/notification_group/notification_group.js
 odoo/addons/sms/static/tests/sms_widget_test.js
 odoo/addons/sms/tests/__init__.py
 odoo/addons/sms/tests/common.py
+odoo/addons/sms/tests/test_sms_template.py
 odoo/addons/sms/views/assets.xml
 odoo/addons/sms/views/ir_actions_views.xml
 odoo/addons/sms/views/mail_notification_views.xml
