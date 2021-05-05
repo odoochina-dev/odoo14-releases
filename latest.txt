@@ -169,3 +169,4 @@ odoo_14.0.20210314.tar.gz
 odoo_14.0.20210315.tar.gz
 odoo_14.0.20210316.tar.gz
 odoo_14.0.20210317.tar.gz
+odoo_14.0.20210318.tar.gz
