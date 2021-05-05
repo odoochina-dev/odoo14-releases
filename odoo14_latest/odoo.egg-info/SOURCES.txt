@@ -28809,9 +28809,6 @@ odoo/tools/pycompat.py
 odoo/tools/safe_eval.py
 odoo/tools/sql.py
 odoo/tools/template_inheritance.py
-odoo/tools/test-config-values
-odoo/tools/test-config-values-00.conf
-odoo/tools/test_config.py
 odoo/tools/test_reports.py
 odoo/tools/translate.py
 odoo/tools/view_validation.py
