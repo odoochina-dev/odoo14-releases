@@ -10427,6 +10427,7 @@ odoo/addons/mail/static/tests/tours/mail_full_composer_test_tour.js
 odoo/addons/mail/tests/__init__.py
 odoo/addons/mail/tests/common.py
 odoo/addons/mail/tests/test_mail_full_composer.py
+odoo/addons/mail/tests/test_mail_render.py
 odoo/addons/mail/tests/test_res_partner.py
 odoo/addons/mail/tests/test_update_notification.py
 odoo/addons/mail/views/assets.xml
@@ -19667,7 +19668,6 @@ odoo/addons/test_mail/tests/test_mail_mail.py
 odoo/addons/test_mail/tests/test_mail_message.py
 odoo/addons/test_mail/tests/test_mail_template.py
 odoo/addons/test_mail/tests/test_mail_thread_internals.py
-odoo/addons/test_mail/tests/test_message_composer.py
 odoo/addons/test_mail/tests/test_message_management.py
 odoo/addons/test_mail/tests/test_message_post.py
 odoo/addons/test_mail/tests/test_message_track.py
