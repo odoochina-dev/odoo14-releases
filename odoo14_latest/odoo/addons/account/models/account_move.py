@@ -2514,7 +2514,7 @@ class AccountMove(models.Model):
         return action
 
     def action_post(self):
-        return self._post(soft=False)
+        self._post(soft=False)
 
     def js_assign_outstanding_line(self, line_id):
         ''' Called by the 'payment' widget to reconcile a suggested journal item to the present
@@ -2862,13 +2862,13 @@ class AccountMove(models.Model):
         attachments = self.env['ir.attachment'].browse(attachment_ids)
         odoobot = self.env.ref('base.partner_root')
         if attachments and self.state != 'draft':
-            self.message_post(body='The invoice is not a draft, it was not updated from the attachment.',
+            self.message_post(body=_('The invoice is not a draft, it was not updated from the attachment.'),
                               message_type='comment',
                               subtype_xmlid='mail.mt_note',
                               author_id=odoobot.id)
             return res
         if attachments and self.line_ids:
-            self.message_post(body='The invoice already contains lines, it was not updated from the attachment.',
+            self.message_post(body=_('The invoice already contains lines, it was not updated from the attachment.'),
                               message_type='comment',
                               subtype_xmlid='mail.mt_note',
                               author_id=odoobot.id)
