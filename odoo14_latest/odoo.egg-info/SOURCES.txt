@@ -5700,7 +5700,9 @@ odoo/addons/google_calendar/static/description/recurrent.png
 odoo/addons/google_calendar/static/description/the_calendar.png
 odoo/addons/google_calendar/static/src/img/calendar_32.png
 odoo/addons/google_calendar/static/src/js/google_calendar.js
+odoo/addons/google_calendar/static/src/js/google_calendar_popover.js
 odoo/addons/google_calendar/static/src/scss/google_calendar.scss
+odoo/addons/google_calendar/static/src/xml/google_calendar_popover.xml
 odoo/addons/google_calendar/static/tests/google_calendar_tests.js
 odoo/addons/google_calendar/static/tests/mock_server.js
 odoo/addons/google_calendar/tests/__init__.py
@@ -5710,6 +5712,7 @@ odoo/addons/google_calendar/utils/__init__.py
 odoo/addons/google_calendar/utils/google_calendar.py
 odoo/addons/google_calendar/utils/google_event.py
 odoo/addons/google_calendar/views/google_calendar_templates.xml
+odoo/addons/google_calendar/views/google_calendar_views.xml
 odoo/addons/google_calendar/views/res_config_settings_views.xml
 odoo/addons/google_calendar/views/res_users_views.xml
 odoo/addons/google_calendar/wizard/__init__.py
@@ -8600,6 +8603,8 @@ odoo/addons/l10n_co/models/__init__.py
 odoo/addons/l10n_co/models/l10n_latam_identification_type.py
 odoo/addons/l10n_co/models/res_partner.py
 odoo/addons/l10n_co/static/description/icon.png
+odoo/addons/l10n_co_pos/__init__.py
+odoo/addons/l10n_co_pos/__manifest__.py
 odoo/addons/l10n_co_pos/static/src/js/PaymentScreen.js
 odoo/addons/l10n_co_pos/static/src/js/pos.js
 odoo/addons/l10n_co_pos/static/src/xml/pos.xml
@@ -10423,6 +10428,8 @@ odoo/addons/mail_bot/static/src/scss/odoobot_style.scss
 odoo/addons/mail_bot/static/tests/helpers/mock_server.js
 odoo/addons/mail_bot/views/assets.xml
 odoo/addons/mail_bot/views/res_users_views.xml
+odoo/addons/mail_bot_hr/__init__.py
+odoo/addons/mail_bot_hr/__manifest__.py
 odoo/addons/mail_bot_hr/views/res_users_views.xml
 odoo/addons/mail_client_extension/__init__.py
 odoo/addons/mail_client_extension/__manifest__.py
@@ -11412,13 +11419,16 @@ odoo/addons/microsoft_calendar/static/description/icon.png
 odoo/addons/microsoft_calendar/static/description/icon.svg
 odoo/addons/microsoft_calendar/static/src/img/calendar_outlook_32.png
 odoo/addons/microsoft_calendar/static/src/js/microsoft_calendar.js
+odoo/addons/microsoft_calendar/static/src/js/microsoft_calendar_popover.js
 odoo/addons/microsoft_calendar/static/src/scss/microsoft_calendar.scss
+odoo/addons/microsoft_calendar/static/src/xml/microsoft_calendar_popover.xml
 odoo/addons/microsoft_calendar/tests/__init__.py
 odoo/addons/microsoft_calendar/tests/test_sync_microsoft2odoo.py
 odoo/addons/microsoft_calendar/utils/__init__.py
 odoo/addons/microsoft_calendar/utils/microsoft_calendar.py
 odoo/addons/microsoft_calendar/utils/microsoft_event.py
 odoo/addons/microsoft_calendar/views/microsoft_calendar_templates.xml
+odoo/addons/microsoft_calendar/views/microsoft_calendar_views.xml
 odoo/addons/microsoft_calendar/views/res_config_settings_views.xml
 odoo/addons/microsoft_calendar/views/res_users_views.xml
 odoo/addons/microsoft_calendar/wizard/__init__.py
@@ -12237,6 +12247,8 @@ odoo/addons/pad/models/res_company.py
 odoo/addons/pad/models/res_config_settings.py
 odoo/addons/pad/py_etherpad/__init__.py
 odoo/addons/pad/static/plugin/ep_disable_init_focus/README.md
+odoo/addons/pad/static/plugin/ep_disable_init_focus/ep.json
+odoo/addons/pad/static/plugin/ep_disable_init_focus/package.json
 odoo/addons/pad/static/plugin/ep_disable_init_focus/static/js/disable_init_focus.js
 odoo/addons/pad/static/src/css/etherpad.css
 odoo/addons/pad/static/src/img/pad_link_companies.jpeg
@@ -19326,6 +19338,10 @@ odoo/addons/test_converter/models.py
 odoo/addons/test_converter/tests/__init__.py
 odoo/addons/test_converter/tests/test_gbf.py
 odoo/addons/test_converter/tests/test_html.py
+odoo/addons/test_data_module_install/__init__.py
+odoo/addons/test_data_module_install/__manifest__.py
+odoo/addons/test_data_module_install/tests/__init__.py
+odoo/addons/test_data_module_install/tests/test_data_module_installed.py
 odoo/addons/test_documentation_examples/__init__.py
 odoo/addons/test_documentation_examples/__manifest__.py
 odoo/addons/test_documentation_examples/delegation.py
@@ -19355,6 +19371,8 @@ odoo/addons/test_impex/__manifest__.py
 odoo/addons/test_impex/ir.model.access.csv
 odoo/addons/test_impex/models.py
 odoo/addons/test_impex/tests/__init__.py
+odoo/addons/test_impex/tests/contacts.json
+odoo/addons/test_impex/tests/contacts_big.json
 odoo/addons/test_impex/tests/test_export.py
 odoo/addons/test_impex/tests/test_load.py
 odoo/addons/test_inherit/__init__.py
@@ -19386,6 +19404,7 @@ odoo/addons/test_lint/tests/__init__.py
 odoo/addons/test_lint/tests/_odoo_checker_gettext.py
 odoo/addons/test_lint/tests/_odoo_checker_sql_injection.py
 odoo/addons/test_lint/tests/lint_case.py
+odoo/addons/test_lint/tests/test_dunderinit.py
 odoo/addons/test_lint/tests/test_ecmascript.py
 odoo/addons/test_lint/tests/test_markers.py
 odoo/addons/test_lint/tests/test_onchange_domains.py
@@ -22096,6 +22115,8 @@ odoo/addons/utm/views/utm_views.xml
 odoo/addons/web/Gruntfile.js
 odoo/addons/web/__init__.py
 odoo/addons/web/__manifest__.py
+odoo/addons/web/bower.json
+odoo/addons/web/package.json
 odoo/addons/web/controllers/__init__.py
 odoo/addons/web/controllers/main.py
 odoo/addons/web/controllers/pivot.py
@@ -22545,8 +22566,10 @@ odoo/addons/web/static/lib/moment/locale/zh-cn.js
 odoo/addons/web/static/lib/moment/locale/zh-hk.js
 odoo/addons/web/static/lib/moment/locale/zh-tw.js
 odoo/addons/web/static/lib/nearest/README.md
+odoo/addons/web/static/lib/nearest/bower.json
 odoo/addons/web/static/lib/nearest/jquery.nearest.js
 odoo/addons/web/static/lib/nearest/jquery.nearest.min.js
+odoo/addons/web/static/lib/nearest/nearest.jquery.json
 odoo/addons/web/static/lib/owl/owl.js
 odoo/addons/web/static/lib/pdfjs/build/pdf.js
 odoo/addons/web/static/lib/pdfjs/build/pdf.worker.js
@@ -24980,6 +25003,8 @@ odoo/addons/website_event/views/res_config_settings_views.xml
 odoo/addons/website_event/views/website_event_menu_views.xml
 odoo/addons/website_event/views/website_templates.xml
 odoo/addons/website_event/views/website_visitor_views.xml
+odoo/addons/website_event_crm/__init__.py
+odoo/addons/website_event_crm/__manifest__.py
 odoo/addons/website_event_crm/data/event_crm_demo.xml
 odoo/addons/website_event_crm/views/event_lead_rule_views.xml
 odoo/addons/website_event_crm_questions/__init__.py
