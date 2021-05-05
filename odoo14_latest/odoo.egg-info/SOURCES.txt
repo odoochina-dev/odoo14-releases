@@ -8532,6 +8532,7 @@ odoo/addons/l10n_ch/demo/account_cash_rounding.xml
 odoo/addons/l10n_ch/demo/demo_company.xml
 odoo/addons/l10n_ch/i18n/l10n_ch.pot
 odoo/addons/l10n_ch/i18n_extra/de.po
+odoo/addons/l10n_ch/i18n_extra/en_US.po
 odoo/addons/l10n_ch/i18n_extra/fr.po
 odoo/addons/l10n_ch/i18n_extra/it.po
 odoo/addons/l10n_ch/i18n_extra/l10n_ch.pot
