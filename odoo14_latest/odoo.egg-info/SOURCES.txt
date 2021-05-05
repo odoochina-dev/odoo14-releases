@@ -23493,6 +23493,7 @@ odoo/addons/web/static/src/js/libs/download.js
 odoo/addons/web/static/src/js/libs/fullcalendar.js
 odoo/addons/web/static/src/js/libs/jquery.js
 odoo/addons/web/static/src/js/libs/pdfjs.js
+odoo/addons/web/static/src/js/libs/popper.js
 odoo/addons/web/static/src/js/libs/underscore.js
 odoo/addons/web/static/src/js/libs/zoomodoo.js
 odoo/addons/web/static/src/js/public/lazyloader.js
