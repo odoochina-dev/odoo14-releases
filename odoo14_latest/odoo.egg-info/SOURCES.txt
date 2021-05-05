@@ -23901,6 +23901,7 @@ odoo/addons/website/static/tests/tours/public_user_editor.js
 odoo/addons/website/static/tests/tours/reset_password.js
 odoo/addons/website/static/tests/tours/restricted_editor.js
 odoo/addons/website/static/tests/tours/rte.js
+odoo/addons/website/static/tests/tours/snippet_empty_parent_autoremove.js
 odoo/addons/website/static/tests/tours/snippet_version.js
 odoo/addons/website/static/tests/tours/specific_website_editor.js
 odoo/addons/website/static/tests/tours/website_navbar_menu.js
@@ -23919,6 +23920,7 @@ odoo/addons/website/tests/test_page.py
 odoo/addons/website/tests/test_performance.py
 odoo/addons/website/tests/test_qweb.py
 odoo/addons/website/tests/test_res_users.py
+odoo/addons/website/tests/test_snippets.py
 odoo/addons/website/tests/test_theme.py
 odoo/addons/website/tests/test_ui.py
 odoo/addons/website/tests/test_views.py
