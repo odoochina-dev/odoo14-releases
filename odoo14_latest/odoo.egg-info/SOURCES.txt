@@ -23819,6 +23819,7 @@ odoo/addons/website/static/tests/tours/rte.js
 odoo/addons/website/static/tests/tours/snippet_version.js
 odoo/addons/website/static/tests/tours/specific_website_editor.js
 odoo/addons/website/static/tests/tours/website_navbar_menu.js
+odoo/addons/website/static/tests/tours/website_style_edition.js
 odoo/addons/website/tests/__init__.py
 odoo/addons/website/tests/template_qweb_test.xml
 odoo/addons/website/tests/test_attachment.py
