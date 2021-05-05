@@ -9141,6 +9141,11 @@ odoo/addons/l10n_it_edi/models/ir_mail_server.py
 odoo/addons/l10n_it_edi/models/res_company.py
 odoo/addons/l10n_it_edi/models/res_partner.py
 odoo/addons/l10n_it_edi/security/ir.model.access.csv
+odoo/addons/l10n_it_edi/tests/__init__.py
+odoo/addons/l10n_it_edi/tests/test_ir_mail_server.py
+odoo/addons/l10n_it_edi/tests/expected_xmls/IT01234567890_FPR01.xml
+odoo/addons/l10n_it_edi/tests/expected_xmls/IT01234567890_FPR01_DT_001.xml
+odoo/addons/l10n_it_edi/tests/expected_xmls/IT01234567890_FPR01_RC_001.xml
 odoo/addons/l10n_it_edi/views/l10n_it_view.xml
 odoo/addons/l10n_it_stock_ddt/__init__.py
 odoo/addons/l10n_it_stock_ddt/__manifest__.py
