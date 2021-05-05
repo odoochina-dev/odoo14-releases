@@ -8257,6 +8257,7 @@ odoo/addons/l10n_be_edi/data/account_edi_data.xml
 odoo/addons/l10n_be_edi/models/__init__.py
 odoo/addons/l10n_be_edi/models/account_edi_format.py
 odoo/addons/l10n_be_edi/models/account_move.py
+odoo/addons/l10n_be_edi/models/ir_actions_report.py
 odoo/addons/l10n_be_edi/security/security.xml
 odoo/addons/l10n_be_edi/test_xml_file/efff_test.xml
 odoo/addons/l10n_be_edi/tests/__init__.py
