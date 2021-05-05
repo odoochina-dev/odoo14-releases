@@ -18982,6 +18982,7 @@ odoo/addons/test_website/tests/test_error.py
 odoo/addons/test_website/tests/test_is_multilang.py
 odoo/addons/test_website/tests/test_multi_company.py
 odoo/addons/test_website/tests/test_performance.py
+odoo/addons/test_website/tests/test_redirect.py
 odoo/addons/test_website/tests/test_reset_views.py
 odoo/addons/test_website/tests/test_session.py
 odoo/addons/test_website/tests/test_views_during_module_operation.py
