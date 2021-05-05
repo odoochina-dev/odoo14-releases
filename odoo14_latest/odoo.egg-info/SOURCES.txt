@@ -9084,6 +9084,17 @@ odoo/addons/l10n_it_edi/models/res_company.py
 odoo/addons/l10n_it_edi/models/res_partner.py
 odoo/addons/l10n_it_edi/security/ir.model.access.csv
 odoo/addons/l10n_it_edi/views/l10n_it_view.xml
+odoo/addons/l10n_it_stock_ddt/__init__.py
+odoo/addons/l10n_it_stock_ddt/__manifest__.py
+odoo/addons/l10n_it_stock_ddt/data/l10n_it_ddt_template.xml
+odoo/addons/l10n_it_stock_ddt/models/__init__.py
+odoo/addons/l10n_it_stock_ddt/models/account_invoice.py
+odoo/addons/l10n_it_stock_ddt/models/stock_picking.py
+odoo/addons/l10n_it_stock_ddt/report/l10n_it_ddt_report.xml
+odoo/addons/l10n_it_stock_ddt/tests/__init__.py
+odoo/addons/l10n_it_stock_ddt/tests/test_ddt.py
+odoo/addons/l10n_it_stock_ddt/views/account_invoice_views.xml
+odoo/addons/l10n_it_stock_ddt/views/stock_picking_views.xml
 odoo/addons/l10n_jp/__init__.py
 odoo/addons/l10n_jp/__manifest__.py
 odoo/addons/l10n_jp/data/account.account.template.csv
