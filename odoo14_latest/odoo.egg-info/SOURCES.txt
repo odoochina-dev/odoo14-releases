@@ -19165,6 +19165,9 @@ odoo/addons/test_website/__manifest__.py
 odoo/addons/test_website/controllers/__init__.py
 odoo/addons/test_website/controllers/main.py
 odoo/addons/test_website/data/test_website_data.xml
+odoo/addons/test_website/models/__init__.py
+odoo/addons/test_website/models/model.py
+odoo/addons/test_website/security/ir.model.access.csv
 odoo/addons/test_website/static/src/js/test_error.js
 odoo/addons/test_website/static/tests/tours/custom_snippets.js
 odoo/addons/test_website/static/tests/tours/error_views.js
