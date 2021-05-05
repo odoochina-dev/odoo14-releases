@@ -4741,6 +4741,39 @@ QUnit.module('Views', {
         list.destroy();
     });
 
+    QUnit.test('groupby node with a button with modifiers using a many2one', async function (assert) {
+        assert.expect(5);
+
+        this.data.res_currency.fields.m2o = {string: "Currency M2O", type: "many2one", relation: "bar"};
+        this.data.res_currency.records[0].m2o = 1;
+
+        const list = await createView({
+            View: ListView,
+            model: 'foo',
+            data: this.data,
+            arch: `
+                <tree expand="1">
+                    <field name="foo"/>
+                    <groupby name="currency_id">
+                        <field name="m2o"/>
+                        <button string="Button 1" type="object" name="button_method" attrs='{"invisible": [("m2o", "=", false)]}'/>
+                    </groupby>
+                </tree>`,
+            mockRPC(route, args) {
+                assert.step(args.method);
+                return this._super(...arguments);
+            },
+            groupBy: ['currency_id'],
+        });
+
+        assert.containsOnce(list, '.o_group_header:eq(0) button.o_invisible_modifier');
+        assert.containsOnce(list, '.o_group_header:eq(1) button:not(.o_invisible_modifier)');
+
+        assert.verifySteps(['web_read_group', 'read']);
+
+        list.destroy();
+    });
+
     QUnit.test('reload list view with groupby node', async function (assert) {
         assert.expect(2);
 
@@ -7819,6 +7852,50 @@ QUnit.module('Views', {
             'write',
             'read',
         ]);
+
+        list.destroy();
+    });
+
+    QUnit.test('editable list view: click Discard, Cancel discard dialog and then Save in multi edition', async function (assert) {
+        assert.expect(5);
+
+        const list = await createView({
+            arch: `
+                <tree editable="top" multi_edit="1">
+                    <field name="foo"/>
+                </tree>`,
+            data: this.data,
+            model: 'foo',
+            View: ListView,
+        });
+
+        // select two records
+        await testUtils.dom.click(list.$('.o_data_row:eq(0) .o_list_record_selector input'));
+        await testUtils.dom.click(list.$('.o_data_row:eq(1) .o_list_record_selector input'));
+
+        await testUtils.dom.click(list.$('.o_data_row:first() .o_data_cell:first()'));
+        list.$('.o_data_row:first() .o_data_cell:first() input').val("oof");
+
+        const $discardButton = list.$buttons.find('.o_list_button_discard');
+
+        // Simulates an actual click (event chain is: mousedown > change > blur > focus > mouseup > click)
+        await testUtils.dom.triggerEvents($discardButton, ['mousedown']);
+        await testUtils.dom.triggerEvents(list.$('.o_data_row:first() .o_data_cell:first() input'),
+            ['change', 'blur', 'focusout']);
+        await testUtils.dom.triggerEvents($discardButton, ['focus']);
+        $discardButton[0].dispatchEvent(new MouseEvent('mouseup'));
+        await testUtils.dom.click($discardButton);
+
+        assert.ok($('.modal').text().includes("Warning"), "Modal should ask to discard changes");
+        await testUtils.dom.click($('.modal .btn:contains(Cancel)'));
+        assert.hasClass(list.$('.o_data_row:first'), 'o_selected_row',
+            "the first row should still be selected");
+
+        await testUtils.dom.click($('.o_list_button_save'));
+        assert.containsOnce(document.body, '.modal');
+        await testUtils.dom.click($('.modal .btn-primary'));
+        assert.containsNone(list, '.o_selected_row');
+        assert.strictEqual(list.$('.o_data_row .o_data_cell').text(), "oofoofgnapblip");
 
         list.destroy();
     });
