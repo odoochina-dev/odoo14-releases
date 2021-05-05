@@ -5710,6 +5710,7 @@ odoo/addons/google_calendar/static/src/xml/google_calendar_popover.xml
 odoo/addons/google_calendar/static/tests/google_calendar_tests.js
 odoo/addons/google_calendar/static/tests/mock_server.js
 odoo/addons/google_calendar/tests/__init__.py
+odoo/addons/google_calendar/tests/test_sync_common.py
 odoo/addons/google_calendar/tests/test_sync_google2odoo.py
 odoo/addons/google_calendar/tests/test_sync_odoo2google.py
 odoo/addons/google_calendar/utils/__init__.py
