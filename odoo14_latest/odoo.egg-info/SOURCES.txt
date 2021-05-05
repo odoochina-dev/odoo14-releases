@@ -9375,6 +9375,8 @@ odoo/addons/l10n_pe/data/res.city.csv
 odoo/addons/l10n_pe/data/res_country_data.xml
 odoo/addons/l10n_pe/demo/demo_company.xml
 odoo/addons/l10n_pe/demo/demo_partner.xml
+odoo/addons/l10n_pe/i18n/es.po
+odoo/addons/l10n_pe/i18n/l10n_pe.pot
 odoo/addons/l10n_pe/models/__init__.py
 odoo/addons/l10n_pe/models/account_move.py
 odoo/addons/l10n_pe/models/account_tax.py
