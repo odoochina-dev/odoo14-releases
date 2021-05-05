@@ -448,7 +448,7 @@ class AccountMove(models.Model):
     @api.onchange('payment_reference', 'ref')
     def _onchange_payment_reference(self):
         for line in self.line_ids.filtered(lambda line: line.account_id.user_type_id.type in ('receivable', 'payable')):
-            line.name = self.payment_reference or self.ref
+            line.name = self.payment_reference or self.ref or ''
 
     @api.onchange('invoice_vendor_bill_id')
     def _onchange_invoice_vendor_bill(self):
@@ -963,7 +963,7 @@ class AccountMove(models.Model):
                     # Create new line.
                     create_method = in_draft_mode and self.env['account.move.line'].new or self.env['account.move.line'].create
                     candidate = create_method({
-                        'name': self.payment_reference or '',
+                        'name': self.payment_reference or self.ref or '',
                         'debit': balance < 0.0 and -balance or 0.0,
                         'credit': balance > 0.0 and balance or 0.0,
                         'quantity': 1.0,
@@ -2844,17 +2844,15 @@ class AccountMove(models.Model):
 
         return rslt
 
-    @api.returns('mail.message', lambda value: value.id)
-    def message_post(self, **kwargs):
+    def _message_post_after_hook(self, new_message, message_values):
         # OVERRIDE
         # When posting a message, check the attachment to see if it's an invoice and update with the imported data.
-        res = super().message_post(**kwargs)
+        res = super()._message_post_after_hook(new_message, message_values)
 
-        attachment_ids = kwargs.get('attachment_ids', [])
-        if len(self) != 1 or not attachment_ids or self.env.context.get('no_new_invoice') or not self.is_invoice(include_receipts=True):
+        attachments = new_message.attachment_ids
+        if len(self) != 1 or not attachments or self.env.context.get('no_new_invoice') or not self.is_invoice(include_receipts=True):
             return res
 
-        attachments = self.env['ir.attachment'].browse(attachment_ids)
         odoobot = self.env.ref('base.partner_root')
         if attachments and self.state != 'draft':
             self.message_post(body=_('The invoice is not a draft, it was not updated from the attachment.'),

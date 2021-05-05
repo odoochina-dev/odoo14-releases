@@ -22926,6 +22926,7 @@ odoo/addons/web/static/tests/helpers/test_utils_mock.js
 odoo/addons/web/static/tests/helpers/test_utils_modal.js
 odoo/addons/web/static/tests/helpers/test_utils_pivot.js
 odoo/addons/web/static/tests/helpers/test_utils_tests.js
+odoo/addons/web/static/tests/report/client_action_tests.js
 odoo/addons/web/static/tests/services/crash_manager_tests.js
 odoo/addons/web/static/tests/services/data_manager_tests.js
 odoo/addons/web/static/tests/services/notification_service_tests.js
