@@ -26100,6 +26100,9 @@ odoo/addons/website_mass_mailing/static/src/js/website_mass_mailing.editor.js
 odoo/addons/website_mass_mailing/static/src/js/website_mass_mailing.js
 odoo/addons/website_mass_mailing/static/src/scss/website_mass_mailing_popup.scss
 odoo/addons/website_mass_mailing/static/src/xml/website_mass_mailing.xml
+odoo/addons/website_mass_mailing/static/tests/tours/newsletter_popup.js
+odoo/addons/website_mass_mailing/tests/__init__.py
+odoo/addons/website_mass_mailing/tests/test_snippets.py
 odoo/addons/website_mass_mailing/views/mailing_list_views.xml
 odoo/addons/website_mass_mailing/views/snippets_templates.xml
 odoo/addons/website_mass_mailing/views/website_mass_mailing_templates.xml
