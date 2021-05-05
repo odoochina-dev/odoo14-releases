@@ -25532,7 +25532,6 @@ odoo/addons/website_event_meet/models/__init__.py
 odoo/addons/website_event_meet/models/event_event.py
 odoo/addons/website_event_meet/models/event_meeting_room.py
 odoo/addons/website_event_meet/models/event_type.py
-odoo/addons/website_event_meet/models/ir_autovacuum.py
 odoo/addons/website_event_meet/models/website_event_menu.py
 odoo/addons/website_event_meet/security/ir.model.access.csv
 odoo/addons/website_event_meet/security/security.xml
