@@ -18350,6 +18350,7 @@ odoo/addons/sms/models/sms_api.py
 odoo/addons/sms/models/sms_sms.py
 odoo/addons/sms/models/sms_template.py
 odoo/addons/sms/security/ir.model.access.csv
+odoo/addons/sms/security/sms_security.xml
 odoo/addons/sms/static/img/sms_failure.svg
 odoo/addons/sms/static/src/bugfix/bugfix.js
 odoo/addons/sms/static/src/bugfix/bugfix.scss
