@@ -11711,6 +11711,7 @@ odoo/addons/mrp_subcontracting/wizard/stock_picking_return_views.xml
 odoo/addons/mrp_subcontracting_account/__init__.py
 odoo/addons/mrp_subcontracting_account/__manifest__.py
 odoo/addons/mrp_subcontracting_account/models/__init__.py
+odoo/addons/mrp_subcontracting_account/models/stock_location.py
 odoo/addons/mrp_subcontracting_account/models/stock_picking.py
 odoo/addons/mrp_subcontracting_account/tests/__init__.py
 odoo/addons/mrp_subcontracting_account/tests/test_subcontracting_account.py
@@ -23925,6 +23926,7 @@ odoo/addons/website/tests/test_snippets.py
 odoo/addons/website/tests/test_theme.py
 odoo/addons/website/tests/test_ui.py
 odoo/addons/website/tests/test_views.py
+odoo/addons/website/tests/test_views_inherit_module_update.py
 odoo/addons/website/tests/test_website_favicon.py
 odoo/addons/website/tests/test_website_reset_password.py
 odoo/addons/website/tests/test_website_visitor.py
