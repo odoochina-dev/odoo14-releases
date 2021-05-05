@@ -1,0 +1,2 @@
+git config user.name odoo-china-dev
+git config user.email "znys@odoochina.dev"
