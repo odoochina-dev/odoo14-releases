@@ -218,6 +218,7 @@ odoo/addons/account/tests/test_payment_term.py
 odoo/addons/account/tests/test_portal_attachment.py
 odoo/addons/account/tests/test_reconciliation.py
 odoo/addons/account/tests/test_reconciliation_matching_rules.py
+odoo/addons/account/tests/test_sequence_mixin.py
 odoo/addons/account/tests/test_settings.py
 odoo/addons/account/tests/test_tax.py
 odoo/addons/account/tests/test_tax_report.py
